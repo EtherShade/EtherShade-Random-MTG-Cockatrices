@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CFS</name>
+      <longname>Contained Forces</longname>
+      <settype>Contained Forces</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Power of Will</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a blue card.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Power of Order</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a white card.
+Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Library of Chains</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Draw a card. At the beginning of the next end step, if you haven’t discarded a card this turn, discard a card.</text>
+    </card>
+    <card>
+      <name>Chalice of Eternity</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>X2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to cast Chalice of Eternity, discard X cards or one card, whichever is greater.
+Chalice of Eternity enters with X charge counters on it.
+Whenever a player casts a spell with mana value equal to the number of charge counters on Chalice of Eternity, counter that spell.</text>
+    </card>
+    <card>
+      <name>Microchannel</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay 1 life.
+Draw a card. Add {C}.</text>
+    </card>
+    <card>
+      <name>Ancient Recollection</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Mindvoid Minion</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Thrull </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast this spell, draw a card.</text>
+    </card>
+    <card>
+      <name>Voucher 1</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Sorcery - Voucher </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(At the start of the game, note a card name for each voucher card in your deck.)
+Search your library for a card with the name you noted to Voucher 1 this game, reveal it, then shuffle and put that card on top.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Voucher 2</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery - Voucher </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(At the start of the game, note a card name for each unique voucher card in your deck.)
+Search your library for a card with the name you noted to Voucher 2 this game, reveal it, put it into your hand, then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Voucher 3</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Instant - Voucher </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(At the start of the game, note a card name for each voucher card in your deck.)
+Search your library for a card with the name you noted to Voucher 3 this game, reveal it, put it into your hand, then shuffle.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Starter Forest</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Starter </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When drawing your starting hand, you may draw up to three less cards to put that many Starter cards from your sideboard into your hand after mulligans are over.)
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Starter Island</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Starter </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When drawing your starting hand, you may draw up to three less cards to put that many Starter cards from your sideboard into your hand after mulligans are over.)
+{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>Starter Mountain</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Starter </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When drawing your starting hand, you may draw up to three less cards to put that many Starter cards from your sideboard into your hand after mulligans are over.)
+{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Starter Plains</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Starter </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When drawing your starting hand, you may draw up to three less cards to put that many Starter cards from your sideboard into your hand after mulligans are over.)
+{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Starter Swamp</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Starter </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(When drawing your starting hand, you may draw up to three less cards to put that many Starter cards from your sideboard into your hand after mulligans are over.)
+{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Micromorphose</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add one mana of any color. Draw a card.</text>
+    </card>
+    <card>
+      <name>Power of Subtlety</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a blue card.
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Power of Loyalty</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a white card.
+Counter target spell that targets you or a permanent you control.</text>
+    </card>
+    <card>
+      <name>Power of Persistence</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a black card.
+Return target creature card from a graveyard to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Power of Purity</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a white card.
+Destroy target enchantment. Draw a card.</text>
+    </card>
+    <card>
+      <name>Power of Knowledge</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a blue card.
+Put target permanent into its owner’s library third from the top.</text>
+    </card>
+    <card>
+      <name>Power of Death</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a black card.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Power of Fear</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a black card.
+Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Power of Life</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a green card.
+Target creature you control gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Power of Chaos</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a red card.
+Destroy target artifact. Exile the top card of your library. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Power of Courage</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a red card.
+Change the target of target spell or ability with a single target.</text>
+    </card>
+    <card>
+      <name>Power of Wealth</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a red card.
+Power of Wealth deals 5 damage to target creature or planeswalker. That permanent’s controller creates two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Power of Strength</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a green card.
+For each creature you control, choose one —
+• That creature deals damage equal to its power to any target.
+• Destroy target nonland noncreature permanent with mana value less than that creature’s power.</text>
+    </card>
+    <card>
+      <name>Power of Nature</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a green card.
+Destroy target artifact. Draw a card.</text>
+    </card>
+    <card>
+      <name>Nine to the Power of Nine Lives Familar</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nine to the Power of Nine Lives Familar enters each opponent loses 1 life and you gain 1 life.
+{B}, Sacrifice a non-Cat permanent: Return Nine to the Power of Nine Lives Familar from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Cleric of Power</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: You gain 1 life. At the beginning of the next end step, if you haven’t lost life this turn, you lose 1 life.</text>
+    </card>
+    <card>
+      <name>The Glistening Chains</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>H/WH/UH/BH/RH/G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells you cast cost {1} less to cast.
+Spells you cast cost 2 life less to cast.</text>
+    </card>
+    <card>
+      <name>Aresh Norn, Heir to New Phyrexia</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Phyrexian Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other creatures you control get +3/+1.
+Creatures your opponents control get -1/-3.</text>
+    </card>
+    <card>
+      <name>Ancient Law</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player draws two cards.</text>
+    </card>
+    <card>
+      <name>Ancient Dominion</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards two cards.</text>
+    </card>
+    <card>
+      <name>Ancient Crime</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Ancient Tradition</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards from the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Failure Incarnate</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever a spell you control is countered, Failure Incarnate deals 1 damage to each opponent and you create a Treasure token.
+Boast — 1R: Counter target spell you control. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>Yawgak, Heir to Old Phyrexia</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Phyrexian Noble </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Other creatures you control have ward {H/B} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {H/B}.)
+Creatures your opponents control have “Whenever this creature becomes the target of a spell or ability, sacrifice it unless you pay {H/B}.</text>
+    </card>
+    <card>
+      <name>Minion March</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 colorless Thrull creature tokens.</text>
+    </card>
+    <card>
+      <name>The Balancer</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card.
+[-1]: Put a basic land type counter of your choice on target land or a color counter of your choice on target nonland permanent.
+[-3]: Put target permanent with two or more types of counters on it into its owner’s library third from the top.
+[-7]: You get an emblem with “If you would add a mana of a color you haven’t added mana of this turn, instead add two of that mana.”</text>
+    </card>
+    <card>
+      <name>Nonspecialist</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Noncreature spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Prioritize</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, you may cast spells as if they had flash.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Bastionite Veteran</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Blisterblood Stone</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a creature: Create a Treasure token.
+Sacrifice Blisterblood Stone: Draw two cards. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Bastionite Berserker</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess</text>
+    </card>
+    <card>
+      <name>Expendable Riches</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Treasure tokens. Draw a card.</text>
+    </card>
+    <card>
+      <name>The Stompy Foot</name>
+      <set rarity="rare">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>5/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, deathtouch
+The Stompy Foot has indestructible as long as its attacking.</text>
+    </card>
+    <card>
+      <name>Nature&apos;s Footprint</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Bastionite Guardbeasts</name>
+      <set rarity="uncommon">CFS</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Bastionite Guardbeasts dies, if its not a token, create a token that’s a copy of it.</text>
+    </card>
+    <card>
+      <name>Tempoic Plains</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tempoic Plains enters tapped.
+When Tempoic Plains enters, sacrifice it unless you discard a card.
+{T}: Add WW.</text>
+    </card>
+    <card>
+      <name>Tempoic Island</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tempoic Island enters tapped.
+When Tempoic Island enters, sacrifice it unless you discard a card.
+{T}: Add UU.</text>
+    </card>
+    <card>
+      <name>Tempoic Mountain</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tempoic Mountain enters tapped.
+When Tempoic Mountain enters, sacrifice it unless you discard a card.
+{T}: Add RR.</text>
+    </card>
+    <card>
+      <name>Tempoic Forest</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tempoic Forest enters tapped.
+When Tempoic Forest enters, sacrifice it unless you discard a card.
+{T}: Add GG.</text>
+    </card>
+    <card>
+      <name>Tempoic Swamp</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tempoic Swamp enters tapped.
+When Tempoic Swamp enters, sacrifice it unless you discard a card.
+{T}: Add BB.</text>
+    </card>
+    <card>
+      <name>Ancient Plains</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.
+{T}, Sacrifice Ancient Plains: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Island</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.
+{T}, Sacrifice Ancient Island: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Swamp</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.
+{T}, Sacrifice Ancient Swamp: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Forest</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.
+{T}, Sacrifice Ancient Forest: Draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Mountain</name>
+      <set rarity="common">CFS</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.
+{T}, Sacrifice Ancient Mountain: Draw a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Thrull</name>
+      <set>CFS</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Thrull </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
