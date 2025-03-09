@@ -1,0 +1,1662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>EUC</name>
+      <longname>Ether Unchained</longname>
+      <settype>Ether Unchained</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Unchained Bazaar</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Put a stun counter on Unchained Bazaar: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Unchained Library</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: If you haven’t cast any spells this turn, draw a card and you can’t cast spells this turn.</text>
+    </card>
+    <card>
+      <name>Unchained Bank</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Draw a card. At the beginning of the next end step, if you haven’t discarded any cards this turn, discard a card.</text>
+    </card>
+    <card>
+      <name>Power of Loyalty</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a white card.
+Counter target spell that targets you or a permanent you control.</text>
+    </card>
+    <card>
+      <name>Power of Order</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a white card.
+Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Power of Purity</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a white card.
+Destroy target enchantment. Draw a card.</text>
+    </card>
+    <card>
+      <name>Power of Knowledge</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a blue card.
+Put target permanent into its owner’s library third from the top.</text>
+    </card>
+    <card>
+      <name>Power of Subtlety</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a blue card.
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Power of Will</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a blue card.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Power of Death</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a black card.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Power of Fear</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a black card.
+Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Power of Persistence</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a black card.
+Return target creature card from a graveyard to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Power of Chaos</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a red card.
+Destroy target artifact. Exile the top card of your library. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Power of Courage</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a red card.
+Change the target of target spell or ability with a single target.</text>
+    </card>
+    <card>
+      <name>Power of Wealth</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a red card.
+Choose one —
+• Power of Wealth deals 5 damage to target creature or planeswalker. That permanent’s controller creates two Treasure tokens.
+• Destroy target land. That permanent’s controller creates two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>Power of Life</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a green card.
+Target creature you control gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Power of Nature</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a green card.
+Destroy target artifact. Draw a card.</text>
+    </card>
+    <card>
+      <name>Power of Strength</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a green card.
+For each creature you control, choose one —
+• That creature deals damage equal to its power to any target.
+• Destroy target nonland noncreature permanent with mana value less than that creature’s power.</text>
+    </card>
+    <card>
+      <name>Unchained Temple</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: You gain 3 life. At the beginning of the next end step, if you haven’t lost life this turn, you lose 3 life.</text>
+    </card>
+    <card>
+      <name>Tales of the Fae</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Saga </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Tales of the Fae gains “{T}: Add {C}.”
+II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
+III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Unchained Citadel</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Unchained Citadel enters, if it’s not a token, create a token that’s a copy of it.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Animated Armory</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land - Equipment </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Equipped creature has “Tap an untapped equipment attached to this creature: Add CC.”
+Equip {T}</text>
+    </card>
+    <card>
+      <name>Animated Tower</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Aura </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Enchant land
+Enchanted land is an enchantment in addition to its other types and has “{T}: Add two mana of any one color.”</text>
+    </card>
+    <card>
+      <name>The Font of Oil</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>H/WH/UH/BH/RH/G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells you cast cost 2 life less to cast.
+{T}: Exile cards from the top of your library until you exile a card with Phyrexian mana in its cost. Put it into your hand.</text>
+    </card>
+    <card>
+      <name>Karn Redeemed</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Karn </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
+[+1]: Until end of turn, if you activate an ability of an artifact, that ability activates twice.
+[-2]: You may reveal an artifact card you own from outside the game and put it into your hand.</text>
+    </card>
+    <card>
+      <name>Stealthy Snacker</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Cycling {U} ({U}, Discard this card: Draw a card.)
+Whenever you draw your third card each turn, return Stealthy Snacker from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Embodiment of the Fey</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>9</manacost>
+        <cmc>9</cmc>
+        <type>Enchantment Creature - Avatar Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+This spell costs {1} less to cast for each card you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>Karnite</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts. (This spell costs {1} less to cast for each artifacts. you control.)
+{T}: Target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Karnite Enforcer</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts. (This spell costs {1} less to cast for each artifacts. you control.)
+Whenever Karnite Enforcer becomes the target of a spell or ability, it gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Feylusion</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Faerie Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Whenever Feylusion becomes the target of a spell or ability, sacrifice it and you draw a card.</text>
+    </card>
+    <card>
+      <name>Babbling Bauble</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+Sacrifice Babbling Bauble: Draw a card. Look at the top two cards of target opponent’s library.</text>
+    </card>
+    <card>
+      <name>Karnithoper</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact Creature - Thopter Golem </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Equipped creature has flying.
+Reconfigure {1} ({1}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</text>
+    </card>
+    <card>
+      <name>Essence of Heartbeat</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Faerie Anthem</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Enchantment creatures you control get +1/+1.
+Enchantments you control have ward {1}.</text>
+    </card>
+    <card>
+      <name>Natural Essence</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Natural Essence: Destroy target artifact. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Pure Essence</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Pure Essence: Destroy target enchantment. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Reanimoeba</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a permanent enters, if it entered from your graveyard or you cast it from your graveyard, you may shuffle Reanimoeba and another card from your graveyard into your library. If you do, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Oilborn Barricade</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>H/U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Phyrexian Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+    </card>
+    <card>
+      <name>Vanishing Knowledge</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever you draw a card, you may discard Vanishing Knowledge. If you do, each opponent loses 2 life.
+Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Charm of Reuse</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Any time you could mulligan and Charm of Reuse is in your hand, you may exile it from your hand, then shuffle your hand into your library, then draw seven cards. (You can do this in addition to taking mulligans.)</text>
+    </card>
+    <card>
+      <name>Unchained Grave</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Skullduggery 2 {2} (If you would draw a card, you may mill two cards and pay {2} instead. If you do, return this card from your graveyard to the battlefield under your control.)
+Unchained Grave enters tapped.
+{T}: Add {C}.
+{T}, Put a stun counter on Unchained Grave: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Oil Plague</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>H/BH/BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell with Phyrexian mana in its cost, if you chose to pay life for all of its Phyrexian mana pips, each opponent loses X life, where X is that spell’s mana value.
+Whenever you cast a spell with Phyrexian mana in its cost, if you chose to pay mana for all of its Phyrexian mana pips, you gain X life, where X is that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Faewood Caretaker</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Faerie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add X {C}, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>Bountiful Blessings of Fae</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost>X1</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bountiful Blessings of Fae enters, put X +1/+1 counters on target creature.
+Sacrifice Bountiful Blessings of Fae: Counter target spell that targets an enchantment you control.</text>
+    </card>
+    <card>
+      <name>Oilborn Elves</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>H/G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Elf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}. Activate only if you’ve lost 4 or more life this turn.</text>
+    </card>
+    <card>
+      <name>Oilborn Medic</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>H/W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: You gain 1 life.
+{1}, {T}: Create a 1/1 white Phyrexian Soldier creature token. If you’ve gained life this turn, put a +1/+1 counter on it.
+Whenever you cast a spell, if you paid life to cast it, untap Oilborn Medic.</text>
+    </card>
+    <card>
+      <name>Oilborn Catapult</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>H/R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Phyrexian Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Oilborn Catapult deals 1 damage to each opponent.
+Whenever you cast a spell, if you paid life to cast it, untap Oilborn Catapult.</text>
+    </card>
+    <card>
+      <name>Raeka, Giada&apos;s Heir</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If Raeka, Giada’s Heir would deal damage to a creature, instead put that many +1/+1 counters on that creature.
+If Raeka, Giada’s Heir would deal damage to a player, instead that player gains that much life.</text>
+    </card>
+    <card>
+      <name>Raeka, Font of Purity</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a creature you control would deal damage to a creature, instead put that many +1/+1 counters on that creature.
+If a creature you control would deal damage to a player, instead that player gains that much life.</text>
+    </card>
+    <card>
+      <name>Maniacal Laboratory</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {U}.
+If you would draw a card while your library has no cards in it, you win the game instead.</text>
+    </card>
+    <card>
+      <name>Mirror Halls</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+The “legend rule” doesn’t apply.</text>
+    </card>
+    <card>
+      <name>Conditioned Retrieval</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it’s your turn.
+This spell costs {1} less to cast if it targets a creature.
+This spell costs {1} less to cast if it targets a permanent you control.
+Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Grinding Investigation</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Oracle of the Grind</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oracle of the Grind enters, conjure ten cards named Grinding Investigation into your library, then shuffle.</text>
+    </card>
+    <card>
+      <name>War of Wits</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, if your library has at least twice as many cards as your starting deck size, you win the game.</text>
+    </card>
+    <card>
+      <name>Cathedral of Blood</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Blood enters tapped.
+When Cathedral of Blood enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Bone</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Bone enters tapped.
+When Cathedral of Bone enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Darkness</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Darkness enters tapped.
+When Cathedral of Darkness enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Death</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Death enters tapped.
+When Cathedral of Death enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Fire</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Fire enters tapped.
+When Cathedral of Fire enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Frost</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Frost enters tapped.
+When Cathedral of Frost enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Life</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Life enters tapped.
+When Cathedral of Life enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Light</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Light enters tapped.
+When Cathedral of Light enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Lightning</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Lightning enters tapped.
+When Cathedral of Lightning enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Cathedral of Water</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathedral of Water enters tapped.
+When Cathedral of Water enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Blood</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Blood enters tapped.
+When Chapel of Inverted Blood enters, scry 1.
+{T}: Add {G}, {W}, or {U}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Bone</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Bone enters tapped.
+When Chapel of Inverted Bone enters, scry 1.
+{T}: Add {G}, {U}, or {R}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Darkness</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Darkness enters tapped.
+When Chapel of Inverted Darkness enters, scry 1.
+{T}: Add {R}, {G}, or {W}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Death</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Death enters tapped.
+When Chapel of Inverted Death enters, scry 1.
+{T}: Add {U}, {R}, or {W}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Fire</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Fire enters tapped.
+When Chapel of Inverted Fire enters, scry 1.
+{T}: Add {W}, {U}, or {B}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Frost</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Frost enters tapped.
+When Chapel of Inverted Frost enters, scry 1.
+{T}: Add {B}, {R}, or {G}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Life</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Life enters tapped.
+When Chapel of Inverted Life enters, scry 1.
+{T}: Add {U}, {B}, or {R}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Light</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Light enters tapped.
+When Chapel of Inverted Light enters, scry 1.
+{T}: Add {B}, {G}, or {U}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Lightning</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Lightning enters tapped.
+When Chapel of Inverted Lightning enters, scry 1.
+{T}: Add {W}, {B}, or {G}.</text>
+    </card>
+    <card>
+      <name>Chapel of Inverted Water</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Chapel of Inverted Water enters tapped.
+When Chapel of Inverted Water enters, scry 1.
+{T}: Add {R}, {W}, or {B}.</text>
+    </card>
+    <card>
+      <name>Echoing Vista</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Echoing Vista enters tapped.
+When Echoing Vista enters, untap another target land.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Path of Blood</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Blood enters tapped.
+When Path of Blood enters, return a land you control to its owner’s hand.
+{T}: Add BR.</text>
+    </card>
+    <card>
+      <name>Path of Bone</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Bone enters tapped.
+When Path of Bone enters, return a land you control to its owner’s hand.
+{T}: Add WB.</text>
+    </card>
+    <card>
+      <name>Path of Commons</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Commons enters with a stun counter.
+When Path of Commons enters, return a land you control to its owner’s hand.
+{T}: Add CC.</text>
+    </card>
+    <card>
+      <name>Path of Darkness</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Darkness enters tapped.
+When Path of Darkness enters, return a land you control to its owner’s hand.
+{T}: Add UB.</text>
+    </card>
+    <card>
+      <name>Path of Death</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Death enters tapped.
+When Path of Death enters, return a land you control to its owner’s hand.
+{T}: Add BG.</text>
+    </card>
+    <card>
+      <name>Path of Fire</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Fire enters tapped.
+When Path of Fire enters, return a land you control to its owner’s hand.
+{T}: Add RG.</text>
+    </card>
+    <card>
+      <name>Path of Frost</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Frost enters tapped.
+When Path of Frost enters, return a land you control to its owner’s hand.
+{T}: Add WU.</text>
+    </card>
+    <card>
+      <name>Path of Life</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Life enters tapped.
+When Path of Life enters, return a land you control to its owner’s hand.
+{T}: Add GW.</text>
+    </card>
+    <card>
+      <name>Path of Light</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Light enters tapped.
+When Path of Light enters, return a land you control to its owner’s hand.
+{T}: Add RW.</text>
+    </card>
+    <card>
+      <name>Path of Lightning</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Lightning enters tapped.
+When Path of Lightning enters, return a land you control to its owner’s hand.
+{T}: Add UR.</text>
+    </card>
+    <card>
+      <name>Path of Water</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Path of Water enters tapped.
+When Path of Water enters, return a land you control to its owner’s hand.
+{T}: Add GU.</text>
+    </card>
+    <card>
+      <name>Volcano of Blood</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Blood enters tapped.
+When Volcano of Blood enters, it deals 1 damage to target opponent.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Volcano of Bone</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Bone enters tapped.
+When Volcano of Bone enters, it deals 1 damage to target opponent.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Volcano of Darkness</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Darkness enters tapped.
+When Volcano of Darkness enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Volcano of Death</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Death enters tapped.
+When Volcano of Death enters, it deals 1 damage to target opponent.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Volcano of Fire</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Fire enters tapped.
+When Volcano of Fire enters, it deals 1 damage to target opponent.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Volcano of Frost</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Frost enters tapped.
+When Volcano of Frost enters, it deals 1 damage to target opponent.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Volcano of Life</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Life enters tapped.
+When Volcano of Life enters, it deals 1 damage to target opponent.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Volcano of Light</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Light enters tapped.
+When Volcano of Light enters, it deals 1 damage to target opponent.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Volcano of Lightning</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Lightning enters tapped.
+When Volcano of Lightning enters, it deals 1 damage to target opponent.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Volcano of Water</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Volcano of Water enters tapped.
+When Volcano of Water enters, it deals 1 damage to target opponent.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">EUC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>Cultist of Frost</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cultist of Frost enters, tap target creature and put two stun counters on it.</text>
+    </card>
+    <card>
+      <name>Frost, in the Flesh</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Frost, in the Flesh enters, remove any number of stun counters from creatures your opponents control. When you do, draw that many cards and put that many +1/+1 counters on Frost, in the Flesh.</text>
+    </card>
+    <card>
+      <name>Frost Prison Guard</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1W, {T}: Tap target creature. Put two stun counters on it.</text>
+    </card>
+    <card>
+      <name>Chilling Touch</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put three stun counters on target creature. Draw a card.</text>
+    </card>
+    <card>
+      <name>Chilling Eminence</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+{1}: Choose one that wasn’t the last one chosen this turn —
+• Tap target creature.
+• Put a stun counter on target creature.</text>
+    </card>
+    <card>
+      <name>Foul Flingery</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a creature. That creature deals damage equal to its power to any target. If you controlled that target, repeat this process. (The process repeats until it has a target you don’t control.)</text>
+    </card>
+    <card>
+      <name>Exchange Rate</name>
+      <set rarity="uncommon">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exchange control of two target permanents with the same mana value.</text>
+    </card>
+    <card>
+      <name>Rogerek, Heir of Rosnakht</name>
+      <set rarity="rare">EUC</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Kobold Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Rogerek, Heir of Rosnakht gets +1/+1 for each counter on it.</text>
+    </card>
+    <card>
+      <name>Hounds of the Skull</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skullduggery 3 2B (If you would draw a card, you may mill three cards and pay 2B instead. If you do, return this card from your graveyard to the battlefield under your control.)
+Menace</text>
+    </card>
+    <card>
+      <name>Library Ravens</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw your third or seventh card each turn, you may reveal Library Ravens from your hand or graveyard. When you do, put it onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Thinking in Squares</name>
+      <set rarity="common">EUC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Flashback—1B, Pay 2 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
