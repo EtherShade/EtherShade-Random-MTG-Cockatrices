@@ -231,7 +231,7 @@ Whenever a spell you control is countered, Failure Incarnate deals 1 damage to e
 Boast — 1R: Counter target spell you control. (Activate only if this creature attacked this turn and only once each turn.)</text>
     </card>
     <card>
-      <name>Lightning Blast</name>
+      <name>Thunderboom</name>
       <set rarity="common">ECP</set>
       <prop>
         <colors>R</colors>
@@ -242,9 +242,9 @@ Boast — 1R: Counter target spell you control. (Activate only if this creature 
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
-• Lightning Blast deals 1 damage to up to three target creatures.
-• Lightning Blast deals 2 damage to target creature and 1 damage to another target creature.
-• Lightning Blast deals 2 damage to target creature. Surveil 1.</text>
+• Thunderboom deals 1 damage to up to three target creatures.
+• Thunderboom deals 2 damage to target creature and 1 damage to another target creature.
+• Thunderboom deals 2 damage to target creature. Surveil 1.</text>
     </card>
     <card>
       <name>Norin, the Fearful</name>
@@ -1212,7 +1212,7 @@ If you would draw a card while your library has no cards in it, you win the game
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Tales of the Fae gains “{T}: Add {C}.”
 II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
 III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
@@ -2267,7 +2267,7 @@ Ward—Pay 7 life.</text>
 At the beginning of each player’s draw step, that player draws an additional card.</text>
     </card>
     <card>
-      <name>Crown of Doom</name>
+      <name>Crown of Doomsday</name>
       <set rarity="common">ECP</set>
       <prop>
         <colors>B</colors>
