@@ -1257,9 +1257,7 @@ III — Search your library for an enchantment card with mana value 1, put it on
       </prop>
       <tablerow>0</tablerow>
       <text>Skullduggery 2 {2} (If you would draw a card, you may mill two cards and pay {2} instead. If you do, return this card from your graveyard to the battlefield under your control.)
-Unchained Grave enters tapped.
-{T}: Add {C}.
-{T}, Put a stun counter on Unchained Grave: Draw a card, then discard a card.</text>
+{T}: Add {C}.</text>
     </card>
     <card>
       <name>Unchained Library</name>
@@ -1347,7 +1345,7 @@ Sacrifice Babbling Bauble: Draw a card. Look at the top two cards of target oppo
     </card>
     <card>
       <name>Karnite</name>
-      <set rarity="uncommon">ECP</set>
+      <set rarity="common">ECP</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -1476,7 +1474,7 @@ The “legend rule” doesn’t apply.</text>
       <tablerow>2</tablerow>
       <text>{T}: You gain 1 life.
 {1}, {T}: Create a 1/1 white Phyrexian Soldier creature token. If you’ve gained life this turn, put a +1/+1 counter on it.
-Whenever you cast a spell, if you paid life to cast it, untap Oilborn Medic.</text>
+Whenever you cast a spell, if has phyrexian mana in its cost, untap Oilborn Medic.</text>
     </card>
     <card>
       <name>Word of Loyalty</name>
@@ -1750,7 +1748,7 @@ Flashback—1B, Pay 2 life. (You may cast this card from your graveyard for its 
     </card>
     <card>
       <name>Hounds of the Skull</name>
-      <set rarity="common">ECP</set>
+      <set rarity="uncommon">ECP</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1845,7 +1843,7 @@ Return target creature card from a graveyard to the battlefield under your contr
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Oilborn Catapult deals 1 damage to each opponent.
-Whenever you cast a spell, if you paid life to cast it, untap Oilborn Catapult.</text>
+Whenever you cast a spell, if has phyrexian mana in its cost, untap Oilborn Catapult.</text>
     </card>
     <card>
       <name>Word of Chaos</name>
@@ -1931,7 +1929,7 @@ Choose one —
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: Add {G}. Activate only if you’ve lost 4 or more life this turn.</text>
+      <text>{T}: Add {G}. Activate only if you’ve cast a spell with phyrexian mana in its cost this turn.</text>
     </card>
     <card>
       <name>Word of Life</name>
@@ -2131,7 +2129,7 @@ Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</te
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for a creature, artifact, or enchantment card, reveal it, put it into your hand, then shuffle.</text>
+      <text>Search your library for a creature, planeswalker, or enchantment card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Tutor of Sapphire</name>
@@ -2157,7 +2155,7 @@ Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</te
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for an enchantment card, a land card, or a card with phyrexian mana in its cost, reveal it, put it into your hand, then shuffle.</text>
+      <text>Search your library for an enchantment card, a planeswalker card, or a card with phyrexian mana in its cost, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Tutor of Ruby</name>
@@ -2170,7 +2168,7 @@ Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</te
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Search your library for an artifact, sorcery, or creature card, reveal it, put it into your hand, then shuffle.</text>
+      <text>Search your library for an artifact, sorcery, or land card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Tutor of Emerald</name>
@@ -2231,7 +2229,7 @@ Equip {1}</text>
         <pt>7/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When The Lord of Sevens enters, draw seven cards, then discard seven cards.
+      <text>When The Lord of Sevens enters, you may draw seven cards, then discard seven cards.
 First strike, vigilance
 Menace, trample
 Reach, lifelink
@@ -2239,7 +2237,7 @@ Ward—Pay 7 life.</text>
     </card>
     <card>
       <name>Karnite Reconstructor</name>
-      <set rarity="common">ECP</set>
+      <set rarity="uncommon">ECP</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -2267,17 +2265,17 @@ Ward—Pay 7 life.</text>
 At the beginning of each player’s draw step, that player draws an additional card.</text>
     </card>
     <card>
-      <name>Crown of Doomsday</name>
+      <name>The Crown of Doomsday</name>
       <set rarity="common">ECP</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
         <cmc>2</cmc>
-        <type>Artifact</type>
+        <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Equipped creature has “If an opponent would lose life, that player loses twice that much life instead.”
+      <text>Equipped creature has “If an opponent would lose life from a source other than combat damage, that player loses twice that much life instead.”
 Equip 2B</text>
     </card>
     <card>
@@ -2297,11 +2295,11 @@ Karnite Bruteling can’t be blocked by creatures without haste.</text>
     </card>
     <card>
       <name>Horrific Parasite</name>
-      <set rarity="common">ECP</set>
+      <set rarity="uncommon">ECP</set>
       <prop>
         <colors>B</colors>
-        <manacost>B</manacost>
-        <cmc>1</cmc>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -2311,7 +2309,7 @@ Karnite Bruteling can’t be blocked by creatures without haste.</text>
     </card>
     <card>
       <name>Dredgern, Heir to Sheoldred</name>
-      <set rarity="common">ECP</set>
+      <set rarity="rare">ECP</set>
       <prop>
         <colors>B</colors>
         <manacost>1H/BH/BB</manacost>
@@ -2327,7 +2325,7 @@ Whenever an opponent draws a card, that player loses 1 life.</text>
     </card>
     <card>
       <name>Art of Creation</name>
-      <set rarity="common">ECP</set>
+      <set rarity="uncommon">ECP</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
