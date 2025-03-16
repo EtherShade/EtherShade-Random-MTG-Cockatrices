@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Mar 14 17:57:26 2025</lastLoadedTimestamp>
+    <deckname>1 ECP Oil</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Oil Plague" setShortName="ECP"/>
+        <card number="4" name="Oilborn Barricade" setShortName="ECP"/>
+        <card number="4" name="Oilborn Catapult" setShortName="ECP"/>
+        <card number="4" name="Oilborn Elves" setShortName="ECP"/>
+        <card number="4" name="Oilborn Medic" setShortName="ECP"/>
+        <card number="4" name="The Font of Oil" setShortName="ECP"/>
+        <card number="2" name="Dredgern, Heir to Sheoldred" setShortName="ECP"/>
+        <card number="4" name="Tutor of Jet" setShortName="ECP"/>
+        <card number="4" name="Word of Fear" setShortName="ECP"/>
+        <card number="4" name="Word of Death" setShortName="ECP"/>
+        <card number="4" name="Archive of Blood" setShortName="ECP"/>
+        <card number="4" name="Archive of Bone" setShortName="ECP"/>
+        <card number="4" name="Archive of Darkness" setShortName="ECP"/>
+        <card number="4" name="Archive of Death" setShortName="ECP"/>
+        <card number="1" name="Road of Blood" setShortName="ECP"/>
+        <card number="1" name="Road of Bone" setShortName="ECP"/>
+        <card number="4" name="Mirror Halls" setShortName="ECP"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Word of Persistence" setShortName="ECP"/>
+    </zone>
+</cockatrice_deck>

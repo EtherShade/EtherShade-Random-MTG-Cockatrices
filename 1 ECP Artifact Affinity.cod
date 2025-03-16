@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Mar 15 16:21:12 2025</lastLoadedTimestamp>
+    <deckname>1 ECP Artifact Affinity</deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Karn Redeemed" setShortName="ECP"/>
+        <card number="3" name="Karnite" setShortName="ECP"/>
+        <card number="3" name="Karnite Enforcer" setShortName="ECP"/>
+        <card number="4" name="Tutor of Ruby" setShortName="ECP"/>
+        <card number="4" name="Tutor of Sapphire" setShortName="ECP"/>
+        <card number="4" name="Animated Armory" setShortName="ECP"/>
+        <card number="3" name="Babbling Bauble" setShortName="ECP"/>
+        <card number="2" name="Helm of the Great Host" setShortName="ECP"/>
+        <card number="3" name="Karnite Bruteling" setShortName="ECP"/>
+        <card number="3" name="Karnite Reconstructor" setShortName="ECP"/>
+        <card number="3" name="Karnithoper" setShortName="ECP"/>
+        <card number="4" name="Mirror Halls" setShortName="ECP"/>
+        <card number="3" name="Mox Mox Ruby" setShortName="ECP"/>
+        <card number="3" name="Mox Mox Sapphire" setShortName="ECP"/>
+        <card number="3" name="Oilborn Barricade" setShortName="ECP"/>
+        <card number="3" name="Pure Essence" setShortName="ECP"/>
+        <card number="4" name="Unchained Citadel" setShortName="ECP"/>
+        <card number="4" name="Village of Lightning" setShortName="ECP"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pure Essence" setShortName="ECP"/>
+        <card number="1" name="Oilborn Barricade" setShortName="ECP"/>
+        <card number="1" name="Karnite" setShortName="ECP"/>
+        <card number="1" name="Karnite Bruteling" setShortName="ECP"/>
+        <card number="1" name="Karnite Enforcer" setShortName="ECP"/>
+        <card number="1" name="Karnithoper" setShortName="ECP"/>
+        <card number="1" name="Mox Mox Ruby" setShortName="ECP"/>
+        <card number="1" name="Mox Mox Sapphire" setShortName="ECP"/>
+        <card number="1" name="Karnite Reconstructor" setShortName="ECP"/>
+        <card number="1" name="Helm of the Great Host" setShortName="ECP"/>
+        <card number="1" name="Babbling Bauble" setShortName="ECP"/>
+    </zone>
+</cockatrice_deck>
