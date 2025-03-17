@@ -1,0 +1,2836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DOU</name>
+      <longname>Domain of the Ultraprism</longname>
+      <settype>Ether Chill Power</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>MA01 — The Ultraprism</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+The Ultraprism enters tapped.
+{T}: Add CCCCCCCC. You get VVVVVVVV.
+You may spend mana to pay mana costs as if that mana can pay for those mana costs.</text>
+    </card>
+    <card>
+      <name>CC03 — Warmonger&apos;s Lightform</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+If you didn’t spend any {R} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+II — {W} —
+Lifelink
+{B} —
+Deathtouch
+III — {R} —
+Warmonger’s Lightform deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>CL01 — Prismatic Plains</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)
+{W}, {T}: Add RG.</text>
+    </card>
+    <card>
+      <name>CL02 — Prismatic Island</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)
+{U}, {T}: Add WB.</text>
+    </card>
+    <card>
+      <name>CL03 — Prismatic Swamp</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)
+{B}, {T}: Add GU.</text>
+    </card>
+    <card>
+      <name>CL04 — Prismatic Mountain</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)
+{R}, {T}: Add BG.</text>
+    </card>
+    <card>
+      <name>CL05 — Prismatic Forest</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)
+{G}, {T}: Add RW.</text>
+    </card>
+    <card>
+      <name>RL01 — Ultraprismatic Vista</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{V}, {T}, Sacrifice Ultraprismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>CW02 — Purelight Guardian</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Vigilance (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+    </card>
+    <card>
+      <name>CW03 — Prized Steed</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prized Steed enters, it gains haste until end of turn if {R} was spent to cast it or it wasn’t cast.
+When Prized Steed enters, draw a card. You get {V}.</text>
+    </card>
+    <card>
+      <name>CW04 — Swiftbite Wingrat</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Swiftbite Wingrat attacks and isn’t blocked, it deals 1 damage to the permanent or player it’s attacking.</text>
+    </card>
+    <card>
+      <name>CW05 — Death Trainee</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth first strike (When this creature dies, if it had no first strike counters on it, return it to the battlefield under its owner’s control with a first strike counter on it.)
+When Death Trainee dies, choose one —
+• You get VV.
+• Death Trainee deals 1 damage to target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>CW06 — Fearful Fisherman</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fearful Fisherman enters and when it dies, create a 0/1 blue Fish creature token.
+Adrenaline — Fearful Fisherman gets +1/+1. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+    </card>
+    <card>
+      <name>CW07 — Cart Horse</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Cart Horse gets +0/+1. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+Whenever Cart Horse becomes the target of a spell or ability, it gets +1/+0 until end of turn. You get {V}.</text>
+    </card>
+    <card>
+      <name>CW08 — Chromageist Lightcaller</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 3W (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Whenever this permanent attacks, create a 1/1 white Spirit enchantment creature token.</text>
+    </card>
+    <card>
+      <name>CW09 — Reflective Angel</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1W, Sacrifice another nontoken creature: Create a token that’s a copy of Reflective Angel.</text>
+    </card>
+    <card>
+      <name>CW10 — Disparate Council</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rat Horse Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Disparate Council attacks, put a +1/+1 counter on target creature that shares a type with it.</text>
+    </card>
+    <card>
+      <name>CW11 — Short-Lived Hero</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast Short-Lived Hero and when it dies, exile target creature you control, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CW12 — Prismic Pearl Entity</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W // VVW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>3/5</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Pearl Entity enters, you get VVVV.
+--- 
+(You can cast copies of this while in play)
+Create a 1/1 white Spirit enchantment creature token.</text>
+    </card>
+    <card>
+      <name>CW13 — Exverminate</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exverminate deals 3 damage to target attacking or blocking creature.
+If you control a Rat, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>CW14 — Remnant of True Pacifism</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift {W} (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+This permanent can’t attack or block.
+{3}: This permanent loses all abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>CW15 — Rise Up for Honor</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CW16 — Council Meeting</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+You gain life equal to the number of cards you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>CW17 — Purelight Battle Cry</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW18 — Prismic Purification</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment. You gain 1 life.
+• Draw a card. You get {V}.
+• You get {V}, then proliferate.  (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>RW05 — Enrenere, Shield of Decaying Faith</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Cleric Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Indestructible (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+At the beginning of your upkeep, remove an adrenaline counter from Enrenere, Shield of Decaying Faith if it has two or more.</text>
+    </card>
+    <card>
+      <name>RW01 — The Shield of Belief</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would create one or more tokens, instead create twice that many tokens.”
+Equip 1W</text>
+    </card>
+    <card>
+      <name>UW04 — Wingdream Steed</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Flying (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+Whenever Wingdream Steed becomes the target of a spell or ability for the first time each turn, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CU01 — Shiftling</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Shiftling enters, you may have it become a copy of another target creature you control until end of turn.</text>
+    </card>
+    <card>
+      <name>CU02 — Fledgeling Faerie</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Vigilance (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+Whenever Fledgeling Faerie attacks, if you control another enchantment, it gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CU03 — Manachain Seer</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Manachain Seer enters, choose two. You may choose the same option more than once —
+• Add {U}.
+• You get {V}.</text>
+    </card>
+    <card>
+      <name>CU04 — Animated Blades</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control enters, Animated Blades gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CU05 — Accumulation Mage</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Accumulation Mage enters, put a +1/+1 counter on target creature you control, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CU06 — Library Grotesque</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw a card other the first one you draw each turn, put a +1/+1 counter on Library Grotesque.</text>
+    </card>
+    <card>
+      <name>CU07 — Mirrored Visage</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have this creature enter as a copy of another creature you control, except its a 2/2 Shapeshifter in addition to its other types.</text>
+    </card>
+    <card>
+      <name>CU08 — Symmetry Seeker</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Adrenaline — If you would put one or more counters on Symmetry Seeker, instead put twice that many counters on it. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+Whenever a creature you control with power equal to its toughness enters, put a +1/+1 counter on Symmetry Seeker.</text>
+    </card>
+    <card>
+      <name>CU18 — Hatch a Plan</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CU11 — Antipurity Force</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a spell that’s exactly one color.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>CU12 — Creation Pierce</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell with a noncreature type unless its controller pays {1}.</text>
+    </card>
+    <card>
+      <name>CU13 — Comfortable Lockdown</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature loses its printed abilities.</text>
+    </card>
+    <card>
+      <name>CU14 — Studificate</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards. You get VVV.</text>
+    </card>
+    <card>
+      <name>CU15 — Seek Answers</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 3, then draw a card. (To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CU16 — Intangibility Investigation</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it to the battlefield under its owner’s control. Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>CU17 — Varying Skills</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. Put a stun counter on it. Draw a card. You get {V}.</text>
+    </card>
+    <card>
+      <name>CU10 — Fishy Thing</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fish Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fishy Thing enters, draw a card.</text>
+    </card>
+    <card>
+      <name>UU02 — Death Analyzer</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth vigilance (When this creature dies, if it had no vigilance counters on it, return it to the battlefield under its owner’s control with a vigilance counter on it.)
+When Death Analyzer enters your graveyard, draw a card.</text>
+    </card>
+    <card>
+      <name>CB05 — Doomed Rats</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Rats enters, if its not a token, create a token that’s a copy of it.
+When Doomed Rats dies, it deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>CB03 — Deadly Wingstealer</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Rebirth flying (When this creature dies, if it had no flying counters on it, return it to the battlefield under its owner’s control with a flying counter on it.)
+When Deadly Wingstealer dies, you get {V}.</text>
+    </card>
+    <card>
+      <name>CB04 — Cutthroat Librarian</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cutthroat Librarian enters, draw a card. You lose 1 life. You get {V}.</text>
+    </card>
+    <card>
+      <name>CB02 — Bloody Imitator</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Bloody Imitator enter as a copy of another target creature, except its still a Shapeshifter. When you do, you lose life equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>CB06 — Incarnation Profiteer</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB07 — Lightwarped Crusader</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior Horror </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lightwarped Crusader dies, return another target creature from your graveyard to the battlefield. It can’t be sacrificed this turn.</text>
+    </card>
+    <card>
+      <name>CB08 — Warped Chromageist</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Horror </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 4B (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Whenever this permanent attacks, you get {V}.</text>
+    </card>
+    <card>
+      <name>CB09 — Priest of Cyclic Faith</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, Sacrifice a creature: Put a +1/+1 counter on Priest of Cyclic Faith.
+When Priest of Cyclic Faith dies, put its counters on another target creature you control.</text>
+    </card>
+    <card>
+      <name>CB11 — Prismatic Death</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You gain 1 life for each of its types and 1 life for each of its colors.</text>
+    </card>
+    <card>
+      <name>CB12 — Cull Vermin</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with total power and toughness 5 or less. That creature’s controller loses 2 life.</text>
+    </card>
+    <card>
+      <name>CB13 — Seep Through</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent sacrifices a creature.
+If you control a Rat or Shapeshifter, Seep Through deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CB14 — Vile Victory</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or put three cards from your graveyard on the bottom of your library.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>CB15 — Prismic Blood Rites</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards. You lose 2 life. You get VV.</text>
+    </card>
+    <card>
+      <name>CB16 — Return Unscathed</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two target creature cards from your graveyard onto your deck, then draw a card.</text>
+    </card>
+    <card>
+      <name>CB17 — Lightrot Thoughts</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards two cards and loses 2 life. You get VV.</text>
+    </card>
+    <card>
+      <name>CB18 — On Wings of Death</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains rebirth flying until end of turn. (When that creature dies, if it had no flying counters on it, return it to the battlefield under its owner’s control with a flying counter on it.)</text>
+    </card>
+    <card>
+      <name>UB03 — Bloodmana Converter</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Pay 2 life, Sacrifice a creature: The next spell you cast this turn costs {2} less to cast.</text>
+    </card>
+    <card>
+      <name>CR01 — Freerunning Foal</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature you control gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR02 — Firebite Rat</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Firebite Rat attacks, it deals 1 damage to the player or permanent its attacking.</text>
+    </card>
+    <card>
+      <name>CR03 — Chaos Remnant</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Chaos Remnant gets +1/+2 if it’s enchanted or equipped.</text>
+    </card>
+    <card>
+      <name>CR04 — Trophy Hunter</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Trophy Hunter enters, create a Treasure token. You get {V}.</text>
+    </card>
+    <card>
+      <name>CR05 — Library Courier</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Library Courier has first strike as long as it’s attacking.
+Whenever you draw your second card each turn, put a +1/+1 counter on Library Courier. You get {V}.</text>
+    </card>
+    <card>
+      <name>CR06 — Manalight Ritualist</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Manalight Ritualist enters, add {R}.
+{R}: Target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR07 — Loyal Rodents</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Loyal Rodents enters, if it’s not a token, create a token that’s a copy of it.
+Whenever Loyal Rodents becomes blocked, it deals 2 damage to each creature blocking it.
+Whenever Loyal Rodents attacks and isn’t blocked, it deals 1 damage to the permanent or player it’s attacking.</text>
+    </card>
+    <card>
+      <name>CR08 — Flaming Charger</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Flaming Charger becomes the target of a spell or ability, it deals 1 damage to each opponent. You get {V}.</text>
+    </card>
+    <card>
+      <name>CR09 — Vermin Rider</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rat Horse </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vermin Rider enters or dies, it deals damage equal to its power to target creature. If you control that creature, instead it deals 1 damage to that creature.</text>
+    </card>
+    <card>
+      <name>CR11 — Firelight Blast</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Firelight Blast deals 2 damage to any target. Surveil 1. You get {V}. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CR12 — Manalight Fervor</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if mana from a nonland source was spent to cast it.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR13 — Mana Overflow</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target permanent with a mana ability. If it wasn’t a land, draw a card.</text>
+    </card>
+    <card>
+      <name>CR14 — Faithless Rummaging</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard two cards, then draw two cards.</text>
+    </card>
+    <card>
+      <name>CR15 — Prismic Strength</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Prismic Strength enters, you get {V}.
+Enchanted creature gets +3/+0.</text>
+    </card>
+    <card>
+      <name>CR16 — Lightsurge</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +X/+0 until end of turn, where X twice the amount of colors spent to cast this spell.</text>
+    </card>
+    <card>
+      <name>CR17 — Lightning Shatter</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy two target artifacts.
+• Destroy target artifact. You get VV.
+• Draw a card. You get VV.</text>
+    </card>
+    <card>
+      <name>CR18 — Library Stockpile</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Library Stockpile enters, draw a card.
+{T}, Sacrifice Library Stockpile: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CG01 — Manachain Druid</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+{T}: Add CC. Activate only if a creature you control has two or more adrenaline counters.
+VVV: Untap Manachain Druid.</text>
+    </card>
+    <card>
+      <name>CG02 — Lightened Guardian</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 2G (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Deathtouch
+This creature gets +0/+1.</text>
+    </card>
+    <card>
+      <name>CG03 — Earthbound Fae</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Earthbound Fae enters, you get {V}.
+Adrenaline — Whenever another enchantment enters under your control, put a trample counter or a +1/+1 counter on Earthbound Fae. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+    </card>
+    <card>
+      <name>CG04 — Corrupted Chromageist</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth vigilance (When this creature dies, if it had no vigilance counters on it, return it to the battlefield under its owner’s control with a vigilance counter on it.)
+Corrupted Chromageist has decayed as long as it doesn’t have any counters. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>CG05 — Manachain Companion</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Manachain Companion enters, you get VVV.
+Whenever you cast a spell, if three or more colors of mana were spent to cast it, Manachain Companion gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG06 — Helpful Chromageist</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 4G (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Trample
+Adrenaline — Whenever this creature attacks, draw a card. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+    </card>
+    <card>
+      <name>CG07 — Great Lightbeast</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Great Lightbeast enters, you get VVV.
+{3}: Put a +1/+1 counter on each creature you control. Spend only mana from differently typed sources to activate this ability.</text>
+    </card>
+    <card>
+      <name>CG08 — Incarnation Caretaker</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Incarnation Caretaker enters with +1/+1 counter.
+Whenever one or more cards leave your graveyard, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG09 — Scaling Imitator</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Scaling Imitator enter as a copy of another target creature, except it’s a 5/5 Shapeshifter in addition to its other types.</text>
+    </card>
+    <card>
+      <name>CG10 — Faetouched Wildebeast</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Faerie Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Adrenaline — Whenever Faetouched Wildebeast attacks, you get VV. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+    </card>
+    <card>
+      <name>CG12 — Prismclaim Battle</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature. You get VV.</text>
+    </card>
+    <card>
+      <name>CG13 — Cyclical Growth</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains hexproof until end of turn. When it dies this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>CG14 — Natural Accumulation</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal up to two creature and/or land cards from among them and put them into your hand. Put the rest on the bottom of your library. If you put no cards into your hand this way, proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG15 — Prismic Might</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+When Positive Aura leaves the battlefield, draw a card. You get {V}.</text>
+    </card>
+    <card>
+      <name>CG16 — Prismic Reclamation</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with flying. You get VV.
+• Destroy target artifact. You get {V}.
+• Destroy target enchantment.
+• Draw a card. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG17 — Extreme Wildgrowth</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card, put it onto the battlefield tapped, then shuffle. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>CG18 — Accumulate Might</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UG02 — Growthrot Incarnator</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, you get {V}. This ability triggers while Growthrot Incarnator is in your graveyard in addition to while it is on the battlefield.</text>
+    </card>
+    <card>
+      <name>UM01 — Skilled Animator</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Skilled Animator attacks, exile target creature you control, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>UM05 — Chromageist Caretaker</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 1GW (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Enchanted creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>UM02 — Wingform Shapecrafter</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>3UB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control that are copies get +1/+1 and have flying.</text>
+    </card>
+    <card>
+      <name>UM03 — Honored Swarmsinger</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat Bard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 instead.
+Tap two untapped creatures you control or an untapped Rat you control: Honored Swarmsinger deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>UM04 — Prismwood Dryad</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if the mana spent to cast it has at least three of the following, copy that spell and you get {V} —
+• {U}, {W}, or {B}.
+• From a basic permanent.
+• From an artifact.
+• From an enchantment.
+• From an instant or sorcery.</text>
+    </card>
+    <card>
+      <name>CA01 — Ultraprismite</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ultraprismite enters, you get VV.
+{1}, {V}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CA02 — Accumulation Golem</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Accumulation Golem enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CA03 — Prismic Vessel</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prismic Vessel dies, you get VVVV.</text>
+    </card>
+    <card>
+      <name>CA04 — Cyclilith</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cyclilith enters, draw a card.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>MC02 — Pure Lightform</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+Creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+Basic {C} —
+Ward {1}
+II, III — Basic WUBRG —
+At the beginning of your upkeep, you win the game. (This effect does not trigger unless on a permanent.)</text>
+    </card>
+    <card>
+      <name>CW01 — Lively Chromageist</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lightshift 1W (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
+Lifelink
+When this permanent dies, create a 1/1 white Spirit enchantment creature token.</text>
+    </card>
+    <card>
+      <name>RM01 — The Amorphous Star</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUBB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Kindred Enchantment Artifact - Shapeshifter </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control that are copies have ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+At the beginning of your end step, if you control five or more creatures that are copies, you win the game.</text>
+    </card>
+    <card>
+      <name>MA06 — Mox Mox Emerald</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>MA04 — Mox Mox Jet</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>MA02 — Mox Mox Pearl</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>MA05 — Mox Mox Ruby</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>MA03 — Mox Mox Sapphire</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>MC01 — Prismatic Wheel</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {U} —
+Each player shuffles their hand and graveyard into their library.
+III — Each player discards their hand, then draws seven cards.</text>
+    </card>
+    <card>
+      <name>ML01 — Unchained Bazaar</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>UL03 — Village of Blood</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {R}.
+{T}, Sacrifice Village of Blood: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL06 — Village of Bone</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {B}.
+{T}, Sacrifice Village of Bone: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL02 — Village of Darkness</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {B}.
+{T}, Sacrifice Village of Darkness: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL08 — Village of Death</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B} or {G}.
+{T}, Sacrifice Village of Death: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL04 — Village of Fire</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {G}.
+{T}, Sacrifice Village of Fire: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL01 — Village of Frost</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W} or {U}.
+{T}, Sacrifice Village of Frost: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL05 — Village of Life</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {W}.
+{T}, Sacrifice Village of Life: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL09 — Village of Light</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R} or {W}.
+{T}, Sacrifice Village of Light: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL07 — Village of Lightning</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U} or {R}.
+{T}, Sacrifice Village of Lightning: Draw a card.</text>
+    </card>
+    <card>
+      <name>UL10 — Village of Water</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G} or {U}.
+{T}, Sacrifice Village of Water: Draw a card.</text>
+    </card>
+    <card>
+      <name>CC01 — Archivist&apos;s Lightform</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+If you didn’t spend any {U} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+II — {W} —
+Destroy target tapped creature.
+{U} —
+Draw a card.
+III — {B} —
+You get VV.</text>
+    </card>
+    <card>
+      <name>CB01 — Shifting Slayer</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shapeshifter Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, deathtouch, lifelink, haste</text>
+    </card>
+    <card>
+      <name>UW10 — Ephemeral Force</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature, then return it to the battlefield under its owner’s control.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>UU03 — Skilled Impersonator</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Skilled Impersonator enter as a copy of any permanent on the battlefield, except it’s a 1/1 Shapeshifter creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>UU10 — Disperse Identity</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. You may have Shapeshifters you control become copies of that creature until end of turn.</text>
+    </card>
+    <card>
+      <name>CU09 — Prismic Sapphire Entity</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U // VVU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>3/5</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Sapphire Entity enters, you get VVVV.
+--- 
+(You can cast copies of this while in play)
+Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CC02 — Animator&apos;s Lightform</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+If you didn’t spend any {B} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+II — {W} —
+You get VV.
+{U} —
+Return target nonland permanent to its owner’s hand.
+III — {B} —
+You gain 1 life and each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB10 — Prismic Jet Entity</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B // VVB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>5/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Jet Entity enters, you get VVVV.
+--- 
+(You can cast copies of this while in play)
+Each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>RU01 — The Pan Flute of Ages</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent entering would cause a triggered ability you control to trigger, that ability triggers an additional time.”
+Equip 2U</text>
+    </card>
+    <card>
+      <name>RB01 — The Crown of Doomsday</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If an opponent would lose life from a source other than combat damage, that player loses twice that much life instead.”
+Equip 2B</text>
+    </card>
+    <card>
+      <name>RL02 — Tales of the Fae</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Saga </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Tales of the Fae gains “{T}: Add {C}.”
+II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
+III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>RL04 — Mirror Halls</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+The “legend rule” doesn’t apply.</text>
+    </card>
+    <card>
+      <name>RL03 — Animated Tower</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Aura </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Enchant land
+Enchanted land is an enchantment in addition to its other types and has “{T}: Add two mana of any one color.”</text>
+    </card>
+    <card>
+      <name>RA01 — The Balancer&apos;s Helm</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a token that’s a copy of equipped creature, except the token isn’t legendary.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>RA02 — Doubling Sphere</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Double the amount of each type of unspent mana you have.</text>
+    </card>
+    <card>
+      <name>UG01 — Faewood Caretaker</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Faerie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add X {C}, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>UG10 — Fey Grove</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Other enchantments you control without mana value 2 have shroud.
+{1}, Sacrifice this enchantment: Search your library for an enchantment card, reveal it, then shuffle and put that card on top.</text>
+    </card>
+    <card>
+      <name>CC11 — Minimorphose</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add one mana of any color. Draw a card.</text>
+    </card>
+    <card>
+      <name>UC01 — Natural Essence</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Natural Essence: Destroy target artifact. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UA07 — Pure Essence</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Pure Essence: Destroy target enchantment. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>RR01 — The Sword of Aeons</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent becoming the target of a spell or ability would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.”
+Equip 1R</text>
+    </card>
+    <card>
+      <name>RG01 — The Stave of Eternity</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would put one or more counters on a permanent you control, put twice that many counters on that permanent instead.”
+Equip 1G</text>
+    </card>
+    <card>
+      <name>UG11 — Exponential Growth</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Remove any number of counters from a permanent you control. Put that many +1/+1 counters on each creature you control and that many loyalty counters on each planeswalker you control.</text>
+    </card>
+    <card>
+      <name>UG05 — Great Wildebeast</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+{2}: Put a +1/+1 counter on Great Wildebeast.</text>
+    </card>
+    <card>
+      <name>UG12 — Megamorphose</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add three mana in any combination of non-green colors. Draw a card.</text>
+    </card>
+    <card>
+      <name>RG05 — The Woodqueen</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Dryad Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+The Woodqueen gets +1/+1 for each counter on it.</text>
+    </card>
+    <card>
+      <name>UR10 — Extreme Ritual</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add RR.</text>
+    </card>
+    <card>
+      <name>UR11 — Zealous Ritual</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add CCR.</text>
+    </card>
+    <card>
+      <name>UR12 — Pyrotechnic Ritual</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add RRRR.</text>
+    </card>
+    <card>
+      <name>RU05 — Return Again</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of permanents you control, then return them to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>RC01 — Vanishing Knowledge</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Whenever you draw a card other than the first card you draw each turn, you may discard Vanishing Knowledge. If you do, each opponent loses 2 life.
+Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>RW02 — Word of Loyalty</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a white card.
+Counter target spell that targets you or a permanent you control.</text>
+    </card>
+    <card>
+      <name>RW03 — Word of Purity</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a white card.
+Destroy target enchantment. Draw a card.</text>
+    </card>
+    <card>
+      <name>RW04 — Word of Order</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a white card.
+Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>RU02 — Word of Subtlety</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a blue card.
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>RU03 — Word of Knowledge</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a blue card.
+Put target permanent into its owner’s library third from the top.</text>
+    </card>
+    <card>
+      <name>RU04 — Word of Will</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a blue card.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>RB02 — Word of Fear</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a black card.
+Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>RB03 — Word of Death</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a black card.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>RB04 — Word of Persistence</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a black card.
+Return target creature card from a graveyard to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>RR02 — Word of Chaos</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a red card.
+Destroy target artifact. Exile the top card of your library. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>RR03 — Word of Wealth</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a red card.
+Choose one —
+• Word of Wealth deals 5 damage to target creature or planeswalker. That permanent’s controller creates two Treasure tokens.
+• Destroy target land. That permanent’s controller creates two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>RR04 — Word of Courage</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a red card.
+Change the target of target spell or ability with a single target.</text>
+    </card>
+    <card>
+      <name>RG02 — Word of Life</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may discard a green card.
+Target permanent you control gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>RG03 — Word of Nature</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 1 life and discard a green card.
+Destroy target artifact. Draw a card.</text>
+    </card>
+    <card>
+      <name>RG04 — Word of Strength</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Instead of paying this spell’s mana cost, you may pay 2 life and discard a green card.
+For each creature you control, choose one —
+• That creature deals damage equal to its power to any target.
+• Destroy target nonland noncreature permanent with mana value less than that creature’s power.</text>
+    </card>
+    <card>
+      <name>UU11 — Bountiful Blessings of Fae</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bountiful Blessings of Fae enters, put X +1/+1 counters on target creature.
+Sacrifice Bountiful Blessings of Fae: Counter target spell that targets an enchantment you control.</text>
+    </card>
+    <card>
+      <name>RC02 — Embodiment of the Fae</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>9</manacost>
+        <cmc>9</cmc>
+        <type>Enchantment Creature - Avatar Faerie </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+This spell costs {1} less to cast for each card you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>UC02 — Essence of Heartbeat</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>RG06 — Fae Anthem</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Enchantment creatures you control get +1/+1.
+Enchantments you control have ward {1}.</text>
+    </card>
+    <card>
+      <name>UU06 — Feylusion</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Faerie Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Whenever Feylusion becomes the target of a spell or ability, sacrifice it and you draw a card.</text>
+    </card>
+    <card>
+      <name>UC03 — Fey Ritual</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add CCC. Spend this mana only to cast enchantment or Faerie spells.</text>
+    </card>
+    <card>
+      <name>UC04 — Micromanage</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a permanent card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>MC03 — Void Emanation</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Void Emanation: Add CCC.</text>
+    </card>
+    <card>
+      <name>MU01 — The Balancer</name>
+      <set rarity="mythic">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card.
+[-1]: Put a basic land type counter of your choice on target land or a color counter of your choice on target nonland permanent.
+[-3]: Put target permanent with two or more types of counters on it into its owner’s library third from the top.
+[-7]: You get an emblem with “If you would add a mana of a color you haven’t added mana of this turn, instead add two of that mana.”</text>
+    </card>
+    <card>
+      <name>UU12 — Exchange Rate</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exchange control of two target permanents with the same mana value.</text>
+    </card>
+    <card>
+      <name>UU01 — Library Ravens</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you draw your third or seventh card each turn, you may reveal Library Ravens from your hand or graveyard. When you do, put it onto the battlefield.</text>
+    </card>
+    <card>
+      <name>UU07 — Stealthy Snacker</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Cycling {U} ({U}, Discard this card: Draw a card.)
+Whenever you draw your third card each turn, return Stealthy Snacker from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>CC04 — Lightweaver&apos;s Lightform</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+If you didn’t spend any {G} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+II — {U} —
+Scry 2.
+{R} —
+Draw a card, then discard a card.
+III — {G} —
+Add three mana of any one color.</text>
+    </card>
+    <card>
+      <name>RR05 — Wormpaw, the Pilferer</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Rat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Wormpaw, the Pilferer deals combat damage to a player, that player mills a card. If the milled card was a land, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>RR06 — The Fearful Knight</name>
+      <set rarity="rare">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Coward </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when a player casts a spell, activates a non-mana ability, attacks, or blocks, you may exile The Fearful Knight. Return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>CR10 — Prismic Ruby Entity</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R // VVR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>5/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Ruby Entity enters, you get VVVV.
+--- 
+(You can cast copies of this while in play)
+Ruby Stabbing deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>UR09 — Thunderboom</name>
+      <set rarity="uncommon">DOU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Thunderboom deals 1 damage to up to three target creatures.
+• Thunderboom deals 2 damage to target creature and 1 damage to another target creature.
+• Thunderboom deals 2 damage to target creature. Surveil 1.</text>
+    </card>
+    <card>
+      <name>CG11 — Prismic Emerald Entity</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G // VVG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>4/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Emerald Entity enters, you get VVVV.
+--- 
+(You can cast copies of this while in play)
+Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>CC05 — Chromageists&apos;s Lightform</name>
+      <set rarity="common">DOU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+If you didn’t spend any {W} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+Target creature gains this spell’s abilities until end of turn.
+II — {R} —
+This creature gets +3/+0.
+{G} —
+This creature gets +1/+1 and has trample.
+III — {W} —
+This creature gets +0/+3.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Prism Reminder</name>
+      <set>DOU</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast copies of these instants or sorceries from the command zone by paying their respective costs.
+-
+Malleate V1 Sorcery
+Put a changeling counter on target permanent.
+-
+Chromatica VV2 Instant
+Add two mana of different colors not spent to cast this spell.
+-
+Spiraling Light VVV3 Sorcery
+Move any number of counters from target creature you control to another target creature.
+-
+Spiraling Darkness VVVV4 Instant
+Draw a card.
+-
+Prismify VVVVVWUBRG Sorcery
+Put five +1/+1 counters on each of up to five target creatures that don’t share any colors.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
