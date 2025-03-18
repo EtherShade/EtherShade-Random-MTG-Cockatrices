@@ -36,7 +36,7 @@ You may spend mana to pay mana costs as if that mana can pay for those mana cost
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {R} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 II — {W} —
@@ -127,7 +127,7 @@ Warmonger’s Lightform deals 3 damage to any target.</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>{V}, {T}, Sacrifice Ultraprismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+      <text>{V}, {T}, Sacrifice Ultraprismatic Vista: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>CW02 — Purelight Guardian</name>
@@ -409,7 +409,7 @@ At the beginning of your upkeep, remove an adrenaline counter from Enrenere, Shi
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature has “If you would create one or more tokens, instead create twice that many tokens.”
-Equip 1W</text>
+Equip 2W</text>
     </card>
     <card>
       <name>UW04 — Wingdream Steed</name>
@@ -764,7 +764,7 @@ When Deadly Wingstealer dies, you get {V}.</text>
         <cmc>4</cmc>
         <type>Creature - Human Warrior Horror </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Lightwarped Crusader dies, return another target creature from your graveyard to the battlefield. It can’t be sacrificed this turn.</text>
@@ -778,7 +778,7 @@ When Deadly Wingstealer dies, you get {V}.</text>
         <cmc>4</cmc>
         <type>Creature - Spirit Horror </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Lightshift 4B (If you cast this card for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
@@ -972,7 +972,7 @@ Chaos Remnant gets +1/+2 if it’s enchanted or equipped.</text>
         <cmc>2</cmc>
         <type>Creature - Human Archer </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -1478,7 +1478,7 @@ Enchanted creatures you control get +1/+1.</text>
         <cmc>3</cmc>
         <type>Creature - Rat Bard </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>If a source you control would deal noncombat damage to a permanent or player, it deals that much damage plus 1 instead.
@@ -1499,6 +1499,7 @@ Tap two untapped creatures you control or an untapped Rat you control: Honored S
       <text>Whenever you cast a spell, if the mana spent to cast it has at least three of the following, copy that spell and you get {V} —
 • {U}, {W}, or {B}.
 • From a basic permanent.
+• From a creature.
 • From an artifact.
 • From an enchantment.
 • From an instant or sorcery.</text>
@@ -1571,7 +1572,7 @@ Tap two untapped creatures you control or an untapped Rat you control: Honored S
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 Creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 Basic {C} —
@@ -1685,7 +1686,7 @@ At the beginning of your end step, if you control five or more creatures that ar
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {U} —
 Each player shuffles their hand and graveyard into their library.
@@ -1943,21 +1944,21 @@ Draw a card, then discard a card.</text>
       <set rarity="common">DOU</set>
       <prop>
         <colors></colors>
-        <manacost>2</manacost>
-        <cmc>2</cmc>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
         <type>Instant - Lightform </type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {B} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
-II — {W} —
-You get VV.
 {U} —
-Return target nonland permanent to its owner’s hand.
-III — {B} —
-You gain 1 life and each opponent loses 1 life.</text>
+Creatures you control gain flying until end of turn.
+II — {B} —
+Draw a card. You lose 1 life.
+III — {G} —
+You gain 5 life.</text>
     </card>
     <card>
       <name>CB10 — Prismic Jet Entity</name>
@@ -2015,7 +2016,7 @@ Equip 2B</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Tales of the Fae gains “{T}: Add {C}.”
 II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
 III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
@@ -2290,7 +2291,7 @@ The Woodqueen gets +1/+1 for each counter on it.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Whenever you draw a card other than the first card you draw each turn, you may discard Vanishing Knowledge. If you do, each opponent loses 2 life.
-Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</text>
+{1} or {V}, Discard a card: Return Vanishing Knowledge from your graveyard to your hand.</text>
     </card>
     <card>
       <name>RW02 — Word of Loyalty</name>
@@ -2590,7 +2591,7 @@ Whenever Feylusion becomes the target of a spell or ability, sacrifice it and yo
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Add CCC. Spend this mana only to cast enchantment or Faerie spells.</text>
+      <text>Add CCCCC. Spend this mana only to cast enchantment or Faerie spells.</text>
     </card>
     <card>
       <name>UC04 — Micromanage</name>
@@ -2690,7 +2691,7 @@ Whenever you draw your third card each turn, return Stealthy Snacker from your g
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {G} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 II — {U} —
@@ -2790,7 +2791,7 @@ Put a +1/+1 counter on target creature.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {W} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 Target creature gains this spell’s abilities until end of turn.
