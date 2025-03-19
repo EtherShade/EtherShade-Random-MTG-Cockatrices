@@ -287,7 +287,7 @@ Whenever this permanent attacks, create a 1/1 white Spirit enchantment creature 
         <cmc>6</cmc>
         <type>Creature - Avatar  // Sorcery - Prism </type>
         <maintype>Creature</maintype>
-    <pt>3/5</pt>
+    <pt>4/6</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>When Prismic Pearl Entity enters, you get VVVV.
@@ -1128,7 +1128,7 @@ When Priest of Cyclic Faith dies, put its counters on another target creature yo
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target creature. You gain 1 life for each of its types and 1 life for each of its colors.</text>
+      <text>Destroy target creature. You gain 1 life for each of its card types and 1 life for each of its colors.</text>
     </card>
     <card>
       <name>CB12 — Cull Vermin</name>
@@ -1239,7 +1239,7 @@ Draw a card.</text>
       <text>Creatures your opponent’s control that share a color with The Balancer’s Slayer get -1/-1.</text>
     </card>
     <card>
-      <name>RB05 — Nonexistent Stab#</name>
+      <name>RB05 — Nonexistent Stab</name>
       <set rarity="rare">DOU</set>
       <prop>
         <colors>B</colors>
@@ -1249,7 +1249,7 @@ Draw a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You can’t cast Nonexistent Stab# from your hand.
+      <text>You can’t cast Nonexistent Stab from your hand.
 Each opponent loses 3 life.
 1B, Put this card from your graveyard onto the bottom of your library: Each opponent loses 2 life.</text>
     </card>
@@ -1461,7 +1461,7 @@ Each opponent loses life equal to the number of cards you’ve drawn this turn.<
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draw two cards. You lose 4 life.</text>
+      <text>Draw two cards. You lose 3 life.</text>
     </card>
     <card>
       <name>UB12 — Bloodstained Ritual</name>
@@ -1688,7 +1688,7 @@ Enchanted creature gets +3/+0.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature gets +X/+0 and gains first strike and trample until end of turn, where X twice the amount of colors spent to cast this spell.</text>
+      <text>Target creature gets +X/+0 and gains first strike and trample until end of turn, where X is twice the amount of colors spent to cast this spell.</text>
     </card>
     <card>
       <name>CR17 — Lightning Shatter</name>
@@ -2211,7 +2211,7 @@ Enchantments you control have “{T}: Target creature gets +1/+1 until end of tu
 Sacrifice three enchantments: Untap each enchantment you control.</text>
     </card>
     <card>
-      <name>UG02 — Growthrot Incarnator</name>
+      <name>UG01 — Growthrot Incarnator</name>
       <set rarity="uncommon">DOU</set>
       <prop>
         <colors>G</colors>
@@ -2632,7 +2632,7 @@ Ultraprismite Bruteling can’t be blocked by creatures without haste.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 Creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 Basic {C} —
@@ -2746,7 +2746,7 @@ At the beginning of your end step, if you control five or more creatures that ar
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {U} —
 Each player shuffles their hand and graveyard into their library.
@@ -2991,7 +2991,7 @@ Draw a card.</text>
         <cmc>6</cmc>
         <type>Creature - Avatar  // Sorcery - Prism </type>
         <maintype>Creature</maintype>
-    <pt>3/5</pt>
+    <pt>4/6</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>When Prismic Sapphire Entity enters, you get VVVV.
@@ -3029,7 +3029,7 @@ You gain 5 life.</text>
         <cmc>6</cmc>
         <type>Creature - Avatar  // Sorcery - Prism </type>
         <maintype>Creature</maintype>
-    <pt>5/3</pt>
+    <pt>6/4</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>When Prismic Jet Entity enters, you get VVVV.
@@ -3076,7 +3076,7 @@ Equip 2B</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Tales of the Fae gains “{T}: Add {C}.”
 II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
 III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
@@ -3137,18 +3137,18 @@ Equip {4}</text>
       <text>{1}, {T}: Double the amount of each type of unspent mana you have.</text>
     </card>
     <card>
-      <name>UG01 — Faewood Caretaker</name>
+      <name>UG02 — Faewood Caretaker</name>
       <set rarity="uncommon">DOU</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
         <type>Enchantment Creature - Faerie Druid </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: Add X {C}, where X is the number of enchantments you control.</text>
+      <text>{T}: Add {C} for each enchantment you control.</text>
     </card>
     <card>
       <name>UG10 — Fey Grove</name>
@@ -3799,7 +3799,7 @@ Whenever Wormpaw, the Pilferer deals damage to a player, that player mills a car
         <cmc>6</cmc>
         <type>Creature - Avatar  // Sorcery - Prism </type>
         <maintype>Creature</maintype>
-    <pt>5/3</pt>
+    <pt>6/4</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>When Prismic Ruby Entity enters, you get VVVV.
@@ -3832,7 +3832,7 @@ Ruby Stabbing deals 2 damage to any target.</text>
         <cmc>6</cmc>
         <type>Creature - Avatar  // Sorcery - Prism </type>
         <maintype>Creature</maintype>
-    <pt>4/4</pt>
+    <pt>5/5</pt>
       </prop>
       <tablerow>3</tablerow>
       <text>When Prismic Emerald Entity enters, you get VVVV.
