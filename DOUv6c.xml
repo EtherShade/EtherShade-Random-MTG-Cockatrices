@@ -36,7 +36,7 @@ You may spend mana to pay mana costs as if that mana can pay for those mana cost
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {R} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 II — {W} —
@@ -141,7 +141,7 @@ Warmonger’s Lightform deals 3 damage to any target.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Vigilance (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+      <text>Adrenaline — Vigilance (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>CW03 — Prized Steed</name>
@@ -203,7 +203,7 @@ When Death Trainee dies, choose one —
       </prop>
       <tablerow>2</tablerow>
       <text>When Fearful Fisherman enters and when it dies, create a 0/1 blue Fish creature token.
-Adrenaline — Fearful Fisherman gets +1/+1. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+Adrenaline — Fearful Fisherman gets +1/+1. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>CW07 — Cart Horse</name>
@@ -217,7 +217,7 @@ Adrenaline — Fearful Fisherman gets +1/+1. (At the beginning of your end step,
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Cart Horse gets +0/+1. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+      <text>Adrenaline — Cart Horse gets +0/+1. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)
 Whenever Cart Horse becomes the target of a spell or ability, it gets +1/+0 until end of turn. You get {V}.</text>
     </card>
     <card>
@@ -408,7 +408,7 @@ You gain life equal to the number of cards you’ve drawn this turn.</text>
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Indestructible (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+      <text>Adrenaline — Indestructible (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)
 At the beginning of your upkeep, remove an adrenaline counter from Enrenere, Shield of Decaying Faith if it has two or more.</text>
     </card>
     <card>
@@ -538,7 +538,7 @@ First strike</text>
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Flying (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+      <text>Adrenaline — Flying (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)
 Whenever Wingdream Steed becomes the target of a spell or ability for the first time each turn, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
     </card>
     <card>
@@ -667,7 +667,7 @@ Put a +1/+1 counter on each creature you control.</text>
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Vigilance (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+      <text>Adrenaline — Vigilance (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)
 Whenever Fledgeling Faerie attacks, if you control another enchantment, it gains flying until end of turn.</text>
     </card>
     <card>
@@ -759,7 +759,7 @@ Whenever you draw a card other the first one you draw each turn, put a +1/+1 cou
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Adrenaline — If you would put one or more counters on Symmetry Seeker, instead put twice that many counters on it. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)
+Adrenaline — If you would put one or more counters on Symmetry Seeker, instead put twice that many counters on it. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)
 Whenever a creature you control with power equal to its toughness enters, put a +1/+1 counter on Symmetry Seeker.</text>
     </card>
     <card>
@@ -1195,7 +1195,8 @@ Destroy target creature.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put two target creature cards from your graveyard onto your deck, then draw a card.</text>
+      <text>Put two target creature cards from your graveyard on the top of your library.
+Draw a card.</text>
     </card>
     <card>
       <name>CB17 — Lightrot Thoughts</name>
@@ -1238,7 +1239,7 @@ Destroy target creature.</text>
       <text>Creatures your opponent’s control that share a color with The Balancer’s Slayer get -1/-1.</text>
     </card>
     <card>
-      <name>RB05 — Nonexistant Stab</name>
+      <name>RB05 — Nonexistent Stab#</name>
       <set rarity="rare">DOU</set>
       <prop>
         <colors>B</colors>
@@ -1248,9 +1249,9 @@ Destroy target creature.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You can’t cast Nonexistant Stab from your hand.
+      <text>You can’t cast Nonexistent Stab# from your hand.
 Each opponent loses 3 life.
-1B, Put this card from your graveyard onto the bottom of your library: Each opponent loses 4 life.</text>
+1B, Put this card from your graveyard onto the bottom of your library: Each opponent loses 2 life.</text>
     </card>
     <card>
       <name>RB06 — Worst Enemy</name>
@@ -1338,13 +1339,13 @@ Whenever one or more cards leave your graveyard, you may pay {B}, {G}, or 2 life
       <text>Rebirth decayed  (When this creature dies, if it had no decayed counters on it, return it to the battlefield under its owner’s control with a decayed counter on it. Decayed means it can’t block and when it attacks, sacrifice it at end of combat.)</text>
     </card>
     <card>
-      <name>UB03 — Bloodmana Converter</name>
+      <name>UB03 — Priest of Bloodstained Hands</name>
       <set rarity="uncommon">DOU</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Creature - Human Cleric </type>
+        <type>Creature - Human Cleric  </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
@@ -1837,7 +1838,7 @@ Discard a card: Book Burner gets +2/+2 until end of turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Thrill-Seeking Prismthief enters or attacks, add {V}.
-Adrenaline — {V}: Thrill-Seeking Prismthief gets +1/+0 until end of turn. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+Adrenaline — {V}: Thrill-Seeking Prismthief gets +1/+0 until end of turn. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>UR05 — Stampede Mother</name>
@@ -1946,7 +1947,7 @@ This creature gets +2/+1.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Earthbound Fae enters, you get {V}.
-Adrenaline — Whenever another enchantment enters under your control, put a trample counter or a +1/+1 counter on Earthbound Fae. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+Adrenaline — Whenever another enchantment enters under your control, put a trample counter or a +1/+1 counter on Earthbound Fae. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>CG04 — Corrupted Chromageist</name>
@@ -1993,7 +1994,7 @@ Whenever you cast a spell, if three or more colors of mana were spent to cast it
       <tablerow>2</tablerow>
       <text>Lightshift 4G (If you cast this spell for its lightshift cost, it’s an Aura spell with enchant permanent and “Enchanted permanent gains this permanent’s abilities.” It becomes its printed types again if it’s not attached.)
 Trample
-Adrenaline — Whenever this creature attacks, draw a card. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+Adrenaline — Whenever this creature attacks, draw a card. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>CG07 — Great Lightbeast</name>
@@ -2051,7 +2052,7 @@ Whenever one or more cards leave your graveyard, proliferate. (Choose any number
         <pt>6/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Adrenaline — Whenever Faetouched Wildebeast attacks, you get VV. (At the beginning of your end step, put an adrenaline counter on this creature if it attacked this turn. This has its adrenaline ability if it has two or more adrenaline counters.)</text>
+      <text>Adrenaline — Whenever Faetouched Wildebeast attacks, you get VV. (At your endstep, put a rush counter on this creature if it attacked this turn. While at two it has the adrenaline ability.)</text>
     </card>
     <card>
       <name>CG12 — Prismclaim Battle</name>
@@ -2176,7 +2177,8 @@ When Positive Aura leaves the battlefield, draw a card. You get {V}.</text>
         <pt>14/14</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample</text>
+      <text>Trample, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Whenever Crusher of Men deals fatal damage to a creature, you get VVVV.</text>
     </card>
     <card>
       <name>RM05 — The Chromat</name>
@@ -3008,7 +3010,7 @@ Draw a card, then discard a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 If you didn’t spend any {B} to cast this spell, creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 {U} —
@@ -3139,8 +3141,8 @@ Equip {4}</text>
       <set rarity="uncommon">DOU</set>
       <prop>
         <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Enchantment Creature - Faerie Druid </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -4029,6 +4031,7 @@ Put five +1/+1 counters on each of up to five target creatures.</text>
       <reverse-related>UA06 — Font of Prisms Prismatic Wellspring</reverse-related>
       <reverse-related>RM04 — The Ultraprism Regent</reverse-related>
       <reverse-related>RR07 — Prism Hoard</reverse-related>
+      <reverse-related>RG07 — Crusher of Men</reverse-related>
     </card>
     <card>
       <name>Creaturized Token</name>
