@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TVV</name>
+      <longname>The Village in the Void</longname>
+      <settype>Ether Chill Power</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 — Unseen Innkeeper</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ambush 1W (You may cast this spell for its ambush cost as if it had flash.)
+When Unseen Innkeeper enters, create an Ale token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.”)</text>
+    </card>
+    <card>
+      <name>CW02 — Flock of Pigeons</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cook {W} ({W}, Put this card on the bottom of your library from your graveyard: Target creature gains this card’s abilities until end of turn. Activate only as a sorcery.)
+Flying
+{1}, {T}: You get {V} (a core counter).</text>
+    </card>
+    <card>
+      <name>CW03 — Ascendant of the Many</name>
+      <set rarity="common" splitterPath="/CW03 — Ascendant of the Many.png" >TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Elevate — You control three or more creatures. (At the beginning of your upkeep, if the elevate condition is true, transform this permanent.)
+---
+(Back): Speaker of the Many</text>
+      <related attach="transform">Speaker of the Many</related>
+    </card>
+    <card>
+      <name>Speaker of the Many</name>
+      <set rarity="common" splitterPath="/Speaker of the Many.png" >TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Elevate — You don’t control three or more creatures. (At the beginning of your upkeep, if the elevate condition is true, transform this permanent.)
+Whenever another creature you control attacks, that creature gets +1/+0 until end of turn.
+---
+(Front): CW03 — Ascendant of the Many</text>
+      <related attach="transform">CW03 — Ascendant of the Many</related>
+    </card>
+    <card>
+      <name>UW01 — Burst Shield Vanquisher</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Burst Shield Vanquisher can’t leave the battlefield if it entered this turn.</text>
+    </card>
+    <card>
+      <name>UR01 — Burst Rage Crusher</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Barbarian </type>
+        <maintype>Creature</maintype>
+        <pt>3/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Burst Rage Crusher can’t leave the battlefield if it entered this turn.</text>
+    </card>
+    <card>
+      <name>CW04 — Drinking Rally</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Create a 1/1 red Peasant creature token.
+• Draw a card.
+• You get {V} (a core counter).
+• Create an Ale token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.”)</text>
+    </card>
+    <card>
+      <name>CW08 — Messenger Raven</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ambush 3W (You may cast this spell for its ambush cost as if it had flash.)
+Flying
+If you control three or more creatures, Messenger Raven gets +1/+0 and has lifelink.</text>
+    </card>
+    <card>
+      <name>CW06 — Friendly Innkeeper</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cook 1W (1W, Put this card on the bottom of your library from your graveyard: Target creature gains this card’s abilities until end of turn. Activate only as a sorcery.)
+Whenever Friendly Innkeeper becomes tapped, create a 1/1 red Peasant creature token.</text>
+    </card>
+    <card>
+      <name>CW07 — Multiplicitude Strays</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Multiplicitude Strays enters, you get {V} (a core counter).
+Multiplicitude Strays gets +1/+0 for each {V} you have.
+A deck can have any number of cards named Multiplicitude Strays.</text>
+    </card>
+    <card>
+      <name>CW09 — Knowledgeable Motivator</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Knowledgeable Motivator enters, each player draws a card.
+Whenever a player draws a card other than the first card that player draws on each of their draw steps, create a 1/1 red Peasant creature token.</text>
+    </card>
+    <card>
+      <name>CW05 — Core Summons</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1VVW</manacost>
+        <cmc>4</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Create two 1/1 red Peasant creature tokens.</text>
+    </card>
+    <card>
+      <name>CW10 — Drinking Party</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Drinking Party enters, create two 1/1 red Peasant creature tokens and an Ale token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.”)</text>
+    </card>
+    <card>
+      <name>CW11 — Census Keeper</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creature tokens you control get +1/+1.
+Noncreature tokens you control have “{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.”</text>
+    </card>
+    <card>
+      <name>CW12 — Titan of Pearlcore</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Titan of Pearlcore enters, you get VVVVV (five core counters).</text>
+    </card>
+    <card>
+      <name>CW13 — Thou Art Slain</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>CW14 — Surprising Peace</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ambush 2W (You may cast this spell for its ambush cost as if it had flash.)
+Enchant creature
+Enchanted creature can’t attack or block.</text>
+    </card>
+    <card>
+      <name>CW15 — Resultant Smite</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment. You get {V} (a core counter).
+• Destroy target creature with power 3 or greater.</text>
+    </card>
+    <card>
+      <name>CW16 — Meet for Drinks</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn. Create an Ale token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.”)</text>
+    </card>
+    <card>
+      <name>CW17 — Efficiency Boon</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has “{T}: Target creature you control gets +2/+1 until end of turn. Activate only as a sorcery.”</text>
+    </card>
+    <card>
+      <name>CW18 — Tavern Armory</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1 and have first strike.
+At the beginning of your end step, sacrifice Tavern Armory.</text>
+    </card>
+    <card>
+      <name>CW19 — Temporary Alliance</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player draws two cards.</text>
+    </card>
+    <card>
+      <name>CU01 — Indulgent Researcher</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Indulgent Researcher enters, you get {V} (a core counter). Create a Sweet token. (It’s an artifact with “{2}, {T}: Sacrifice this artifact.” and “When this artifact leaves the battlefield, discard a card, then draw a card.”)
+{1}, Sacrifice an artifact: Indulgent Researcher gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CU02 — Startling Voidcrab</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Devoid (This card has no color.)
+Ambush 2U (You may cast this spell for its ambush cost as if it had flash.)
+Whenever Startling Voidcrab blocks, you get {V} (a core counter). Scry 1.</text>
+    </card>
+    <card>
+      <name>CU03 — Ascendant of the Few</name>
+      <set rarity="common" splitterPath="/CU03 — Ascendant of the Few.png" >TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Elevate — You cast a spell since the end of your last turn. (At the beginning of your upkeep, if the elevate condition is true, transform this permanent.)
+---
+(Back): Speaker of the Few</text>
+      <related attach="transform">Speaker of the Few</related>
+    </card>
+    <card>
+      <name>Speaker of the Few</name>
+      <set rarity="common" splitterPath="/Speaker of the Few.png" >TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast your first spell each turn other than during your turn, put a +1/+1 counter on Speaker of the Few.
+---
+(Front): CU03 — Ascendant of the Few</text>
+      <related attach="transform">CU03 — Ascendant of the Few</related>
+    </card>
+    <card>
+      <name>CU06 — Aerial Phase Cycler</name>
+      <set rarity="common" splitterPath="/CU06 — Aerial Phase Cycler.png" >TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Aerial Phase Cycler deals combat damage to a player, draw a card and transform this creature.
+---
+(Back): Earthly Phase Cycler</text>
+      <related attach="transform">Earthly Phase Cycler</related>
+    </card>
+    <card>
+      <name>Earthly Phase Cycler</name>
+      <set rarity="common" splitterPath="/Earthly Phase Cycler.png" >TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Earthly Phase Cycler deals combat damage to a creature, you get {V} (a core counter). Transform this creature.
+---
+(Front): CU06 — Aerial Phase Cycler</text>
+      <related attach="transform">CU06 — Aerial Phase Cycler</related>
+    </card>
+    <card>
+      <name>CU04 — Unseen Calculator</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ambush 3U (You may cast this spell for its ambush cost as if it had flash.)
+When you cast this spell and whenever you cast a spell, if it’s not your turn, create a 1/1 red Peasant creature token.</text>
+    </card>
+    <card>
+      <name>CU05 — Motivated Scholar</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cook {0}. Activate only if you control a blue permanent. ({0}, Put this card on the bottom of your library from your graveyard: Target creature gains this card’s abilities until end of turn. Activate only as a sorcery.)
+Whenever a player draws a card other than the first card that player draws on each of their draw steps, put a +1/+1 counter on Motivated Scholar.</text>
+    </card>
+    <card>
+      <name>CU07 — Multiplicitude Carp</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Multiplicitude Carp enters, you get {V} (a core counter).
+When Multiplicitude Carp dies, draw X cards, where X is half the number of {V} you have, rounded down.
+A deck can have any number of cards named Multiplicitude Carp.</text>
+    </card>
+    <card>
+      <name>CU08 — Aerial Infogolem</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Clue Golem Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Aerial Infogolem enters, create two Sweet tokens. (They’re artifacts with “{2}, {T}: Sacrifice this artifact.” and “When this artifact leaves the battlefield, discard a card, then draw a card.”)
+Whenever you sacrifice an artifact, target creature you control gets +1/+1 and gains flying until end of turn.
+{2}, Sacrifice Aerial Infogolem: Draw a card.</text>
+    </card>
+    <card>
+      <name>CU09 — Titan of Sapphirecore</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Titan of Sapphirecore enters, you get VVVVV (five core counters).</text>
+    </card>
+    <card>
+      <name>CU10 — Sir Froggins the Multiplicitous</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sir Froggins the Multiplicitous enters, you get {V} (a core counter).
+Whenever a permanent you control transforms, you may put Sir Froggins the Multiplicitous from your hand or graveyard onto the battlefield.</text>
+    </card>
+    <card>
+      <name>CU11 — Refute Existence</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. You get VVV (three core counters).</text>
+    </card>
+    <card>
+      <name>CU12 — Tempting Treats</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}. If they did, you create a Sweet token. If they didn’t, they create a Sweet token. (It’s an artifact with “{2}, {T}: Sacrifice this artifact.” and “When this artifact leaves the battlefield, discard a card, then draw a card.”)</text>
+    </card>
+    <card>
+      <name>CU18 — Voidfreeze</name>
+      <set rarity="common" splitterPath="/CU18 — Voidfreeze.png" >TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Voidfreeze enters, tap target creature. Put two stun counters on it.
+2U: Transform this enchantment.
+---
+(Back): Voidfrost Elemental</text>
+      <related attach="transform">Voidfrost Elemental</related>
+    </card>
+    <card>
+      <name>Voidfrost Elemental</name>
+      <set rarity="common" splitterPath="/Voidfrost Elemental.png" >TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+---
+(Front): CU18 — Voidfreeze</text>
+      <related attach="transform">CU18 — Voidfreeze</related>
+    </card>
+    <card>
+      <name>CU14 — Core Study</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2VVU</manacost>
+        <cmc>5</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CU16 — Return to the Void</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand. If it shared a card type with a permanent you control, you get {V} (a core counter).</text>
+    </card>
+    <card>
+      <name>CU17 — Resultant Bubble</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +0/+3 and gains hexproof until end of turn. You get {V} (a core counter). </text>
+    </card>
+    <card>
+      <name>CU13 — Omnifreeze</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant permanent
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>CU19 — Resultant Evidence</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Resultant Evidence enters, draw a card.
+Sacrifice Resultant Evidence: You get VV (two core counters).
+{2}, Sacrifice Resultant Evidence: Draw a card.</text>
+    </card>
+    <card>
+      <name>MU01 — Refresh</name>
+      <set rarity="mythic">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Players may mulligan up to three times. (To mulligan, shuffle your hand into your library, then draw seven cards, then put a number of cards equal to the number of other mulligans you’ve taken this game onto the bottom of your library.)</text>
+    </card>
+    <card>
+      <name>RU03 — Frozen Refusal</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Counter target spell.
+• Draw a card.
+• You get VV.
+• Create a Treasure token.
+• Create a Sweet token. (It’s an artifact with “{2}, {T}: Sacrifice this artifact.” and “When this artifact leaves the battlefield, discard a card, then draw a card.”)
+• Create an Ale token. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.”)</text>
+    </card>
+    <card>
+      <name>CB19 — Core Leeching</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1VVB</manacost>
+        <cmc>4</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+You gain 3 life and each opponent loses 3 life.</text>
+    </card>
+    <card>
+      <name>RB07 — Resultant Deluge</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay X {V}.
+All creatures get -X/-X until end of turn.</text>
+    </card>
+    <card>
+      <name>UB10 — Isn&apos;t Golden</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Discard a card: Put a +1/+1 counter on enchanted creature.</text>
+    </card>
+    <card>
+      <name>CR16 — Core Combat</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>VR</manacost>
+        <cmc>2</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Target creature you control gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>MR01 — Remnok, Chaos Patron</name>
+      <set rarity="mythic">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - God </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Remnok, Chaos Patron enters, flip five coins. For each heads, create a Treasure token. For each tails, add RR.</text>
+    </card>
+    <card>
+      <name>RR01 — Void Ritual</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>VR</manacost>
+        <cmc>2</cmc>
+        <type>Core Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Add CC.</text>
+    </card>
+    <card>
+      <name>CG16 — Core Strength</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1VVG</manacost>
+        <cmc>4</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Put two +1/+1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>MC01 — Voidcore Replacement</name>
+      <set rarity="mythic">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>3VVV</manacost>
+        <cmc>6</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Put a card named Voidcore Replacement from your command zone into your graveyard. If you do, put a card from your hand into your command zone. It becomes a core in addition to its other types and costs an additional VVV.</text>
+    </card>
+    <card>
+      <name>MC02 — Void History</name>
+      <set rarity="mythic">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>2VV</manacost>
+        <cmc>4</cmc>
+        <type>Core Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+Search your library for a card, reveal it, and put it into your hand.
+Void History can’t be a starting core in decks with less than 500 cards.</text>
+    </card>
+    <card>
+      <name>RA01 — Identity Mixer</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Legendary creatures’ names are only the first letter of their printed name.</text>
+    </card>
+    <card>
+      <name>RA02 — Voidstone Deposit</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, you get {V}.
+The first core spell you cast each turn has “Add two mana in any combination of colors.”</text>
+    </card>
+    <card>
+      <name>CA01 — Core Creation</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>1V</manacost>
+        <cmc>2</cmc>
+        <type>Core Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)</text>
+    </card>
+    <card>
+      <name>UA04 — Core Manalith</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost>3V</manacost>
+        <cmc>4</cmc>
+        <type>Core Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Core cards can’t be in your starting deck. Instead, up to three of them start in your command zone, and copies of them can be cast from there.)
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>RU06 — Unity Orb</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Unity Orb enters, choose a creature type.
+Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren’t on the battlefield.</text>
+    </card>
+    <card>
+      <name>UL03 — Cemetery of Blood</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Blood enters, mill two cards.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>UL06 — Cemetery of Bone</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Bone enters, mill two cards.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>UL02 — Cemetery of Darkness</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Darkness enters, mill two cards.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>UL08 — Cemetery of Death</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Death enters, mill two cards.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>UL04 — Cemetery of Fire</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Fire enters, mill two cards.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>UL01 — Cemetery of Frost</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Frost enters, mill two cards.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>UL05 — Cemetery of Life</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Life enters, mill two cards.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>UL09 — Cemetery of Light</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Light enters, mill two cards.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>UL07 — Cemetery of Lightning</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Lightning mill two cards.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>UL10 — Cemetery of Water</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Cemetery of Water enters, mill two cards.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>UU10 — Conditioned Retrieval</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it’s your turn.
+This spell costs {1} less to cast if it targets a creature.
+This spell costs {1} less to cast if it targets a permanent you control.
+Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>UU11 — Enswiften</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast spells this turn as if they had flash. You may activate abilities this turn as an instant.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>RU07 — Great Anticipation</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells as if they had flash. You may activate abilities as an instant.</text>
+    </card>
+    <card>
+      <name>RU05 — Oracle of the Grind</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oracle of the Grind enters, conjure ten cards named Grinding Investigation into your library, then shuffle.</text>
+    </card>
+    <card>
+      <name>CU15 — Grinding Investigation</name>
+      <set rarity="common">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>UU09 — Radical Dissipation</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>RU04 — War of Wits</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, if your library has at least twice as many cards as your starting deck size, you win the game.</text>
+    </card>
+    <card>
+      <name>ML01 — Unchained Bazaar</name>
+      <set rarity="mythic">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>RL02 — Maniacal Laboratory</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {U}.
+If you would draw a card while your library has no cards in it, you win the game instead.</text>
+    </card>
+    <card>
+      <name>RL01 — Minehowler</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {W}.
+At the beginning of each player’s draw step, that player draws an additional card.</text>
+    </card>
+    <card>
+      <name>RL03 — Taintied Apothecary</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {B}.
+If an opponent would gain life, that player loses that much life instead.</text>
+    </card>
+    <card>
+      <name>RL04 — Swiftspear Monastery</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {R}.
+Creatures have haste.</text>
+    </card>
+    <card>
+      <name>RL05 — Mystic Woodland</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This land isn’t a spell and is affected by summoning sickness.)
+{T}: Add {G}.
+Other lands you control have “{T}: Add {G}.”</text>
+    </card>
+    <card>
+      <name>RL06 — Cavern of Seeking</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{V}, {T}, Sacrifice Cavern of Seeking: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>RL07 — Foretold Landmass</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with mana value 1.</text>
+    </card>
+    <card>
+      <name>RR04 — Failure Incarnate</name>
+      <set rarity="rare">TVV</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever a spell you control is countered, Failure Incarnate deals 1 damage to each opponent and you create a Treasure token.
+Boast — 1R: Counter target spell you control. (Activate only if this creature attacked this turn and only once each turn.)</text>
+    </card>
+    <card>
+      <name>UG10 — Exploratory Farming</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may play an additional land on each of your turns.</text>
+    </card>
+    <card>
+      <name>RW04 — Wrath of Failure</name>
+      <set rarity="uncommon">TVV</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two —
+• Destroy all nontoken creatures.
+• Destroy all token creatures.
+• Destroy all artifacts.
+• Destroy all enchantments.
+If Wrath of Failure would be put into your graveyard from being countered, put it into your hand instead.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Peasant Token</name>
+      <set>TVV</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CW04 — Drinking Rally</reverse-related>
+      <reverse-related>CW05 — Core Summons</reverse-related>
+      <reverse-related>CW06 — Friendly Innkeeper</reverse-related>
+      <reverse-related>CW09 — Knowledgeable Motivator</reverse-related>
+      <reverse-related>CW10 — Drinking Party</reverse-related>
+      <reverse-related>CU04 — Unseen Calculator</reverse-related>
+    </card>
+    <card>
+      <name>Ale Token</name>
+      <set>TVV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Ale </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target attacking creature. Activate only before blocks are declared.</text>
+      <token>1</token>
+      <reverse-related>CW01 — Unseen Innkeeper</reverse-related>
+      <reverse-related>CW04 — Drinking Rally</reverse-related>
+      <reverse-related>CW10 — Drinking Party</reverse-related>
+      <reverse-related>CW16 — Meet for Drinks</reverse-related>
+      <reverse-related>RU03 — Frozen Refusal</reverse-related>
+    </card>
+    <card>
+      <name>Sweet Token</name>
+      <set>TVV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Sweet </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Sacrifice this artifact.
+When this artifact leaves the battlefield, discard a card, then draw a card.</text>
+      <token>1</token>
+      <reverse-related>CU01 — Indulgent Researcher</reverse-related>
+      <reverse-related>CU08 — Aerial Infogolem</reverse-related>
+      <reverse-related>RU03 — Frozen Refusal</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>TVV</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>RU03 — Frozen Refusal</reverse-related>
+      <reverse-related>MR01 — Remnok, Chaos Patron</reverse-related>
+      <reverse-related>RR04 — Failure Incarnate</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
