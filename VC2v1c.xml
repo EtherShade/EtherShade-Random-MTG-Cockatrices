@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>VC2</name>
+      <longname>Vote Curated Season 2</longname>
+      <settype>VCs2</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Wretched Denial</name>
+      <set rarity="common">VC2</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Wretched Denial costs {U} less to cast if you’ve cast another blue spell this turn.
+Counter target spell.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
