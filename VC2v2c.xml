@@ -23,6 +23,20 @@
       <text>Wretched Denial costs {U} less to cast if you’ve cast another blue spell this turn.
 Counter target spell.</text>
     </card>
+    <card>
+      <name>Wretched Murder</name>
+      <set rarity="common">VC2</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature, discard a card, or pay 3 life.
+Destroy target creature.</text>
+    </card>
 
     <!-->Tokens</-->
 
