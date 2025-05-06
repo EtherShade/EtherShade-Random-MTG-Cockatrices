@@ -1,0 +1,2751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>COL</name>
+      <longname>Color Star Powered</longname>
+      <settype>COL</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Vessel of Moments</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Vessel of Moments enters, choose an until end of turn effect currently active.
+The chosen effect can’t end.</text>
+    </card>
+    <card>
+      <name>Soul Curse</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+0 and has first strike.
+Whenever enchanted creature deals combat damage to a permanent, that permanent loses all noncreature, nonplaneswalker types until end of turn.</text>
+    </card>
+    <card>
+      <name>Responsive Ritual</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add CRR.</text>
+    </card>
+    <card>
+      <name>Explosive Ritual</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add RRR.</text>
+    </card>
+    <card>
+      <name>Combined Purge</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+    </card>
+    <card>
+      <name>Triple Agent</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>After an opponent declares blockers, if Triple Agent is untapped, you may tap it. If you do, it becomes blocking an unblocked attacker you control of your choice.</text>
+    </card>
+    <card>
+      <name>Depths of Thought</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 2, then draw a card.</text>
+    </card>
+    <card>
+      <name>Mindful Visions</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 3, then draw a card.</text>
+    </card>
+    <card>
+      <name>Tidal Sphere</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Tidal Sphere: Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}.</text>
+    </card>
+    <card>
+      <name>Jarring Terrain</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Jarring Terrain enters tapped.
+You can’t play lands.
+{T}: Put a land card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>False Animation</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target noncreature artifact you control has base power 4 and can attack as though it was a creature.</text>
+    </card>
+    <card>
+      <name>Pioneer of Useless Augmentation</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pioneer of Useless Augmentation enters, put two +1/+1 counters on target noncreature permanent.</text>
+    </card>
+    <card>
+      <name>Advanced Research</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Stormkicker {U} (You may pay an additional {U} any number of times as you cast this spell. This number can’t be greater than the number of spells you’ve cast this turn.)
+When you cast this spell, copy it for each time it was kicked.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Double Trouble</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, replace all instances of the word “a” with the word “two” in target permanent, spell, or ability’s text. (Automatically adjust pluralization.)</text>
+    </card>
+    <card>
+      <name>Tutor of Artifice</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an artifact card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Sparks</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Havoc Wreaking</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Tutor of Auramancy</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an aura card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Legends</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a legendary card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Reaction</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an instant card or a card with flash, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Blood</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, put it into your hand, then shuffle. You lose 5 life.</text>
+    </card>
+    <card>
+      <name>Tutor of Pain</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, put it into your hand, then shuffle. You lose 3 life.</text>
+    </card>
+    <card>
+      <name>Tutor of Avarice</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, put it into your hand, then shuffle. Discard three cards.</text>
+    </card>
+    <card>
+      <name>Tutor of Vengeance</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, put it into your hand, then shuffle. Discard two cards.</text>
+    </card>
+    <card>
+      <name>Tutor of Proaction</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a sorcery card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Chaos</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, put it into your hand, then shuffle. Discard a card at random.</text>
+    </card>
+    <card>
+      <name>Tutor of Smithing</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an equipment card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Nature</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>R/G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Might</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a creature card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Tutor of Enchanting</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Prismatic Tutor</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>2/W2/U2/B2/R2/G</manacost>
+        <cmc>10</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Mana Reserve</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}: Put a reserve counter on Mana Reserve.
+Remove three reserve counters from Mana Reserve: Add {C}.
+Remove four reserve counters from Mana Reserve: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Mirrored Refusal</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, copy it.
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>Sigil of the Mastermind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — Your starting deck contains at least forty cards more than the minimum deck size. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+You may cast spells as though they had flash.
+You may only cast one spell from your hand each turn.
+At the beginning of your end step, if you have fewer than seven cards in hand, draw cards equal to the difference.</text>
+    </card>
+    <card>
+      <name>Sigil of the Warmind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — Your starting deck contains no creature cards. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+Play with your sideboard revealed.
+Players may cast non-legendary creature spells from your sideboard that don’t share a name with a creature spell cast this turn. Players may spend mana as if it was mana of any color to cast those spells. Spells cast this way lose flash and can’t have or gain flash.
+Whenever a non-legendary creature dies, put it into your sideboard.</text>
+    </card>
+    <card>
+      <name>Sigil of the Hivemind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — Your starting deck contains only creature and land cards. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+Creature spells with mana value 6 or greater cost {3} less to cast.</text>
+    </card>
+    <card>
+      <name>Sigil of the Chaosmind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — Your starting deck contains only land, instant, and sorcery cards. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+{3}: Exile an instant or sorcery card from your hand or graveyard. Any player may activate this ability.
+Whenever a player casts a spell, counter it unless they pay {1}. If a spell is countered this way, its controller puts a chaos counter on a random card exiled with Sigil of the Chaosmind. That player copies the card they put a counter on, then puts the copy onto the stack under their control.
+If a card exiled with Sigil of the Chaosmind has three or more chaos counters, put it into its owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>Sigil of the Madmind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — Your starting deck contains no land cards. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+At the beginning of your upkeep, create two Treasure tokens. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>Miniscule Tutelage</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a nonland card with mana value 2 or less, put it onto the stack under your control, then shuffle.</text>
+    </card>
+    <card>
+      <name>Miscroscopic Tutelage</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a nonland card with mana value 1 or less, put it onto the stack under your control, then shuffle.</text>
+    </card>
+    <card>
+      <name>Heartslay</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Heartpurge</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Impending Doom</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures.
+Suspend 2—WW (Rather than cast this card from your hand, you may pay WW and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Birthing Drone</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, sacrifice a creature. Reveal cards from the top of your library until you reveal a creature card with mana value equal to the sacrificed creature’s mana value plus 1. Put that card onto the battlefield under your control and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>The Lost One</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Enchantment Artifact Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+When The Lost One dies, draw a card.
+The Lost One is all colors.</text>
+    </card>
+    <card>
+      <name>Gateway of Amber</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color among legendary permanents you control.</text>
+    </card>
+    <card>
+      <name>Gateway of Jasper</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color among dragons you control.</text>
+    </card>
+    <card>
+      <name>Gateway of Opal</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.</text>
+    </card>
+    <card>
+      <name>Gateway of Tantalite</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Gateway of Tantalite enters tapped and with a stun counter.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Gateway of Chrome</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Gateway of Chrome enters, you may exile a card from your hand until Gateway of Chrome leaves the battlefield.
+{T}: Add one mana of any of the exiled card’s colors.</text>
+    </card>
+    <card>
+      <name>Gateway of Diamond</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Gateway of Diamond enters, sacrifice it unless you discard a land card.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Gatestone Amber</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color among legendary permanents you control.
+A deck can’t have more than two cards named Gatestone Amber.</text>
+    </card>
+    <card>
+      <name>Gatestone Chrome</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Gatestone Chrome enters, you may exile a card from your hand until Gatestone Chrome leaves the battlefield.
+{T}: Add one mana of any of the exiled card’s colors.
+A deck can’t have more than two cards named Gatestone Chrome.</text>
+    </card>
+    <card>
+      <name>Gatestone Diamond</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Gatestone Diamond enters, sacrifice it unless you discard a land card.
+{T}: Add one mana of any color.
+A deck can’t have more than two cards named Gatestone Diamond.</text>
+    </card>
+    <card>
+      <name>Gatestone Jasper</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color among dragons you control.
+A deck can’t have more than two cards named Gatestone Jasper.</text>
+    </card>
+    <card>
+      <name>Gatestone Opal</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.
+A deck can’t have more than two cards named Gatestone Opal.</text>
+    </card>
+    <card>
+      <name>Gatestone Tantalite</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Gatestone Tantalite enters tapped and with a stun counter.
+{T}: Add one mana of any color.
+A deck can’t have more than two cards named Gatestone Tantalite.</text>
+    </card>
+    <card>
+      <name>Oathbound Barrier</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Creatures with toughness greater than 1 can’t attack or block.</text>
+    </card>
+    <card>
+      <name>Ichorsun Core</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you activate a loyalty ability, copy it. You may choose new targets for the copy.
+Planeswalkers you control have “l-9: Create a 9/9 white Phyrexian creature token.”</text>
+    </card>
+    <card>
+      <name>Sparkrealm of Knowledge</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add C.
+[0]: Add U.
+[-5]: Add UUU.</text>
+    </card>
+    <card>
+      <name>Sparkrealm of Loyalty</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add C.
+[0]: Add W.
+[-5]: Add WWW.</text>
+    </card>
+    <card>
+      <name>Sparkrealm of Persistence</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add C.
+[0]: Add B.
+[-5]: Add BBB.</text>
+    </card>
+    <card>
+      <name>Sparkrealm of Strength</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add C.
+[0]: Add G.
+[-5]: Add GGG.</text>
+    </card>
+    <card>
+      <name>Sparkrealm of Courage</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>1</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add C.
+[0]: Add R.
+[-5]: Add RRR.</text>
+    </card>
+    <card>
+      <name>Perfect Planning</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Festive Procession</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more creature tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Cloning Trinket</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more noncreature tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Enchanted Doubling</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more enchantment tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Artifice Replicator</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an effect would create one or more artifact tokens under your control, it creates twice that many of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Esoteric Repeater</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you sacrifice another artifact or enchantment, you may pay {2}. If you do, at the beginning of the next end step, create a token that’s a copy of that permanent.</text>
+    </card>
+    <card>
+      <name>Triskaidekadoublaphile</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>-1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You have no maximum hand size.
+At the beginning of your upkeep, if you have twenty-six or more cards in your hand, you win the game.</text>
+    </card>
+    <card>
+      <name>Physicalize</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>W/B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target enchantment.
+If {B} was spent to cast this spell, you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Combined Ruin</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment. You lose 2 life.
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+    </card>
+    <card>
+      <name>Shieldspark</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Put a +1/+1 counter on up to one target creature.
+[-3]: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Goblin Inspector</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Detective </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Goblin Inspector enters, investigate.</text>
+    </card>
+    <card>
+      <name>Research Vessel</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Research Vessel dies, discover 2. (Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Sigil of the Voidmind</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2CC</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sigil — You took seven or more mulligans. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield.)
+Indestructible
+At the beginning of your upkeep, draw a card.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Ultimate Destruction</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If {W} was spent to cast this spell, destroy target enchantment.
+If {U} was spent to cast this spell, return target nonland permanent to its owner’s hand.
+If {B} was spent to cast this spell, destroy target creature.
+If {R} was spent to cast this spell, destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+If {G} was spent to cast this spell, destroy target artifact.</text>
+    </card>
+    <card>
+      <name>The EveryOne</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Enchantment Artifact Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+The EveryOne is all colors.
+As you search your library for one or more cards, you may choose The EveryOne as one of those cards. (For example, if you search for two land cards, you may find The EveryOne and a land card.)</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Wastes</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Urza’s </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add X {C}, where X is half the number of Urza’s lands you control, rounded down.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Gate</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Urza’s Gate </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+CCC, Return Urza’s Gate to its owner’s hand: Search your library for an Urza’s land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Desert</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Urza’s Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Whenever an artifact you control enters, Urza’s Desert deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Lightning Burst</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lightning Burst deals 5 damage to any target.</text>
+    </card>
+    <card>
+      <name>Lightning Point</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lightning Point deals 3 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Aura</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Urza’s Aura </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Enchant permanent
+As Urza’s Aura enters, attach it to a permanent you control.
+Enchanted permanent has “{T}: Add {C} for each Urza’s land you control.”</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Curse</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Urza’s Aura Curse </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Enchant player
+As Urza’s Curse enters, attach it to a player.
+Whenever enchanted player taps a land for mana, they add an additional {C} and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Armory</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land - Urza’s Equipment </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+Equipped creature gets +1/+1 and has “{T}: Add {C}.”
+Equip {T}</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Prison</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land - Urza’s Equipment </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+Equipped creature gets -1/-1.
+Whenever equipped creature dies, add CC.
+Shackle {T} ({T}: Attach to target creature you don’t control. Shackle only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Blood</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Blood enters tapped.
+When Laboratory of Blood enters, scry 2.
+{T}: Add {B} or {R}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Storehouse of Frost</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Frost enters tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Darkness</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Darkness enters tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Blood</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Blood enters tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Bone</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Bone enters tapped.
+{T}: Add {W} or {B}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Death</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Death enters tapped.
+{T}: Add {B} or {G}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Fire</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Fire enters tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Life</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Life enters tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Water</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Water enters tapped.
+{T}: Add {G} or {U}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Thunder</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Thunder enters tapped.
+{T}: Add {U} or {R}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Storehouse of Light</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storehouse of Light enters tapped.
+{T}: Add {R} or {W}.
+{1}, {T}: Draw a card. Activate only if you have three or fewer cards in your hand.</text>
+    </card>
+    <card>
+      <name>Laboratory of Thunder</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Thunder enters tapped.
+When Laboratory of Thunder enters, scry 2.
+{T}: Add {U} or {R}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Darkness</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Darkness enters tapped.
+When Laboratory of Darkness enters, scry 2.
+{T}: Add {U} or {B}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Life</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Life enters tapped.
+When Laboratory of Life enters, scry 2.
+{T}: Add {G} or {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Death</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Death enters tapped.
+When Laboratory of Death enters, scry 2.
+{T}: Add {B} or {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Fire</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Fire enters tapped.
+When Laboratory of Fire enters, scry 2.
+{T}: Add {R} or {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Water</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Water enters tapped.
+When Laboratory of Water enters, scry 2.
+{T}: Add {G} or {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Light</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Light enters tapped.
+When Laboratory of Light enters, scry 2.
+{T}: Add {R} or {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Frost</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Frost enters tapped.
+When Laboratory of Frost enters, scry 2.
+{T}: Add {W} or {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Laboratory of Bone</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Laboratory of Bone enters tapped.
+When Laboratory of Bone enters, scry 2.
+{T}: Add {W} or {B}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Titanic Dreadmaw</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Manaborn Elves</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Speaker of the Masses</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {W}. Spend this mana only to cast spells with mana value 2 or less.</text>
+    </card>
+    <card>
+      <name>Sparkrunner</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>Firerunner</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+    </card>
+    <card>
+      <name>Flames of Abandon</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flames of Abandon deals 6 damage to target player.</text>
+    </card>
+    <card>
+      <name>Overgrown Golem</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Overgrown Golem dies, discover 3. (Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Deathreek Golem</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Deathreek Golem dies, discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>Lightborn Golem</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct Angel </type>
+        <maintype>Creature</maintype>
+        <pt> 4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, double strike</text>
+    </card>
+    <card>
+      <name>Bloodstained Tower</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life: Add {C}.
+{T}, Sacrifice a creature: Add two mana in any combination of colors.</text>
+    </card>
+    <card>
+      <name>Last Breath of Agony</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, Last Breath of Agony deals 2 damage to you. Exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Fireborn Druids</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {R}. When that mana is spent to cast a nonsorcery spell, that spell deals 3 damage to you.</text>
+    </card>
+    <card>
+      <name>Deathbite Vermin</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink</text>
+    </card>
+    <card>
+      <name>Royal Banishment</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Royal Banishment enters, exile target creature until Royal Banishment leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Anthemspark</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create a 1/1 colorless Human creature token.
+[-7]: Conjure a card named War Anthem onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>War Anthem</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Wingspan Prowler</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you gain life, put a +1/+1 counter on Wingspan Prowler.</text>
+    </card>
+    <card>
+      <name>Pattern of Leeching</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You gain 1 life and each opponent loses 1 life.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Stray Prowler</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Fountain of Blood</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.
+Pay 5 life: Draw a card.</text>
+    </card>
+    <card>
+      <name>Preacher of the Life Cycle</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Preacher of the Life Cycle enters, whenever it attacks, and when it dies, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Chromashift</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target permanent or spell becomes the color of your choice until end of turn. Draw a card.
+Recall 2U (You may cast this card from your graveyard for its recall cost. Then shuffle it into its owner’s library.)</text>
+    </card>
+    <card>
+      <name>Chroma Generator</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Chroma Generator enters, choose a color.
+Whenever a spell of the chosen color resolves, choose one that hasn’t been chosen this turn  —
+• Draw a card.
+• Put a +1/+1 counter on each of up to three target creatures.
+• Create a 3/3 colorless Illusion creature token.
+When Chroma Generator leaves the battlefield, sacrifice all Illusions you control.</text>
+    </card>
+    <card>
+      <name>Chromashifter</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target permanent or spell becomes the color of your choice until end of turn.
+Sacrifice Chromashifter: Draw a card.</text>
+    </card>
+    <card>
+      <name>Chromalith</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chromalith enters, choose a color.
+{T}: Add one mana of the chosen color.
+Whenever a spell of the chosen color resolves, untap up to two target artifacts.</text>
+    </card>
+    <card>
+      <name>Chromashield</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target permanent gains protection from the color of your choice until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)
+A deck can have up to seven cards named Chromashield.</text>
+    </card>
+    <card>
+      <name>Chroma Engine</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Chroma Engine enters, choose a color.
+The first spell cast each turn is the chosen color in addition to its other colors.
+Whenever a spell of the chosen color an opponent controls resolves, that spell’s controller shuffles their library.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 01</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 01 dies, conjure a card named Ichorbrain Stage 02 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 02</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 02 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 03</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 03 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 04</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 04 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 05</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 05 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 06</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 06 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 07</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6U</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 07 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 08</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7U</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 08 dies, conjure a card named Ichorbrain Stage 03 onto the battlefield. Return it to your hand unless you pay {U}.</text>
+    </card>
+    <card>
+      <name>Ichorbrain Stage 09</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>8U</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Phyrexian Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ichorbrain Stage 09 dies, draw ten cards.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Trinket</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Urza’s Trinket: Look at target player’s hand.
+When you sacrifice Urza’s Trinket, draw a card.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s Cave</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Urza’s Cave </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{3}, {T}, Sacrifice Urza’s Cave: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Urza, Voidwalker</name>
+      <set rarity="mythic">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Urza </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Conjure a card named Urza’s Trinket onto the battlefield under your control.
+[-1]: Add C for each artifact you’ve sacrificed this turn.
+[-3]: You may sacrifice an artifact. When you do, destroy target creature.
+[-8]: Return all artifact cards from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>The Thousand World Wall</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Thousand World Wall can block any number of creatures.
+Creatures being blocked by The Thousand World Wall have trample.</text>
+    </card>
+    <card>
+      <name>Spark of Revival</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Planeswalker</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Spark of Revival enters, you may return up to one target planeswalker card with mana value 4 or less from your graveyard to the battlefield. When you do, you may have Spark of Revival gain one of that permanent’s activated abilities. (Indefinitely.)
+[-4]: Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Vision Trinket</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1} or {T} or sacrifice this artifact: Scry 1.</text>
+    </card>
+    <card>
+      <name>Ozron, the Hoarder</name>
+      <set rarity="mythic">COL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ward—Sacrifice a Treasure. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a Treasure.)
+Other creatures are Treasure artifacts in addition to their other types and have “{T}, Sacrifice this permanent: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Vat of Transmutation</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Vat of Transmutation enters, create a Treasure token.
+Treasures you control have “{T}, Sacrifice this artifact: Add two mana of any one color.”</text>
+    </card>
+    <card>
+      <name>Master Alchemist</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if mana from a Treasure was spent to cast it, each opponent loses life equal to that spell’s mana value.</text>
+    </card>
+    <card>
+      <name>Junkwight</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a permanent, put a +1/+1 counter on Junkwight.</text>
+    </card>
+    <card>
+      <name>Guardian&apos;s Gold</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Treasures you control have indestructible.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Scaleable Barrier</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature blocks, double its toughness.</text>
+    </card>
+    <card>
+      <name>A Step Ahead</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target noncreature spell.
+• Target player draws two cards, then discards a card.
+Escalate {1} (Pay this cost for each mode chosen beyond the first.)</text>
+    </card>
+    <card>
+      <name>Remove from the Picture</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {2}.
+• Counter target creature spell.</text>
+    </card>
+    <card>
+      <name>Urza&apos;s 8-Bit Golem</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker {X} (You may pay an additional {X} as you cast this spell.)
+Trample
+If Urza’s 8-Bit Golem was kicked, it enters with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Castle of Strength</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Castle of Strength enters tapped.
+Lands you control are forests in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Castle of Persistence</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Castle of Persistence enters tapped.
+Lands you control are swamps in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Castle of Loyalty</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Castle of Loyalty enters tapped.
+Lands you control are plains in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Castle of Courage</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Castle of Courage enters tapped.
+Lands you control are mountains in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Castle of Knowledge</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Castle of Knowledge enters tapped.
+Lands you control are islands in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Altar of Efficiency</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard a card: Add {C} or one mana of that card’s colors. You lose 1 life.</text>
+    </card>
+    <card>
+      <name>Vigor of the Wilds</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a permanent you control enters tapped, untap it.</text>
+    </card>
+    <card>
+      <name>Memory of the Wilderness</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target land you control, then return it to the battlefield under its owner’s control.
+Recall {G} (You may cast this card from your graveyard for its recall cost. Then shuffle it into its owner’s library.)</text>
+    </card>
+    <card>
+      <name>Karn, Scion of the Voidwalker</name>
+      <set rarity="mythic">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact Planeswalker - Karn </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Exile the top card of your library with a silver counter.
+[-1]: Put a card you own with a silver counter on it from exile into your hand.
+[-2]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
+[-3]: You may reveal an artifact card from your sideboard. Put that card into your hand.
+[-7]: You may activate up to seven of Karn, Scion of the Voidwalker’s other loyalty abilities without paying their costs.</text>
+    </card>
+    <card>
+      <name>Beseech the Cruel Gods</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BBB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an addition cost to cast this spell, sacrifice up to three nonland permanents.
+Search your library for a card, exile it face down, then shuffle. You may cast the exiled card without paying its mana cost if that spell’s mana value is X or less, where X is twice the amount of permanents sacrificed. Put the exiled card into your hand if it wasn’t cast this way. If you put a card into your hand this way, you lose 3 life.</text>
+    </card>
+    <card>
+      <name>Cavern Familiar</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bat </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Cavern Familiar enters, it deals 1 damage to any target.
+You may cast Cavern Familiar from your graveyard by sacrificing a Meal in addition to paying its other costs.</text>
+    </card>
+    <card>
+      <name>Frenzied Baking</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two Meal tokens. (They’re artifacts with “{1}: Sacrifice this artifact.”)</text>
+    </card>
+    <card>
+      <name>Ruthless Baking</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three Meal tokens. (They’re artifacts with “{1}: Sacrifice this artifact.”)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Ruthless Culinarian</name>
+      <set rarity="uncommon">COL</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Meals have “When you sacrifice this artifact, untap target creature.”
+{T}: Ruthless Culinarian deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Deadly Insight</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nonland permanent.
+Draw two cards and create a Treasure token.
+Recall 4B (You may cast this card from your graveyard for its recall cost. Then shuffle it into its owner’s library.)</text>
+    </card>
+    <card>
+      <name>Karnite Sunvessel</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Karnite Sunvessel dies, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Phantasmal Cook Off</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Phantasmal Cook Off enters, create three Meal tokens. (They’re artifacts with “{1}: Sacrifice this artifact.”)
+Meals you control have “When you sacrifice this artifact, add BR.”
+At the beginning of your end step, sacrifice Phantasmal Cook Off.</text>
+    </card>
+    <card>
+      <name>Valiant Martyr</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Valiant Martyr dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Spark Wellspring</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Spark Wellspring enters or leaves the battlefield, choose one —
+• Draw a card.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+1U: Sacrifice Spark Wellspring.</text>
+    </card>
+    <card>
+      <name>Lunar Trinket</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Tap an untapped permanent you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Altar of Elements</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a creature: Add CC.
+Sacrifice five creatures: Add WWUUBBRRGG.</text>
+    </card>
+    <card>
+      <name>Haunted Kitchen</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Haunted Kitchen enters, choose a card name.
+Creatures with the chosen name are Meal artifacts in addition to their other types and have “{1}: Sacrifice this artifact.”</text>
+    </card>
+    <card>
+      <name>Rinse and Repeat</name>
+      <set rarity="rare">COL</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap all Islands you control.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Human</name>
+      <set>COL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Anthemspark</reverse-related>
+      <reverse-related>Shieldspark</reverse-related>
+      <reverse-related>Spark of Revival</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>COL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Sigil of the Madmind</reverse-related>
+    </card>
+    <card>
+      <name>Phyrexian</name>
+      <set>COL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Phyrexian </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Ichorsun Core</reverse-related>
+    </card>
+    <card>
+      <name>Illusion</name>
+      <set>COL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Chroma Generator</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
