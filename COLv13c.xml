@@ -820,8 +820,8 @@ Creatures with toughness greater than 1 can’t attack or block.</text>
       <set rarity="common">COL</set>
       <prop>
         <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
       </prop>
@@ -1736,8 +1736,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       <set rarity="common">COL</set>
       <prop>
         <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2831,7 +2831,7 @@ When Trinket Peddler enters, mill four cards.
       <tablerow>0</tablerow>
       <text>Sigil — Your starting deck contains no land cards. (At the beginning of the first upkeep, if this card’s sigil condition is met, you may reveal it from your sideboard and put it onto the battlefield. A deck can’t have any cards with sigil.)
 Indestructible
-If a spell or ability you control that isn’t an ability of Sigilvista of Fire would add one or more mana, it adds that much mana plus an additional {R} or {G}.
+If you would add one or more mana from a nonland source, add that much mana plus an additional {R} or {G} instead.
 {T}: Add {R} or {G}.</text>
     </card>
     <card>
@@ -3588,7 +3588,7 @@ Whenever a permanent entering causes a triggered ability to trigger, choose one 
     </card>
     <card>
       <name>Aetherized Mob</name>
-      <set rarity="common">COL</set>
+      <set rarity="rare">COL</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -3800,8 +3800,8 @@ Whenever you lose life, discard a card.</text>
       <set rarity="rare">COL</set>
       <prop>
         <colors>WBR</colors>
-        <manacost>2RWB</manacost>
-        <cmc>5</cmc>
+        <manacost>1RWB</manacost>
+        <cmc>4</cmc>
         <type>Legendary Creature - Human Shaman </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
@@ -3838,7 +3838,7 @@ Whenever a Phoenix leaves your graveyard, Phoenixes you control gain haste until
       <tablerow>2</tablerow>
       <text>Flying
 As long as Marrowsucker Phoenix is in your graveyard, Phoenixes you control get +1/+0.
-1WB, Pay 3 life: Return Marrowsucker Phoenix to the battlefield tapped.</text>
+WB, Pay 3 life: Return Marrowsucker Phoenix to the battlefield tapped.</text>
     </card>
     <card>
       <name>Kalio, the Ash Mother</name>
@@ -3868,7 +3868,7 @@ Whenever Kalio, the Ash Mother attacks, return all Phoenix cards from your grave
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-1BR, Discard a card: Return Vicious Firebird from the graveyard to the battlefield tapped.</text>
+BR, Discard a card: Return Vicious Firebird from the graveyard to the battlefield tapped.</text>
     </card>
     <card>
       <name>Inspiring Conflagrator</name>
@@ -3898,7 +3898,7 @@ Whenever you attack with three or more creatures, return Inspiring Conflagrator 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you attack with a Phoenix, you may mill two cards.
-Activated abilities of Phoenix cards in your graveyard cost {1} less to activate.</text>
+Whenever a Phoenix you control enters, each opponent loses 1 life.</text>
     </card>
     <card>
       <name>Deathbane Titan</name>
@@ -3913,6 +3913,19 @@ Activated abilities of Phoenix cards in your graveyard cost {1} less to activate
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Energy Reserve</name>
+      <set rarity="common">COL</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
     </card>
 
     <!-->Tokens</-->
