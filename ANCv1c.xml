@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ANC</name>
+      <longname>Ancient</longname>
+      <settype>ANC</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Agonizing Silence</name>
+      <set rarity="rare">ANC</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Counter target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Cavern of Spirits</name>
+      <set rarity="rare">ANC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell, and that spell gains spellward {3}. (Whenever this spell becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
