@@ -37,6 +37,33 @@ Counter target activated or triggered ability.</text>
       <text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell, and that spell gains spellward {3}. (Whenever this spell becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)</text>
     </card>
+    <card>
+      <name>Mirror Closet</name>
+      <set rarity="rare">ANC</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The “legend rule” doesn’t apply.</text>
+    </card>
+    <card>
+      <name>Mirror Halls</name>
+      <set rarity="rare">ANC</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+The “legend rule” doesn’t apply.</text>
+    </card>
 
     <!-->Tokens</-->
 
