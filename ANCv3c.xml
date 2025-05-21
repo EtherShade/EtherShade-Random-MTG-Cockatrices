@@ -64,6 +64,20 @@ Counter target activated or triggered ability.</text>
       <text>{T}: Add {C}.
 The “legend rule” doesn’t apply.</text>
     </card>
+    <card>
+      <name>Wasteful Refusal</name>
+      <set rarity="common">ANC</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Counter target spell unless its controller pays {1}.</text>
+    </card>
 
     <!-->Tokens</-->
 
