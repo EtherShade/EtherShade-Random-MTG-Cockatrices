@@ -1,0 +1,3992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ROU</name>
+      <longname>Realm of the Ultraprism</longname>
+      <settype>ESC</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>MA01 The Ultraprism</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+The Ultraprism enters tapped.
+{T}: Add CCCCCCCC. You get PPPPPPPP (eight prism counters).
+You may spend mana to pay mana costs as if that mana can pay for those mana costs.</text>
+    </card>
+    <card>
+      <name>CC03 Chittering Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {B} —
+Put a lifelink counter on a spell or creature you control.
+III — {R} —
+Chittering Lightform deals 3 damage to target creature.</text>
+    </card>
+    <card>
+      <name>RL01 Ultraprismatic Vista</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{P}, {T}, Sacrifice Ultraprismatic Vista: Search your library for a land card, put it onto the battlefield, then shuffle. ({P} is a prism counter.)</text>
+    </card>
+    <card>
+      <name>CW02 Piercelight Trainee</name>
+      <set rarity="common" splitterPath="/CW02 Piercelight Trainee.png" >ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Fledgling 2 (At the beginning of your upkeep and whenever this creature attacks, put a time counter on it. When this has 2 time counters, remove them and transform this.)
+---
+(Back): Piercelight Guardian</text>
+      <related attach="transform">Piercelight Guardian</related>
+    </card>
+    <card>
+      <name>Piercelight Guardian</name>
+      <set rarity="common" splitterPath="/Piercelight Guardian.png" >ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+---
+(Front): CW02 Piercelight Trainee</text>
+      <related attach="transform">CW02 Piercelight Trainee</related>
+    </card>
+    <card>
+      <name>CW03 Prism-Eyed Familiar</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prism-Eyed Familiar enters, draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CW04 Swiftbite Wingrat</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat Bird Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Swiftbite Wingrat attacks and isn’t blocked, it deals 1 damage to the permanent or player it’s attacking.</text>
+    </card>
+    <card>
+      <name>CW05 Death Trainee</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Transmortal Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth agile (When this creature dies, if it had no agile counters on it, return it to the battlefield under its owner’s control with an agile counter on it. Agile makes it deal first strike damage while attacking.)
+When Death Trainee dies, choose one —
+• You get PP (two prism counters).
+• Death Trainee deals 1 damage to target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>CU06 Fearful Fisherman</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Fearful Fisherman enters and when it dies, create a 0/1 blue Frog creature token.</text>
+    </card>
+    <card>
+      <name>CW07 Cart Horse</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Cart Horse becomes the target of a spell or ability, it gets +1/+0 until end of turn. If this is the first time this ability has triggered this turn, you get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CW08 Chromageist Lightcaller</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Whenever Chromageist Lightcaller attacks, create a 1/1 white Spirit enchantment creature token.
+Enchanted creature gets +2/+0 and gains “Whenever this creature attacks, create a 1/1 white Spirit enchantment creature token.”</text>
+    </card>
+    <card>
+      <name>CW09 Reflective Angel</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3W: Target enchantment becomes a copy of Reflective Angel until end of turn.</text>
+    </card>
+    <card>
+      <name>CW10 Disparate Council</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rat Horse Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Disparate Council attacks, put a +1/+1 counter on target creature that shares a type with it.</text>
+    </card>
+    <card>
+      <name>CW11 Short-Lived Hero</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast Short-Lived Hero and when it dies, exile target creature you control, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CW12 Prismic Pearl Entity</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W // WPP</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>4/6</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Pearl Entity enters, you get PPPP (four prism counters).
+--- 
+(You can cast copies of this while in play)
+Create a 1/1 white Spirit enchantment creature token.</text>
+    </card>
+    <card>
+      <name>CW13 Exverminate</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exverminate deals 3 damage to target attacking or blocking creature.
+If you control a Rat, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>CW14 Remnant of True Pacifism</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow {W} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Enchanted creature gains the following abilities.
+This creature can’t attack or block.
+{3}: This creature loses all abilities until end of turn.</text>
+    </card>
+    <card>
+      <name>CW15 Rise Up for Honor</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CW16 Council Meeting</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+You gain life equal to the number of cards you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>CW17 Battle Cry</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW18 Prismic Purification</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment. You gain 1 life.
+• Draw a card. You get {P} (a prism counter).
+• You get {P}, then proliferate.  (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>RW01 The Shield of Belief</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would create one or more tokens, instead create twice that many tokens.”
+Equip 2W</text>
+    </card>
+    <card>
+      <name>RW02 Soulbond</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+If Soulbond is attached to you, sacrifice it.
+Whenever enchanted player loses life, you lose that much life.
+Whenever you lose life, enchanted player loses that much life.</text>
+    </card>
+    <card>
+      <name>RM09 The Lord High Stallion</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RRWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Lord High Stallion becomes the target of a spell or ability, creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>RW03 Invulnerable Chromageist</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 2WW (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Indestructible
+Enchanted creature gains indestructible.</text>
+    </card>
+    <card>
+      <name>UW03 Vermin Medic</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a source you control deals noncombat damage to a permanent or player, you gain that much life.</text>
+    </card>
+    <card>
+      <name>UW01 Tangiblade Chromageist</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 1W (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Agile (This creature deals first strike damage while attacking.)
+Enchanted creature has agile.</text>
+    </card>
+    <card>
+      <name>UW04 Automated Imbuer</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Golem Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Enchantment creatures you control get +1/+1.
+Enchanted creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>UW05 Dreamlight Steed</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Dreamlight Steed becomes the target of a spell or ability, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UW06 Stern Librarian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever an opponent draws a card, that player may pay {2}. If they don’t, draw a card.</text>
+    </card>
+    <card>
+      <name>UW07 Prismatic Angel</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>M</colors>
+        <manacost>4W // PPP</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Angel  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>3/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flying
+Whenever a creature you control enters or attacks, you get {P} (a prism counter).
+--- 
+Creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>UW02 Cyclic Combatant</name>
+      <set rarity="uncommon" splitterPath="/UW02 Cyclic Combatant.png" >ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Transmortal Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fledgling 3 (At the beginning of your upkeep and whenever this creature attacks, put a time counter on it. When this has 3 time counters, remove them and transform this.)
+---
+(Back): Prime Slayer</text>
+      <related attach="transform">Prime Slayer</related>
+    </card>
+    <card>
+      <name>Prime Slayer</name>
+      <set rarity="uncommon" splitterPath="/Prime Slayer.png" >ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Transmortal Human Warrior </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Agile (This creature deals first strike damage while attacking.)
+Rebirth time (When this creature dies, if it had no time counters on it, return it to the battlefield under its owner’s control with a time counter on it.)
+---
+(Front): UW02 Cyclic Combatant</text>
+      <related attach="transform">UW02 Cyclic Combatant</related>
+    </card>
+    <card>
+      <name>UW08 Ultrapearl Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever you pay one or more {P}, populate. (To populate, create a token that’s a copy of a creature token you control. {P} is a prism counter)</text>
+    </card>
+    <card>
+      <name>UW09 Piercelight Smashing</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature, artifact, or enchantment. You get X {P}, where X is the mana value of the destroyed permanent. ({P} are prism counters.)</text>
+    </card>
+    <card>
+      <name>UW10 Prismic Alliance</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player draws two cards and gets PP (two prism counters).</text>
+    </card>
+    <card>
+      <name>CU02 Shiftling</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Shiftling enters, you may have it become a copy of another creature you control until end of turn, except it’s a Shapeshifter in addition to its other types and has haste and defender.</text>
+    </card>
+    <card>
+      <name>CU01 Young Owl</name>
+      <set rarity="common" splitterPath="/CU01 Young Owl.png" >ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fledgling 3 (At the beginning of your upkeep and whenever this creature attacks, put a time counter on it. When this has 3 time counters, remove them and transform this.)
+Whenever another enchantment enters under your control, put a time counter on Young Owl.
+---
+(Back): Bearer of Winged Wisdom</text>
+      <related attach="transform">Bearer of Winged Wisdom</related>
+    </card>
+    <card>
+      <name>Bearer of Winged Wisdom</name>
+      <set rarity="common" splitterPath="/Bearer of Winged Wisdom.png" >ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Bird </type>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+---
+(Front): CU01 Young Owl</text>
+      <related attach="transform">CU01 Young Owl</related>
+    </card>
+    <card>
+      <name>CU03 Manachain Seer</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Manachain Seer enters, choose two. You may choose the same option more than once —
+• Add {U}.
+• You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CU05 Tome Hunter</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Move a counter from target creature you control to target creature.
+{U}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CU04 Bewinged Frog</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bewinged Frog enters with a flying counter.</text>
+    </card>
+    <card>
+      <name>CU07 Limb Gifter</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Limb Gifter enters and whenever you draw your second card each turn, choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CU08 Symmetry Seeker</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control that’s a Shapeshifter or has power equal to its toughness enters, put a +1/+1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>CU18 Hatch a Plan</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CU11 Antipurity Force</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if it targets a spell that’s exactly one color.
+Counter target spell. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CU12 Creation Pierce</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell with a noncreature type unless its controller pays {2}.</text>
+    </card>
+    <card>
+      <name>CU13 Comfortable Stasis</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Comfortable Stasis enters, you get PP (two prism counters).
+Enchanted creature loses its printed abilities.</text>
+    </card>
+    <card>
+      <name>CU14 Studificate</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards. You get PP (two prism counters).</text>
+    </card>
+    <card>
+      <name>CU15 Seek Answers</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Scry 1.
+• Surveil 1.
+• Put a +1/+1 counter on target creature.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CU16 Odd Mannerisms</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has base power and toughness 4/4 if its a Shapeshifter. Otherwise, it has base power and toughness 1/1.</text>
+    </card>
+    <card>
+      <name>CU17 Varying Skills</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. Put a stun counter on it. Draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CU10 Fishy Thing</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Fish Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Fishy Thing enters, draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>RU02 Infinity Visions</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Bestow 3UU (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Whenever you cast a spell, untap Infinity Visions and enchanted permanent.
+{T}: Scry 1.</text>
+    </card>
+    <card>
+      <name>RU03 Perfection</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7UUUUUU</manacost>
+        <cmc>13</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Perfection enters, draw thirteen cards.
+Your maximum hand size is increased by seven.</text>
+    </card>
+    <card>
+      <name>RM01 Malaktior, High Curator</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, choose one. Conjure a card with that name onto the battlefield under your control —
+• The Mind of Truth.
+• The Eye of Perception.
+• The Hand of Execution.
+• The Ear of Subjectivity.
+• The Nose of Memory.
+• The Skull of Lies.
+• The Eye of Information.
+• The Hand of Judgment.
+• The Heart of Morality.
+• The Mouth of Philosophy.</text>
+    </card>
+    <card>
+      <name>UU02 Death Analyzer</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth defender (When this creature dies, if it had no defender counters on it, return it to the battlefield under its owner’s control with a defender counter on it.)
+When Death Analyzer enters your graveyard, draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>UU06 Clock Thing</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {U}.
+At the beginning of each upkeep, you get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>UU07 Ultrasapphire Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you pay one or more {P}, draw a card. ({P} is a prism counter)</text>
+    </card>
+    <card>
+      <name>UU08 Great Prismification</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Remove all counters from all permanents and players. You get that much {P} (prism counters).</text>
+    </card>
+    <card>
+      <name>CB05 Doomed Rats</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Rats enters, if it’s not a token, create a token that’s a copy of it.
+When Doomed Rats dies, it deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>CB04 Cutthroat Librarian</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast Cutthroat Librarian, pay 1 life.
+When Cutthroat Librarian enters, draw a card.</text>
+    </card>
+    <card>
+      <name>CB02 Lightvoid Vermin</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lightvoid Vermin enters, it deals 1 damage to each opponent.
+Whenever a source you control deals noncombat damage to a permanent or player for the first time each turn, choose one —
+• Lightvoid Vermin gets +1/+1 until end of turn.
+• You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CB03 Raven of Light&apos;s End</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, pay {1}, 3 life, or {P}.
+Flying</text>
+    </card>
+    <card>
+      <name>CB07 Reflection of the Void</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if you paid one or more additional costs to cast it, you gain X life and each opponent loses X life, where X is the number of additional costs you’ve paid this turn.</text>
+    </card>
+    <card>
+      <name>CB08 Warped Chromageist</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Spirit Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 4B (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Whenever Warped Chromageist or enchanted creature attacks, you get {P} (a prism counter).
+Enchanted creature gets +3/+2.</text>
+    </card>
+    <card>
+      <name>CB09 Piercelight Crusader</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment you control enters or leaves the battlefield, put a +1/+1 counter on Piercelight Crusader.</text>
+    </card>
+    <card>
+      <name>CB11 Prismatic Death</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You gain 1 life for each of its card types and 1 life for each of its colors.</text>
+    </card>
+    <card>
+      <name>CB12 Cull Vermin</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with total power and toughness 5 or less. That creature’s controller loses 2 life.</text>
+    </card>
+    <card>
+      <name>CB13 Seep Through</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent sacrifices a creature.
+If you control a Rat or Shapeshifter, Seep Through deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CB14 Corrupted Victory</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nonland permanent or exile three cards from your graveyard.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>CB15 Prismic Blood Rites</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a nonland permanent or pay {2} and 2 life.
+Draw two cards. You get PP (two prism counters).</text>
+    </card>
+    <card>
+      <name>CB16 Return Unscathed</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two target creature cards from your graveyard on the top of your library.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CB17 Lightrot Thoughts</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards two cards, loses 2 life, and loses PP (two prism counters). For each card not discarded this way and each {P} not lost this way, you get {P}.</text>
+    </card>
+    <card>
+      <name>CB18 On Wings of Death</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains rebirth flying until end of turn. (When that creature dies, if it had no flying counters on it, return it to the battlefield under its owner’s control with a flying counter on it.)</text>
+    </card>
+    <card>
+      <name>RB02 Mysterious Parasitism</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a black Aura enchantment token with “Enchanted creature gets -2/-2.”</text>
+    </card>
+    <card>
+      <name>RR03 Imperfection</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RRRRR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each opponent’s maximum hand size is decreased by seven.
+Whenever an opponent discards a card, they lose 1 life.</text>
+    </card>
+    <card>
+      <name>RM08 Raktro Voidlistener</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BBGG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>20/20</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vile — As an additional cost to cast this spell, you may pay 2 or 4 life. This spell costs {B} or {G} less to cast if you paid 2 life and BG less to cast if you paid 4 life.
+When Raktro Voidlistener enters, your life total becomes 11 minus your current life total.</text>
+    </card>
+    <card>
+      <name>RM06 The Piercelight Dawn</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WWBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment Creature - Avatar Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Noncreature enchantments you control have “Enchantment creatures you control get +1/+1”.</text>
+    </card>
+    <card>
+      <name>UB01 Plague Swarm</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plague Swarm costs {X} less to cast, where X is the amount of noncombat damage sources you control have dealt to permanents and players this turn.
+Plague Swarm enters with half X +1/+1 counters, rounded down.</text>
+    </card>
+    <card>
+      <name>UB02 Soulless Bodies</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Zombie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth decayed  (When this creature dies, if it had no decayed counters on it, return it to the battlefield under its owner’s control with a decayed counter on it. Decayed means it can’t block and when it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>UB06 Filth Blob</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rat Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Rats you control get +0/+1.
+Other Shapeshifters you control get +1/+0.</text>
+    </card>
+    <card>
+      <name>UB04 Cycleshifter</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Cycleshifter enter as a copy of a creature card in your graveyard, except it’s a 3/3 Shapeshifter.</text>
+    </card>
+    <card>
+      <name>UB05 Bloodstained Ritekeeper</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Enchantments you control become creatures with power and toughness 4/3 in addition to their other types until end of turn.</text>
+    </card>
+    <card>
+      <name>UB03 Void-Warped Corpse</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Zombie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast spells you cast, pay 2 life.
+Spells you cast cost {1} less.</text>
+    </card>
+    <card>
+      <name>UB07 Ultrajet Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you pay one or more {P}, you gain 2 life and each opponent loses 2 life. ({P} is a prism counter)</text>
+    </card>
+    <card>
+      <name>UB08 Rotting Prismtheft</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You lose 2 life unless you pay PP. (PP is two prism counters.)</text>
+    </card>
+    <card>
+      <name>UB10 Council Disolving</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Each opponent loses life equal to the number of cards you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>UB09 Bloodstained Ritual</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add BB. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>CR02 Swiftfoot Steed</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Swiftfoot Steed becomes the target of a spell or ability, it gets +1/+0 and gains agile until end of turn. (Agile means: This creature deals first strike damage while attacking.)</text>
+    </card>
+    <card>
+      <name>CR01 Deathbite Rat</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Deathbite Rat attacks, it deals 1 damage to the player or permanent it’s attacking.</text>
+    </card>
+    <card>
+      <name>CR03 Chaos Remnant</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth prowess (When this creature dies, if it had no prowess counters on it, return it to the battlefield under its owner’s control with a prowess counter on it.)</text>
+    </card>
+    <card>
+      <name>CR04 Trophy Hunter</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Trophy Hunter enters, choose one —
+• Create a Treasure token.
+• You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CR05 Spiritrot Vessel</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spiritrot Vessel enters with a +1/+1 counter.
+3R: Swap Spiritrot Vessel’s counters with target creature you control.</text>
+    </card>
+    <card>
+      <name>CR06 Manachain Wurm</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Manachain Wurm enters, add {R} or {G}.
+{G}: You get {P} (a prism counter).
+{R}: Target creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR07 Loyal Rodents</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Loyal Rodents enters, if it’s not a token, create a token that’s a copy of it.
+Whenever Loyal Rodents becomes blocked, it deals 2 damage to each creature blocking it.
+Whenever Loyal Rodents attacks and isn’t blocked, it deals 1 damage to the permanent or player it’s attacking.</text>
+    </card>
+    <card>
+      <name>CR08 Flaming Charger</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Flaming Charger becomes the target of a spell or ability, it deals 1 damage to each opponent. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CR09 Vermin Rider</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rat Horse </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vermin Rider enters or dies, it deals damage equal to its power to target creature. If you control that creature, instead it deals 1 damage to that creature.</text>
+    </card>
+    <card>
+      <name>CR11 Firelight Blast</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Firelight Blast deals 2 damage to any target. Surveil 1. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CR12 Manachain Fervor</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast if mana from a nonland source was spent to cast it.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR13 Mana Overflow</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target permanent with a mana ability. If it wasn’t a land, draw a card. If you controlled it, draw a card.</text>
+    </card>
+    <card>
+      <name>CR14 Prismatic Creation</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card or pay {U}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR15 Prismatic Strength</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+0.
+{G}: Enchanted creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR16 Lightsurge</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +X/+0 and gains first strike and trample until end of turn, where X is twice the amount of colors spent to cast this spell.</text>
+    </card>
+    <card>
+      <name>CR17 Lightning Shatter</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy two target artifacts.
+• Destroy target artifact. You get PP (two prism counters).
+• Draw a card. You get PP.</text>
+    </card>
+    <card>
+      <name>CR18 Library Stockpile</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Library Stockpile enters, draw a card. You get {P} (a prism counter).
+{T}, Sacrifice Library Stockpile: Add {U}.</text>
+    </card>
+    <card>
+      <name>RR02 Prism Hoard</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add RRR.
+PP: Untap Prism Hoard. (PP is two prism counters.)
+At the beginning of your end step, sacrifice Prism Hoard.</text>
+    </card>
+    <card>
+      <name>RM03 The Chittering Voice</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RRWBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Kindred Enchantment - Rat </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a source you control deals noncombat damage to a player for the first time each turn, add that much mana in any combination of colors.
+Whenever a source you control deals noncombat damage to a player for the second time each turn, you create that many 1/1 black Rat creature tokens.
+Whenever a source you control deals noncombat damage to a player for the third time each turn, draw that many cards. You lose that much life.</text>
+    </card>
+    <card>
+      <name>RM04 The Ultraprism Regent</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GGURR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}: You get {P} (a prism counter).
+PP: Add {C}.
+13PPPPPPPPPPPPP: You win the game.</text>
+    </card>
+    <card>
+      <name>UR01 Flamefilth Rat</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+{T}: Flamefilth Rat deals 1 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>UR02 Manachain Wrecker</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Berserker Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Manachain Wrecker enters, add one mana of any color.
+{G}: Manachain Wrecker gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>UR03 Book Burner</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Berserker Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Book Burner enters, draw a card.
+Discard a card: Book Burner gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR04 Fireborn Asheater</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fireborn Asheater enters with a +1/+1 counter.
+Whenever Fireborn Asheater attacks, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UR05 Stampede Mother</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Stampede Mother becomes the target of a spell or ability, choose target creature that hasn’t been chosen this turn. Choose one —
+• The chosen creature gets +2/+0 until end of turn.
+• The chosen creature gains trample until end of turn.
+• The chosen creature gains first strike until end of turn.
+• The chosen creature gets +1/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>UR06 Death Lightning</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>8/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+At the beginning of your end step, sacrifice Death Lightning.
+Rebirth trample (When this creature dies, if it had no trample counters on it, return it to the battlefield under its owner’s control with a trample counter on it.)</text>
+    </card>
+    <card>
+      <name>UR07 Ultraruby Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you pay one or more {P}, Ultraruby Guardian deals 3 damage to each opponent. ({P} is a prism counter)</text>
+    </card>
+    <card>
+      <name>UR08 Phoenix&apos;s Reckoning</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>8R</manacost>
+        <cmc>9</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Phoenix’s Reckoning costs {1} less for each counter among permanents you control.
+Proliferate, then move any number of counters from permanents you control to target permanent. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CW01 Freerunning Foal</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature you control gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG04 Lightened Guardian</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Deathtouch
+Enchanted creature gets +2/+3 and has deathtouch.</text>
+    </card>
+    <card>
+      <name>CG03 Druid of the Prismwood</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{T}: Add {G}. You get {P} (a prism counter).
+1G, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG05 Corrupted Chromageist</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth vigilance (When this creature dies, if it had no vigilance counters on it, return it to the battlefield under its owner’s control with a vigilance counter on it.)
+Corrupted Chromageist has decayed as long as it doesn’t have any counters. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>CG02 Prismwood Tusker</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prismwood Tusker enters, you get PP (two prism counters).
+Whenever you cast a spell, if three or more colors of mana were spent to cast it, Prismwood Tusker gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG06 Helpful Chromageist</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 4G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Trample
+Enchanted creature gets +3/+4 and has trample.</text>
+    </card>
+    <card>
+      <name>CG07 Great Lightbeast</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Great Lightbeast enters, you get PPP (three prism counters).
+{3}: Put a +1/+1 counter on each creature you control. Spend only mana from differently typed sources to activate this ability.</text>
+    </card>
+    <card>
+      <name>CG08 Void Worshipper</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell that you paid an additional cost for, put a +1/+1 counter on Void Worshipper.</text>
+    </card>
+    <card>
+      <name>CG09 Might-Granting Chromageist</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 5G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Enchanted creatures you control get +3/+3.</text>
+    </card>
+    <card>
+      <name>CG10 Mightflow Tusker</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mightflow Tusker enters, put a +1/+1 counter on target creature.
+Mightflow Tusker gets +1/+1 for each counter on the creature you control with the most counters on it among creatures you control.</text>
+    </card>
+    <card>
+      <name>CG12 Prismclaim Battle</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Prismclaim Battle, pay {1} or {P}.
+Target creature you control fights target creature. You get PP (two prism counters).</text>
+    </card>
+    <card>
+      <name>CG13 Cyclical Growth</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains hexproof until end of turn. When it dies this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>CG14 Natural Accumulation</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. You may reveal up to two creature and/or land cards from among them and put them into your hand. Put the rest into your graveyard. If you put no cards into your hand this way, proliferate twice. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG15 Prismic Might</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+When Prismic Might leaves the battlefield, draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>CG16 Prismic Reclamation</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target creature with flying. You get PP (two prism counters).
+• Destroy target artifact. You get {P}.
+• Destroy target enchantment.
+• Draw a card. Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CG17 Extreme Wildgrowth</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Extreme Wildgrowth, pay {1} or {P}. ({P} is a prism counter.)
+Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CG18 Accumulate Might</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UG07 Crusher of Men</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GGG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Giant Beast </type>
+        <maintype>Creature</maintype>
+        <pt>14/14</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Whenever Crusher of Men deals fatal damage to a creature, you get PPPP (four prism counters).</text>
+    </card>
+    <card>
+      <name>RM05 The Chromat</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GGWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If a non-Aura enchantment would enter under your control, you may have it enter as an Aura with enchant permanent and “Enchanted creature gains this permanent’s abilities.”</text>
+    </card>
+    <card>
+      <name>RM10 Lemira, Mightflow Progenitor</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GGUU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Avatar Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lemira, Mightflow Progenitor enters, proliferate seven times. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UG01 Voidrot Resummoner</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spells you cast that you paid an additional cost for have rebound. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>UG02 Giant Chromageist</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Giant Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Enchanted creature gets +4/+2.</text>
+    </card>
+    <card>
+      <name>UG04 Lightblossom Hamadryad</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add three mana of different colors.
+Whenever you cast a multicolor spell, you get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>UG08 Prismneck Hydra</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prismneck Hydra enters with +1/+1 counters equal to twice the number of colors spent to cast it.</text>
+    </card>
+    <card>
+      <name>UG05 Spirit Eater</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Spirit Eater enters, each opponent sacrifices three artifacts and/or enchantments.</text>
+    </card>
+    <card>
+      <name>UG06 Ultraemerald Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you pay one or more {P}, put a +1/+1 counter on target creature. ({P} is a prism counter)</text>
+    </card>
+    <card>
+      <name>UM02 Archive Enforcer</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, put a +1/+1 counter on target creature. If this isn’t the first time this ability has resolved this turn, you get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>UM11 Piercelight Ritekeeper</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Enchantment spells you cast cost {1} less to cast and cost an additional 2 life to cast.</text>
+    </card>
+    <card>
+      <name>UM18 Stampeding Stallion</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Horse </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever another creature you control becomes the target of a spell or ability, that creature gets +1/+1 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>UM10 Chromageist Caretaker</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 3GW (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Enchanted creatures gains the following abilities.
+Vigilance
+Enchanted creatures you control get +2/+1.
+Other Spirits you control get +0/+1.</text>
+    </card>
+    <card>
+      <name>UM04 Wingform Shapecrafter</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Shapeshifter creatures you control that are copies get +1/+1 and have flying.
+Creatures you control that are copies get +0/+1.</text>
+    </card>
+    <card>
+      <name>UM13 Wingshedder Phoenix</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth flying (When this creature dies, if it had no flying counters on it, return it to the battlefield under its owner’s control with a flying counter on it.)
+1UR: Move a counter from Wingshedder Phoenix to target creature you control.</text>
+    </card>
+    <card>
+      <name>UM20 Mightflow Druid</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add X {C}, where X is the greatest number of counters among permanents you control.</text>
+    </card>
+    <card>
+      <name>UM06 Honored Swarmsinger</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Rat Bard </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Honored Swarmsinger enters, it deals 3 damage to target player.
+Rats you control get +X/+0, where X is the amount of noncombat damage sources you control have dealt to permanents and players this turn.</text>
+    </card>
+    <card>
+      <name>UM16 Swamp-Rite Chanter</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay additional costs twice for spells you cast.
+Whenever you cast a spell, if you paid one of its additional costs twice, copy it.</text>
+    </card>
+    <card>
+      <name>UM08 Prismatic Blessing</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell, if the mana spent to cast it has at least three of the following, copy that spell and you get PP (two prism counters) —
+• {U}, {W}, or {B}.
+• From a basic permanent.
+• From a creature.
+• From an artifact.
+• From an enchantment.
+• From an instant or sorcery.</text>
+    </card>
+    <card>
+      <name>CA01 Ultraprismite</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ultraprismite enters, you get PP (three prism counters).</text>
+    </card>
+    <card>
+      <name>CA02 Accumulation Golem</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Accumulation Golem enters, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CA03 Prismic Vessel</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prismic Vessel dies, you get PPPP (four prism counters).</text>
+    </card>
+    <card>
+      <name>CA04 Cyclilith</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cyclilith enters, draw a card.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>RA01 The Lantern of Alignment</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As The Lantern of Alignment enters, choose a creature type.
+As long as The Lantern of Alignment is attached to a creature, equipped creature and permanents you control of the chosen type have “{T}: Add one mana of this permanent’s colors.”
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UA01 Ultraprismite Bruteling</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Ultraprismite Bruteling can’t be blocked by creatures without haste.</text>
+    </card>
+    <card>
+      <name>UA02 Guarded Guardian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
+    </card>
+    <card>
+      <name>UA03 Bookstack Golem</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bookstack Golem costs {1} less to cast for each card you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>UA04 Prismic Core</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>UA05 Prismatic Wellspring</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prismatic Wellspring enters and when it leaves the battlefield, draw a card. You get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>RA04 Font of Prisms</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, you get {P} (a prism counter).</text>
+    </card>
+    <card>
+      <name>MC06 Ultraprismic Lightform</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
+Creaturize. (Create a token that’s a copy of this, except it’s a creature.)
+Basic {C} —
+Ward {1}
+II, III — Basic WUBRG —
+At the beginning of your upkeep, you win the game. (This effect does not trigger unless on a permanent.)</text>
+    </card>
+    <card>
+      <name>CG01 Lively Chromageist</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 1G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+When Lively Chromageist or enchanted creature dies, create a 1/1 white Spirit enchantment creature token.</text>
+    </card>
+    <card>
+      <name>RM02 The Amorphous Star</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UUBB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Kindred Enchantment Artifact - Shapeshifter </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control that are copies have ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+At the beginning of your end step, if you control five or more creatures that are copies, you win the game.</text>
+    </card>
+    <card>
+      <name>MC02 Prismatic Wheel</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {U} —
+Each player shuffles their hand and graveyard into their library.
+III — Each player discards their hand, then draws seven cards.</text>
+    </card>
+    <card>
+      <name>CB06 Shifting Slayer</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Shifting Slayer enters with your choice of three different counters from among +1/+1, menace, deathtouch, lifelink, haste, and reach.</text>
+    </card>
+    <card>
+      <name>UU04 Skilled Impersonator</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Skilled Impersonator enter as a copy of any permanent on the battlefield, except it’s a 1/1 Shapeshifter creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>UU10 Disperse Identity</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. You may have Shapeshifters you control become copies of that creature until end of turn.</text>
+    </card>
+    <card>
+      <name>CU09 Prismic Sapphire Entity</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U // UPP</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>4/6</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Sapphire Entity enters, you get PPPP (four prism counters).
+--- 
+(You can cast copies of this while in play)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CB10 Prismic Jet Entity</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B // BPP</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>6/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Jet Entity enters, you get PPPP (four prism counters).
+--- 
+(You can cast copies of this while in play)
+Each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>RU01 The Pan Flute of Ages</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent entering would cause a triggered ability you control to trigger, that ability triggers an additional time.”
+Equip 2U</text>
+    </card>
+    <card>
+      <name>RB01 The Crown of Doomsday</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If an opponent would lose life from a source other than combat damage, that player loses twice that much life instead.”
+Equip 2B</text>
+    </card>
+    <card>
+      <name>RL02 Tales of the Fae</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Saga </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Tales of the Fae gains “{T}: Add {C}.”
+II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
+III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>RA03 The Balancer&apos;s Helm</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a token that’s a copy of equipped creature, except the token isn’t legendary.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>RA02 Doubling Sphere</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Double the amount of each type of unspent mana you have.</text>
+    </card>
+    <card>
+      <name>RG03 Prismwood Caretaker</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Dryad </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C} for each enchantment you control.</text>
+    </card>
+    <card>
+      <name>CC11 Minimorphose</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add one mana of any color. Draw a card.</text>
+    </card>
+    <card>
+      <name>RG01 The Stave of Eternity</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would put one or more counters on a permanent or player, put twice that many counters on that permanent or player instead.”
+Equip 2G</text>
+    </card>
+    <card>
+      <name>UG10 Exponential Growth</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Remove any number of counters from a permanent you control. Put that many +1/+1 counters on each creature you control and that many loyalty counters on each planeswalker you control.</text>
+    </card>
+    <card>
+      <name>UG03 Great Wildebeast</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+{2}: Put a +1/+1 counter on Great Wildebeast. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UG09 Megamorphose</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add three mana in any combination of non-green colors. Draw a card.</text>
+    </card>
+    <card>
+      <name>RG02 The Woodqueen</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Dryad Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+The Woodqueen gets +1/+1 for each counter on it.</text>
+    </card>
+    <card>
+      <name>UR10 Pyrotechnic Ritual</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add RRR.</text>
+    </card>
+    <card>
+      <name>UC01 Essence of Heartbeat</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>UU05 Mightflow Optimizer</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mightflow Optimizer enters with a +1/+1 counter.
+{T}: Move a counter from Mightflow Optimizer to another target creature.
+2U, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UC02 Micromanage</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a permanent card with mana cost {0} or {1}, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>MU01 The Visiting Balancer</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card. You get P (a prism counter).
+[-1]: Put a basic land type counter of your choice on target land or a color counter of your choice on target nonland permanent.
+[-2]: Put target permanent with two or more types of counters on it into its owner’s library third from the top.
+[-7]: You get an emblem with “If you would add a mana of a color you haven’t added mana of this turn, instead add two of that mana.”</text>
+    </card>
+    <card>
+      <name>UU09 Exchange Rate</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exchange control of two target permanents with the same mana value.</text>
+    </card>
+    <card>
+      <name>UU01 Vessel of Imagination</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {U}. You can’t spend this mana to cast creature, artifact, or enchantment spells.</text>
+    </card>
+    <card>
+      <name>UU03 Annoying Amphibian</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your third or seventh card each turn, you may reveal Annoying Amphibian from your hand or graveyard. When you do, put it onto the battlefield.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CR10 Prismic Ruby Entity</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R // RPP</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>6/4</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Ruby Entity enters, you get PPPP (four prism counters).
+--- 
+(You can cast copies of this while in play)
+Ruby Stabbing deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>UR09 Thunderboom</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Thunderboom deals 1 damage to up to three target creatures.
+• Thunderboom deals 2 damage to target creature and 1 damage to another target creature.
+• Thunderboom deals 2 damage to target creature. Surveil 1.</text>
+    </card>
+    <card>
+      <name>CG11 Prismic Emerald Entity</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G // GPP</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Avatar  // Sorcery - Prism </type>
+        <maintype>Creature</maintype>
+    <pt>5/5</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When Prismic Emerald Entity enters, you get PPPP (four prism counters).
+--- 
+(You can cast copies of this while in play)
+Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>RM11 The Mind of Truth</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each player’s draw step, that player draws an additional card.</text>
+    </card>
+    <card>
+      <name>RM13 The Hand of Execution</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent draws a card, they lose 1 life.</text>
+    </card>
+    <card>
+      <name>RM15 The Nose of Memory</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw a card, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>CL01 Rift of Frost</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Frost: Add WU.</text>
+    </card>
+    <card>
+      <name>CL02 Rift of Darkness</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Darkness: Add UB.</text>
+    </card>
+    <card>
+      <name>CL03 Rift of Blood</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Blood: Add BR.</text>
+    </card>
+    <card>
+      <name>CL04 Rift of Fire</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Fire: Add RG.</text>
+    </card>
+    <card>
+      <name>CL05 Rift of Life</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Life: Add GW.</text>
+    </card>
+    <card>
+      <name>CL06 Rift of Bone</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Bone: Add WB.</text>
+    </card>
+    <card>
+      <name>CL07 Rift of Thunder</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Thunder: Add UR.</text>
+    </card>
+    <card>
+      <name>CL08 Rift of Death</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Death: Add BG.</text>
+    </card>
+    <card>
+      <name>CL09 Rift of Light</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Light: Add RW.</text>
+    </card>
+    <card>
+      <name>CL10 Rift of Water</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Water: Add GU.</text>
+    </card>
+    <card>
+      <name>CL11 Lighthouse of Frost</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Frost enters tapped.
+When Lighthouse of Frost enters, you get {P} (a prism counter).
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>CL12 Lighthouse of Darkness</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Darkness enters tapped.
+When Lighthouse of Darkness enters, you get {P} (a prism counter).
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>CL13 Lighthouse of Blood</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Blood enters tapped.
+When Lighthouse of Blood enters, you get {P} (a prism counter).
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>CL14 Lighthouse of Fire</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Fire enters tapped.
+When Lighthouse of Fire enters, you get {P} (a prism counter).
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>CL15 Lighthouse of Life</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Life enters tapped.
+When Lighthouse of Life enters, you get {P} (a prism counter).
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>CL16 Lighthouse of Bone</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Bone enters tapped.
+When Lighthouse of Bone enters, you get {P} (a prism counter).
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>CL17 Lighthouse of Thunder</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Thunder enters tapped.
+When Lighthouse of Thunder enters, you get {P} (a prism counter).
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>CL18 Lighthouse of Death</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Death enters tapped.
+When Lighthouse of Death enters, you get {P} (a prism counter).
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>CL19 Lighthouse of Light</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Light enters tapped.
+When Lighthouse of Light enters, you get {P} (a prism counter).
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>CL20 Lighthouse of Water</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Lighthouse of Water enters tapped.
+When Lighthouse of Water enters, you get {P} (a prism counter).
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>RC01 Etchings of Anticipation</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells as if they had flash.</text>
+    </card>
+    <card>
+      <name>UC04 Miniscule Tutelage</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a nonland card with mana value 2 or less, put it onto the stack under your control, then shuffle.</text>
+    </card>
+    <card>
+      <name>UC03 Miscroscopic Tutelage</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a nonland card with mana value 1 or less, put it onto the stack under your control, then shuffle.</text>
+    </card>
+    <card>
+      <name>RR01 The Sword of Aeons</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent becoming the target of a spell or ability would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.”
+Equip 2R</text>
+    </card>
+    <card>
+      <name>RM12 The Eye of Perception</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw a card, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>RM17 The Eye of Information</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a player would draw a card, instead each player draws a card.</text>
+    </card>
+    <card>
+      <name>RM14 The Ear of Subjectivity</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each opponent’s maximum hand size is reduced by 3.</text>
+    </card>
+    <card>
+      <name>RM16 The Skull of Lies</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent draws a card, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>RM18 The Hand of Judgment</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Hand of Judgment enters, draw a card.
+If you would draw a card, you may first surveil 2.</text>
+    </card>
+    <card>
+      <name>RM19 The Heart of Morality</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Attacking creatures get +X/+X, where X is the number of cards in the defending player’s hand.</text>
+    </card>
+    <card>
+      <name>RM20 The Mouth of Philosophy</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blocking creatures get +X/+X, where X is the number of cards in the defending player’s hand.</text>
+    </card>
+    <card>
+      <name>CC01 Archival Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {U} —
+Scry 3.
+III — {W} —
+Each player draws a card.</text>
+    </card>
+    <card>
+      <name>MC01 Prismatic Lever</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {W} —
+Destroy all creatures.
+III — Each player returns a creature card from that player’s graveyard to the battlefield under that player’s control.</text>
+    </card>
+    <card>
+      <name>MC03 Prismatic Screw</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {B} — Each player loses a third of their life, then discards a third of the cards in their hand, then sacrifices a third of the creatures they control of their choice, then sacrifices a third of the lands they control of their choice. Round up each time.
+III — Each player loses 1 life, discards a card, sacrifices a creature of their choice, then sacrifices a land of their choice.</text>
+    </card>
+    <card>
+      <name>MC04 Prismatic Button</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {R} — This turn, players may cast spells they own exiled with cards named Prismatic Button.
+III — Each player exiles the top seven cards of their library.</text>
+    </card>
+    <card>
+      <name>MC05 Prismatic Wedge</name>
+      <set rarity="mythic">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {G} — Each player draws X cards, where X is the greatest power among creatures.
+III — Each player creates X Treasure tokens, where X is the greatest power among creatures.</text>
+    </card>
+    <card>
+      <name>CC02 Amorphous Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {U} —
+Draw a card.
+III — {B} —
+Conjure a card named Shapeshifter Spawn onto the battlefield under your control.</text>
+      <related persistent="persistent">CB01 Shapeshifter Spawn</related>
+    </card>
+    <card>
+      <name>CB01 Shapeshifter Spawn</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth changeling (When this creature dies, if it had no changeling counters on it, return it to the battlefield under its owner’s control with a changeling counter on it.)</text>
+    </card>
+    <card>
+      <name>CC04 Burning Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I — {R} —
+Create a 0/1 blue Frog creature token. Put a +1/+1 counter or a prowess counter on it.
+II, III — {G} —
+Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CC05 Glimmering Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I, II — {G} —
+Create a green Aura enchantment token with enchant creature and “Enchanted creature gets +1/+1.”
+III — {W} —
+Create a token that’s a copy of a token you control.</text>
+    </card>
+    <card>
+      <name>CC06 Piercing Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I — {W} —
+Exile target creature or enchantment, then return it to the battlefield under your control.
+II, III — {B} —
+Until end of turn, target creature or enchantment gains “When this permanent dies, return it to the battlefield tapped under its owner’s control.”</text>
+    </card>
+    <card>
+      <name>CC07 Encrypted Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I — {U} —
+Move any number of counters from a permanent you control to another permanent.
+II, III — {R} — Each player proliferates. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CC08 Oozing Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+As an additional cost to cast this spell, sacrifice a creature.
+I — {B} —
+Draw a card. You gain 1 life and each opponent loses 1 life.
+II, III — {G} —
+You gain life equal to the sacrificed creature’s power. If you’ve gained 4 or more life from spells named Oozing Lightform this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>CC09 Stampeding Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I — {R} — Target creature gets +1/+0 and gains first strike until end of turn.
+II, III — {W} — Target creature gets +1/+0 and gains first strike until end of turn. If it already has first strike, it gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CC10 Incremental Lightform</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant - Lightform </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+(This spell gains effects based on the sources and colors of mana spent to cast it.)
+I — {G} — Proliferate. Surveil 1. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
+II, III — {U} — Proliferate. Scry 1. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>UM01 Archive Naysayer</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Archive Naysayer enters, choose one —
+• Draw a card.
+• Counter target spell unless its controller pays {X}, where X is the number of cards in your hand minus 3.</text>
+    </card>
+    <card>
+      <name>UM03 Amorphous Starlight</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Conjure three cards named Shapeshifter Spawn onto the battlefield under your control.</text>
+      <related persistent="persistent">CB01 Shapeshifter Spawn</related>
+    </card>
+    <card>
+      <name>UM05 Rataclysm</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Rataclysm enters, it deals 1 damage to each creature.
+If a source you control would deal noncombat damage to a permanent you don’t control or a player, it deals that much damage plus 1 instead.</text>
+    </card>
+    <card>
+      <name>UM07 Lightflame Shaman</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lightflame Shaman enters, add two mana of different nonred nongreen colors.</text>
+    </card>
+    <card>
+      <name>UM09 Chromageist Guide</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spells you cast for their bestow cost cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>UM12 Being of Piercelight</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>6WB</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Lifelink
+Ward—Pay 4 life or sacrifice an enchantment. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 4 life or sacrifices an enchantment.)</text>
+    </card>
+    <card>
+      <name>UM14 Incarnation Malleation</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw X cards. Incarnation Malleation deals X damage to each opponent. You get X {P} (prism counters). X is equal to the number of creatures you control with counters on them.</text>
+    </card>
+    <card>
+      <name>UM15 Voidseep Behemoth</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Voidseep Behemoth attacks, it gets +X/+X until end of turn, where X is the number of additional costs you’ve paid this turn. Then if its power is 7 or greater, it gains trample and deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>UM17 Equine Combatant</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{W}: Target creature you control gets +0/+1 until end of turn. Put a stun counter on it.
+{R}: Target creature you control gets +1/+0 until end of turn. Put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>UM19 Mightflow Improver</name>
+      <set rarity="uncommon">ROU</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mightflow Improver enters with a +1/+1 counter.
+{T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CW06 Stalwart Librarian</name>
+      <set rarity="common">ROU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your second card each turn, put a +1/+1 counter on Stalwart Librarian.</text>
+    </card>
+    <card>
+      <name>RB03 Amorphous Wish</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may reveal a Shapeshifter card from your sideboard and put it into your hand.</text>
+    </card>
+    <card>
+      <name>RM07 Areneloth, Creative Transcendant</name>
+      <set rarity="rare">ROU</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UURR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Transmortal Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Areneloth, Creative Transcendant enters, draw a card for each permanent you control with a counter on it, then discard a card for each nonland permanent you control without a counter on it.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Prism Reminder</name>
+      <set>ROU</set>
+      <prop>
+        <colors></colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast copies of these sorceries from the command zone by paying their respective costs.
+-
+Chromatica 1P
+Add one mana of any color.
+-
+Spiraling Light 2PP
+Put a +1/+1 counter and a changeling counter on target creature.
+-
+Spiraling Darkness 4PPPP
+Draw a card.</text>
+      <token>1</token>
+      <reverse-related>CW03 Prism-Eyed Familiar</reverse-related>
+      <reverse-related>CW05 Death Trainee</reverse-related>
+      <reverse-related>CW07 Cart Horse</reverse-related>
+      <reverse-related>CW12 Prismic Pearl Entity</reverse-related>
+      <reverse-related>CW18 Prismic Purification</reverse-related>
+      <reverse-related>UW07 Prismatic Angel</reverse-related>
+      <reverse-related>UW08 Ultrapearl Guardian</reverse-related>
+      <reverse-related>UW09 Piercelight Smashing</reverse-related>
+      <reverse-related>UW10 Prismic Alliance</reverse-related>
+      <reverse-related>CU03 Manachain Seer</reverse-related>
+      <reverse-related>CU09 Prismic Sapphire Entity</reverse-related>
+      <reverse-related>CU10 Fishy Thing</reverse-related>
+      <reverse-related>CU11 Antipurity Force</reverse-related>
+      <reverse-related>CU13 Comfortable Stasis</reverse-related>
+      <reverse-related>CU14 Studificate</reverse-related>
+      <reverse-related>CU17 Varying Skills</reverse-related>
+      <reverse-related>MU01 The Visiting Balancer</reverse-related>
+      <reverse-related>UU02 Death Analyzer</reverse-related>
+      <reverse-related>UU06 Clock Thing</reverse-related>
+      <reverse-related>UU07 Ultrasapphire Guardian</reverse-related>
+      <reverse-related>UU08 Great Prismification</reverse-related>
+      <reverse-related>CB02 Lightvoid Vermin</reverse-related>
+      <reverse-related>CB08 Warped Chromageist</reverse-related>
+      <reverse-related>CB10 Prismic Jet Entity</reverse-related>
+      <reverse-related>CB15 Prismic Blood Rites</reverse-related>
+      <reverse-related>CB17 Lightrot Thoughts</reverse-related>
+      <reverse-related>UB07 Ultrajet Guardian</reverse-related>
+      <reverse-related>UB08 Rotting Prismtheft</reverse-related>
+      <reverse-related>CR04 Trophy Hunter</reverse-related>
+      <reverse-related>CR06 Manachain Wurm</reverse-related>
+      <reverse-related>CR08 Flaming Charger</reverse-related>
+      <reverse-related>CR10 Prismic Ruby Entity</reverse-related>
+      <reverse-related>CR11 Firelight Blast</reverse-related>
+      <reverse-related>CR17 Lightning Shatter</reverse-related>
+      <reverse-related>CR18 Library Stockpile</reverse-related>
+      <reverse-related>RR02 Prism Hoard</reverse-related>
+      <reverse-related>UR07 Ultraruby Guardian</reverse-related>
+      <reverse-related>CG02 Prismwood Tusker</reverse-related>
+      <reverse-related>CG03 Druid of the Prismwood</reverse-related>
+      <reverse-related>CG07 Great Lightbeast</reverse-related>
+      <reverse-related>CG11 Prismic Emerald Entity</reverse-related>
+      <reverse-related>CG12 Prismclaim Battle</reverse-related>
+      <reverse-related>CG15 Prismic Might</reverse-related>
+      <reverse-related>CG16 Prismic Reclamation</reverse-related>
+      <reverse-related>CG17 Extreme Wildgrowth</reverse-related>
+      <reverse-related>UG04 Lightblossom Hamadryad</reverse-related>
+      <reverse-related>UG06 Ultraemerald Guardian</reverse-related>
+      <reverse-related>UG07 Crusher of Men</reverse-related>
+      <reverse-related>RM04 The Ultraprism Regent</reverse-related>
+      <reverse-related>UM02 Archive Enforcer</reverse-related>
+      <reverse-related>UM08 Prismatic Blessing</reverse-related>
+      <reverse-related>UM14 Incarnation Malleation</reverse-related>
+      <reverse-related>CA01 Ultraprismite</reverse-related>
+      <reverse-related>CA03 Prismic Vessel</reverse-related>
+      <reverse-related>MA01 The Ultraprism</reverse-related>
+      <reverse-related>RA04 Font of Prisms</reverse-related>
+      <reverse-related>UA04 Prismic Core</reverse-related>
+      <reverse-related>UA05 Prismatic Wellspring</reverse-related>
+      <reverse-related>CL11 Lighthouse of Frost</reverse-related>
+      <reverse-related>CL12 Lighthouse of Darkness</reverse-related>
+      <reverse-related>CL13 Lighthouse of Blood</reverse-related>
+      <reverse-related>CL14 Lighthouse of Fire</reverse-related>
+      <reverse-related>CL15 Lighthouse of Life</reverse-related>
+      <reverse-related>CL16 Lighthouse of Bone</reverse-related>
+      <reverse-related>CL17 Lighthouse of Thunder</reverse-related>
+      <reverse-related>CL18 Lighthouse of Death</reverse-related>
+      <reverse-related>CL19 Lighthouse of Light</reverse-related>
+      <reverse-related>CL20 Lighthouse of Water</reverse-related>
+      <reverse-related>RL01 Ultraprismatic Vista</reverse-related>
+    </card>
+    <card>
+      <name>Spirit Token</name>
+      <set>ROU</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CW08 Chromageist Lightcaller</reverse-related>
+      <reverse-related>CW12 Prismic Pearl Entity</reverse-related>
+      <reverse-related>CG01 Lively Chromageist</reverse-related>
+    </card>
+    <card>
+      <name>Frog Token</name>
+      <set>ROU</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CC04 Burning Lightform</reverse-related>
+      <reverse-related>CU04 Fearful Fisherman</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>ROU</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>MC05 Prismatic Wedge</reverse-related>
+      <reverse-related>CR04 Trophy Hunter</reverse-related>
+    </card>
+    <card>
+      <name>Rat Token</name>
+      <set>ROU</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>RM03 The Chittering Voice</reverse-related>
+    </card>
+    <card>
+      <name>Buff Aura</name>
+      <set>ROU</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1.</text>
+      <token>1</token>
+      <reverse-related>CC05 Glimmering Lightform</reverse-related>
+    </card>
+    <card>
+      <name>Nontargeted Aura</name>
+      <set>ROU</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchanted creature gets -2/-2.</text>
+      <token>1</token>
+      <reverse-related>RB06 Mysterious Parasitism</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
