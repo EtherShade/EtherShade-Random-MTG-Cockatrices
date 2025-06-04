@@ -1104,7 +1104,7 @@ Draw two cards. You get PP (two prism counters).</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put two target creature cards from your graveyard on the top of your library.
+      <text>Put up to two target creature cards from your graveyard on the top of your library.
 Draw a card.</text>
     </card>
     <card>
@@ -1158,7 +1158,7 @@ Draw a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Each opponent’s maximum hand size is decreased by seven.
-Whenever an opponent discards a card, they lose 1 life.</text>
+Whenever an opponent discards a card, Imperfection deals 1 damage to them.</text>
     </card>
     <card>
       <name>RM08 Raktro Voidlistener</name>
@@ -1882,7 +1882,7 @@ Enchanted creature gets +3/+4 and has trample.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Bestow 5G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
-Enchanted creatures you control get +3/+3.</text>
+Enchanted creature gets +3/+3.</text>
     </card>
     <card>
       <name>CG10 Mightflow Tusker</name>
@@ -1944,8 +1944,8 @@ Target creature you control fights target creature. You get PP (two prism counte
       <set rarity="common">ROU</set>
       <prop>
         <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
       </prop>
@@ -2067,8 +2067,8 @@ Whenever Crusher of Men deals fatal damage to a creature, you get PPPP (four pri
         <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bestow 3G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
-Enchanted creature gets +4/+2.</text>
+      <text>Bestow 6G (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Enchanted creatures you control get +4/+2.</text>
     </card>
     <card>
       <name>UG04 Lightblossom Hamadryad</name>
@@ -2187,7 +2187,7 @@ Whenever another creature you control becomes the target of a spell or ability, 
       <text>Bestow 3GW (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
 Enchanted creatures gains the following abilities.
 Vigilance
-Enchanted creatures you control get +2/+1.
+Enchanted creatures you control get +1/+0.
 Other Spirits you control get +0/+1.</text>
     </card>
     <card>
@@ -3482,7 +3482,6 @@ I, II — {U} —
 Draw a card.
 III — {B} —
 Conjure a card named Shapeshifter Spawn onto the battlefield under your control.</text>
-      <related persistent="persistent">CB01 Shapeshifter Spawn</related>
     </card>
     <card>
       <name>CB01 Shapeshifter Spawn</name>
@@ -3649,7 +3648,6 @@ When Archive Naysayer enters, choose one —
       </prop>
       <tablerow>3</tablerow>
       <text>Conjure three cards named Shapeshifter Spawn onto the battlefield under your control.</text>
-      <related persistent="persistent">CB01 Shapeshifter Spawn</related>
     </card>
     <card>
       <name>UM05 Rataclysm</name>
@@ -3807,6 +3805,71 @@ Ward—Pay 4 life or sacrifice an enchantment. (Whenever this creature becomes t
       </prop>
       <tablerow>2</tablerow>
       <text>When Areneloth, Creative Transcendant enters, draw a card for each permanent you control with a counter on it, then discard a card for each nonland permanent you control without a counter on it.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ROU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
     </card>
 
     <!-->Tokens</-->
