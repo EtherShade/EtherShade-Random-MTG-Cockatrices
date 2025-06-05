@@ -36,7 +36,7 @@ You may spend mana to pay mana costs as if that mana can pay for those mana cost
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {B} —
 Put a lifelink counter on a spell or creature you control.
@@ -462,7 +462,7 @@ Enchanted creatures you control get +1/+1.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Whenever an opponent draws a card, that player may pay {2}. If they don’t, draw a card.</text>
+Whenever an opponent draws a card, that player may pay {2}. If they don’t, you may draw a card.</text>
     </card>
     <card>
       <name>UW07 Prismatic Angel</name>
@@ -1664,7 +1664,7 @@ When Manachain Wrecker enters, add one mana of any color.
         <cmc>3</cmc>
         <type>Creature - Human Berserker Wizard </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Book Burner enters, draw a card.
@@ -2036,10 +2036,10 @@ Whenever Crusher of Men deals fatal damage to a creature, you get PPPP (four pri
         <cmc>5</cmc>
         <type>Legendary Creature - Avatar Shaman </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Lemira, Mightflow Progenitor enters, proliferate seven times. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+      <text>When Lemira, Mightflow Progenitor enters, proliferate three times. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
     </card>
     <card>
       <name>UG01 Voidrot Resummoner</name>
@@ -2447,7 +2447,7 @@ Ultraprismite Bruteling can’t be blocked by creatures without haste.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — (This spell gains effects based on the sources and colors of mana spent to cast it.)
 Creaturize. (Create a token that’s a copy of this, except it’s a creature.)
 Basic {C} —
@@ -2495,7 +2495,7 @@ At the beginning of your end step, if you control five or more creatures that ar
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {U} —
 Each player shuffles their hand and graveyard into their library.
@@ -2615,7 +2615,7 @@ Equip 2B</text>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — Tales of the Fae gains “{T}: Add {C}.”
 II — You may reveal an enchantment card you own from outside the game and put it on top of your library.
 III — Search your library for an enchantment card with mana value 1, put it onto the battlefield, then shuffle.</text>
@@ -2645,7 +2645,7 @@ Equip {4}</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: Double the amount of each type of unspent mana you have.</text>
+      <text>{2}, {T}: Double the amount of each type of unspent mana you have.</text>
     </card>
     <card>
       <name>RG03 Prismwood Caretaker</name>
@@ -3411,7 +3411,7 @@ Each player draws a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {W} —
 Destroy all creatures.
@@ -3428,7 +3428,7 @@ III — Each player returns a creature card from that player’s graveyard to th
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {B} — Each player loses a third of their life, then discards a third of the cards in their hand, then sacrifices a third of the creatures they control of their choice, then sacrifices a third of the lands they control of their choice. Round up each time.
 III — Each player loses 1 life, discards a card, sacrifices a creature of their choice, then sacrifices a land of their choice.</text>
@@ -3444,7 +3444,7 @@ III — Each player loses 1 life, discards a card, sacrifices a creature of thei
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {R} — This turn, players may cast spells they own exiled with cards named Prismatic Button.
 III — Each player exiles the top seven cards of their library.</text>
@@ -3460,7 +3460,7 @@ III — Each player exiles the top seven cards of their library.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {G} — Each player draws X cards, where X is the greatest power among creatures.
 III — Each player creates X Treasure tokens, where X is the greatest power among creatures.</text>
@@ -3476,7 +3476,7 @@ III — Each player creates X Treasure tokens, where X is the greatest power amo
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {U} —
 Draw a card.
@@ -3508,7 +3508,7 @@ Conjure a card named Shapeshifter Spawn onto the battlefield under your control.
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I — {R} —
 Create a 0/1 blue Frog creature token. Put a +1/+1 counter or a prowess counter on it.
@@ -3526,7 +3526,7 @@ Proliferate. (Choose any number of permanents and/or players, then give each ano
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I, II — {G} —
 Create a green Aura enchantment token with enchant creature and “Enchanted creature gets +1/+1.”
@@ -3544,7 +3544,7 @@ Create a token that’s a copy of a token you control.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I — {W} —
 Exile target creature or enchantment, then return it to the battlefield under your control.
@@ -3562,7 +3562,7 @@ Until end of turn, target creature or enchantment gains “When this permanent d
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I — {U} —
 Move any number of counters from a permanent you control to another permanent.
@@ -3579,7 +3579,7 @@ II, III — {R} — Each player proliferates. (To proliferate, choose any number
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 As an additional cost to cast this spell, sacrifice a creature.
 I — {B} —
@@ -3598,7 +3598,7 @@ You gain life equal to the sacrificed creature’s power. If you’ve gained 4 o
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I — {R} — Target creature gets +1/+0 and gains first strike until end of turn.
 II, III — {W} — Target creature gets +1/+0 and gains first strike until end of turn. If it already has first strike, it gains double strike until end of turn.</text>
@@ -3614,7 +3614,7 @@ II, III — {W} — Target creature gets +1/+0 and gains first strike until end 
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 (This spell gains effects based on the sources and colors of mana spent to cast it.)
 I — {G} — Proliferate. Surveil 1. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
 II, III — {U} — Proliferate. Scry 1. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
