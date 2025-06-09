@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ROG</name>
+      <longname>Realm of the Games</longname>
+      <settype>ESC</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>UW12 Arkira, Whiteflame Warrior</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Planeswalker - Arkira </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control enter with an additional +1/+1 counter.
+[-2]: Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>MM02 The Balancer&apos;s Multiplicity</name>
+      <set rarity="mythic">ROG</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for any number of Balancer planeswalker cards, reveal them, put them into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>MM01 The True Puppeteer</name>
+      <set rarity="mythic">ROG</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Puppeteer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, choose one —
+• Until the start of your next turn, spells cost 1 less to cast.
+• Until the start of your next turn, spells cost 1 more to cast.
+[+1]: Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+[-3]: Exile target creature until its owner casts their third spell in a turn.</text>
+    </card>
+    <card>
+      <name>RM01 Ghaster, Spiteful Judge</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Demon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+If a creature would get -1/-1 until end of turn, instead put a -1/-1 counter on that creature.</text>
+    </card>
+    <card>
+      <name>RM02 Klaus, Scorned Brother</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice five nonland permanents.
+Trample</text>
+    </card>
+    <card>
+      <name>RU05 Copy Skillset</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Copy Skillset enters, choose a card name.
+Whenever an opponent activates a non-mana ability of a permanent with the chosen name, you may copy that ability. You may choose new targets for the copy. </text>
+    </card>
+    <card>
+      <name>CW03 Tournament of Loyalty</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+III, IV — Create a 1/1 colorless Servo  artifact creature token.
+​
+​</text>
+    </card>
+    <card>
+      <name>CW01 Feline Hunter</name>
+      <set rarity="common" splitterPath="/CW01 Feline Hunter.png" >ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Duality 2W (If you cast this spell for its duality cost, when you cast it, copy its other face. You may cast the copy without paying its mana cost.)
+Lifelink
+---
+(Back): Avian Escapee</text>
+      <related attach="transform">Avian Escapee</related>
+    </card>
+    <card>
+      <name>Avian Escapee</name>
+      <set rarity="common" splitterPath="/Avian Escapee.png" >ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird </type>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+---
+(Front): CW01 Feline Hunter</text>
+      <related attach="transform">CW01 Feline Hunter</related>
+    </card>
+    <card>
+      <name>RU04 Mana Leech</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell’s mana value minus 2.</text>
+    </card>
+    <card>
+      <name>CW16 Kinship from Hardship</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each of up to two target creatures with the same mana value.</text>
+    </card>
+    <card>
+      <name>CW02 Team Player</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Team Player gets +1/+1 as long as you control three or more creatures.</text>
+    </card>
+    <card>
+      <name>CW04 Registration Automaton</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters, you gain 1 life. If it wasn’t cast from your hand, you gain 3 life instead.</text>
+    </card>
+    <card>
+      <name>CW05 Ambitious Contestant</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Conquer — Whenever you attack a permanent, Ambitious Contestant gets +0/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW06 Stranded Familiar</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stranded Familiar enters, draw a card. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>RL01 The Beacon of the Games</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Whenever you cast a planeswalker or battle spell, you gain 1 life.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast planeswalker or battle spells.</text>
+    </card>
+    <card>
+      <name>CU01 Oracle of the Games</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oracle of the Games enters, reveal the top two cards of your library. You may cast one of them. Put the rest back on top in any order.</text>
+    </card>
+    <card>
+      <name>CR02 Falsely Destined Champion</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Falsely Destined Champion enters, if it wasn’t cast from your hand, it deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CB17 Gannam&apos;s Mind Plague</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 1 life.
+Each player with more than four cards in hand discards cards equal to the difference.</text>
+    </card>
+    <card>
+      <name>UR10 Maddening Pursuit</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you discard Maddening Pursuit, you may cast it from your graveyard this turn.
+Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>UW13 Veletir, Hand of Order</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Veletir </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a player attacks you, draw a card.
+[-2]: Each player draws two cards.</text>
+    </card>
+    <card>
+      <name>CU04 Opinionated Theorycrafter</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would draw a card from an empty library, skip that draw instead.
+Opinionated Theorycrafter gets +3/+3 as long as your library has no cards in it.</text>
+    </card>
+    <card>
+      <name>UW01 Organized Theorist</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would draw a card from an empty library, skip that draw instead.
+Creatures you control get +1/+1 as long as your library has no cards in it.</text>
+    </card>
+    <card>
+      <name>CW14 Safety Capsule</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Cleave 3W (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+When Safety Capsule enters the battlefield, exile target nonland permanent [you control] until Safety Capsule leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>CW17 Improvised Equipment</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Improvised Equipment enters, destroy target artifact or enchantment. If you controlled it, draw a card.
+Equipped creature gets +2/+2.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>CU14 Research Bubble</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+{U}, Exile Research Bubble from your hand: You gain hexproof until end of turn. You may cast Research Bubble as long as it remains in exile.</text>
+    </card>
+    <card>
+      <name>CG15 Ambitious Revival</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Put target card from your graveyard on top of your library.</text>
+    </card>
+    <card>
+      <name>CW10 Game Enforcers</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Game Enforcers enters, you may put a card named Game Enforcers from your hand onto the battlefield. If you didn’t put a card onto the battlefield this way, put two  +1/+1 counters on Game Enforcers.
+A deck can have any number of cards named Game Enforcers.</text>
+    </card>
+    <card>
+      <name>CW08 Skilled Competitor</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Strategic (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>CW09 Amnesic Contestant</name>
+      <set rarity="common" splitterPath="/CW09 Amnesic Contestant.png" >ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Duality 5WW (If you cast this spell for its duality cost, when you cast it, copy its other face. You may cast the copy without paying its mana cost.)
+Amnesic Contestant gets +1/+1 if you control an enchantment.
+---
+(Back): Contestant&apos;s Memories</text>
+      <related attach="transform">Contestant&apos;s Memories</related>
+    </card>
+    <card>
+      <name>Contestant&apos;s Memories</name>
+      <set rarity="common" splitterPath="/Contestant's Memories.png" >ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Avatar Warrior </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+---
+(Front): CW09 Amnesic Contestant</text>
+      <related attach="transform">CW09 Amnesic Contestant</related>
+    </card>
+    <card>
+      <name>CB07 Strategic Saboteur</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Strategic (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Whenever one or more creatures die, you gain 1 life and target opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CU18 Tournament of Knowledge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+III, IV — Tap target creature. Put a stun counter on it.
+Draw a card.
+​</text>
+    </card>
+    <card>
+      <name>CR15 Tournament of Courage</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+III, IV — Exile the top card of your library. You may play it until end of turn.
+​
+​</text>
+    </card>
+    <card>
+      <name>CW13 Arkira&apos;s Purification</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Arkira’s Purification deals 3 damage to target attacking or blocking creature. Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CW15 Veletir&apos;s Banishment</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target planeswalker or tapped creature. Each player draws a card.</text>
+    </card>
+    <card>
+      <name>CG02 Druid of Instinct</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>UR12 Raphael, Carnelian Flare</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Raphael </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Conquer —Whenever you attack a permanent, Raphael, Carnelian Flare deals 3 damage to that permanent’s controller.
+[-2]: Raphael, Carnelian Flare deals 1 damage to any target. Then repeat this process for each planeswalker and each tapped creature and you control.</text>
+    </card>
+    <card>
+      <name>UR13 Shaena, Bolt of Chaos</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Shaena </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with haste get +1/+1.
+[-2]: Target creature you control gets +1/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CG07 Tournament of Strength</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+III, IV — Create a 2/1 colorless Human creature token with Strategic. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+​
+​</text>
+    </card>
+    <card>
+      <name>UU13 Layna, Edge of Knowledge</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Layna </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a source you control deals combat damage to a player or noncreature permanent, draw a card.
+[-2]: Target creature you control gains Strategic until end of turn. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>CB16 Tournament of Persistence</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>2</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+III, IV — Return target creature card from your graveyard to your hand.
+​
+​</text>
+    </card>
+    <card>
+      <name>UU12 Esra, Azure Blaze</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Esra </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may activate loyalty abilities of planeswalkers you control on any player’s turn any time you could cast an instant.
+[-2]: Target spell you control gains rebound until end of turn. (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>CG09 Venom-Edge Blademaster</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When you cast this spell, create a 2/1 colorless Human creature token with Strategic. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>CR01 Eager Contestant</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Eager Contestant dies, create a 1/1 colorless Servo artifact creature token.</text>
+    </card>
+    <card>
+      <name>RM03 Pentafold Ignition</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your deck for up to five Arkira, Esra, Spinel, Raphael, and/or Therum planeswalker cards, reveal them, and put them into your hand.</text>
+    </card>
+    <card>
+      <name>UG12 Therum, Emerald Flame</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Therum </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control enters that has power or toughness 4 or greater, put a +1/+1 counter on target creature.
+[-3]: Adjust twice. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>UG13 Grefar, Commander of Masses</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Grefar </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, create a 2/1 colorless Human creature token with Strategic. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+[-2]: Target creature gets +X/+X until end of turn, where X is the greatest power among creatures you control minus that creature’s power.</text>
+    </card>
+    <card>
+      <name>UB13 Gannam, Seeker of Power</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Gannam </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>7</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player’s maximum hand size is reduced by three.
+[-3]: Gannam, Seeker of Power deals damage equal to the number of loyalty counters on it to target creature, planeswalker, or battle.</text>
+    </card>
+    <card>
+      <name>UB12 Spinel, Obsidian Pyre</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Spinel </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control deals combat damage to a player, Spinel, Obsidian Pyre deals 2 damage to target creature, planeswalker, or battle.
+[-2]: Remove any number of counters from permanents you control. Spinel, Obsidian Pyre deals damage equal to the number of counters removed this way among any number of target creatures, planeswalkers, or battles.</text>
+    </card>
+    <card>
+      <name>CU11 Esra&apos;s Reversal</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1U (You may pay an additional 1U as you cast this spell.)
+Counter target spell. If this spell was kicked, you gain control of that spell instead and you may choose new targets for it.</text>
+    </card>
+    <card>
+      <name>CU17 Layna&apos;s Curiosity</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has strategic and “Whenever this creature deals combat damage to a player, draw a card. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>CB11 Spinel&apos;s Backstab</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CR11 Raphael&apos;s Inferno</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Raphael’s Inferno deals 3 damage to any target.
+• Raphael’s Inferno deals 1 damage to target creature and 2 damage to another target creature.</text>
+    </card>
+    <card>
+      <name>CR12 Contested Conflagration</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Contested Conflagration deals 5 damage to target creature and 2 damage to up to one target planeswalker or battle.</text>
+    </card>
+    <card>
+      <name>CR17 Shaena&apos;s Luck</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to two target creatures get +1/+0 and gain haste until end of turn.
+{R}, Exile Shaena’s Luck from your graveyard: Target creature gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG08 Therum&apos;s Sentinel</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Therum’s Sentinel dies, adjust twice. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CG13 Grefar&apos;s Might</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+2 until end of turn. Double its power until end of turn.</text>
+    </card>
+    <card>
+      <name>UU08 Cacophony of Knowledge</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2, then draw a card.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>UU09 Efficient Denial</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Counter target spell unless its controller pays {X}.</text>
+    </card>
+    <card>
+      <name>UB02 Bloody Imitator</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Bloody Imitator enter as a copy of another creature, except it’s still a Shapeshifter. When you do, you lose life equal to that creature’s mana value.</text>
+    </card>
+    <card>
+      <name>UB01 Third Death Ghoul</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth -1/-1 (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>RB05 Nonexistent Stab</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You can’t cast Nonexistent Stab from your hand.
+Each opponent loses 3 life.
+1B, Put this card from your graveyard onto the bottom of your library: Each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>UG05 Scaling Imitator</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Scaling Imitator enter as a copy of another creature, except it’s a 5/5 Shapeshifter in addition to its other types.</text>
+    </card>
+    <card>
+      <name>RU06 Return Again</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of permanents you control, then return them to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>UR08 Ruination</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Ruination deals 4 damage to target creature, planeswalker, or battle.
+• Destroy target artifact.
+Ruination deals 2 damage to you.</text>
+    </card>
+    <card>
+      <name>CG17 Echoing Worlds</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>RL02 Puzzling Wilds</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{5}, {T}, Sacrifice Puzzling Wilds: Discover 4. Activate only as a sorcery. (To discover 4, exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>RG04 Spawning Rites</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, if you control a creature, look at the top ten cards of your library. Then you may sacrifice a creature. If you do, you may put a creature card with mana value X or less from among those cards onto the battlefield, where X is 1 plus the sacrificed creature’s mana value. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>RW05 Puppeteer&apos;s Scorn</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target triggered ability.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>RG05 Balancer&apos;s Solution</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target activated ability.
+Cycling {1} ({1}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>RA01 Mirrored Room</name>
+      <set rarity="rare" splitterPath="/RA01 Mirrored Room.png" >ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Duality {3} (If you cast this spell for its duality cost, when you cast it, copy its other face. You may cast the copy without paying its mana cost.)
+The “legend rule” doesn’t apply.
+---
+(Back): Mirrored Box</text>
+      <related attach="transform">Mirrored Box</related>
+    </card>
+    <card>
+      <name>Mirrored Box</name>
+      <set rarity="rare" splitterPath="/Mirrored Box.png" >ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Legendary permanents have ward {2}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Legendary spells have spellward {2}. (Whenever this spell becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+---
+(Front): RA01 Mirrored Room</text>
+      <related attach="transform">RA01 Mirrored Room</related>
+    </card>
+    <card>
+      <name>RU07 Echotwiddle</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap or untap target permanent.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>RC01 Freedom from the Games</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Freedom from the Games enters with two freedom counters.
+{1}: Tap enchanted creature.
+{1}, Remove a freedom counter from Freedom from the Games: Untap enchanted creature.</text>
+    </card>
+    <card>
+      <name>CW07 Tournament Tinkerer</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Tournament Tinkerer enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CW12 Quartz Judge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{1}: Look at the top card of your library.
+{W}: Mill a card. If it’s a planeswalker or battle card, create two 1/1 colorless Servo artifact creature tokens.</text>
+    </card>
+    <card>
+      <name>CG11 Emerald Judge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{1}: Look at the top card of your library.
+{G}: Mill a card. If it’s a creature card, put two +1/+1 counters on Emerald Judge.</text>
+    </card>
+    <card>
+      <name>CU09 Sapphire Judge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{1}: Look at the top card of your library.
+{U}: Mill a card. If it’s an instant or sorcery card, put a flying counter on target creature.</text>
+    </card>
+    <card>
+      <name>CB10 Onyx Judge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{1}: Look at the top card of your library.
+{B}: Mill a card. If it’s an enchantment card, create a 2/1 colorless Human creature token with strategic. (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>CR10 Ruby Judge</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+{1}: Look at the top card of your library.
+{R}: Mill a card. If it’s an artifact card, exile the top card of your library. You may play until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>CW11 Titan of the Contest</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Titan of the Contest attacks, exile target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>RB06 Shattered Sparkbox</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature leaves the battlefield, if it had counters on it, put those counters on Shattered Sparkbox.
+{T}: Move any number of counters from Shattered Sparkbox to target creature.</text>
+    </card>
+    <card>
+      <name>RB07 Intangible Assassin</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Avatar Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever a creature dies, if it had taken no damage this turn, you gain 1 life and each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>UR11 Tournament of Ruby</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+IV, V, VI — Discard a card, then draw a card.
+You may sacrifice an artifact. When you do, return target artifact card from your graveyard to the battlefield.
+​</text>
+    </card>
+    <card>
+      <name>CW18 One-Round Truce</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+2 until end of turn. Adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>UU11 Tournament of Sapphire</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+IV, V, VI — Mill a card, then draw a card.
+Until end of turn, whenever a creature you control deals combat damage to a player, surveil 1, then draw a card.
+​</text>
+    </card>
+    <card>
+      <name>UG11 Tournament of Emerald</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+IV, V — Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+VI — Target land becomes a 4/4 creature in addition to its other types. It gains haste until end of turn.
+Up to three target creatures get +X/+X until end of turn, where X is the number of basic lands you control.</text>
+    </card>
+    <card>
+      <name>Wastes</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>UB11 Tournament of Onyx</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+IV, V, VI — You may sacrifice a creature. When you do, draw two cards. If you didn’t draw any cards this way, target player draws a card and loses 2 life.
+Return target creature card from your graveyard to the battlefield.
+​</text>
+    </card>
+    <card>
+      <name>MM03 Embodiment of the Games</name>
+      <set rarity="mythic">ROG</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>5WUBRG</manacost>
+        <cmc>10</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Embodiment of the Games enters, reveal cards from the top of your library until you reveal ten nonland cards, then put the revealed cards into your hand.</text>
+    </card>
+    <card>
+      <name>UW11 Tournament of Quartz</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Battle - Tournament </type>
+        <maintype>Battle</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As a Tournament enters, choose an opponent to protect it. You and others can attack it. At the beginning of your precombat main phase, add a defense counter. Sacrifice after the final ability.)
+IV, V, VI — Creatures you control with power 2 or less gain lifelink and vigilance until end of turn.
+Creatures you control with power 2 or less can’t be blocked until end of turn.
+​</text>
+    </card>
+    <card>
+      <name>RU01 Sapphire Balancer</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create a 0/4 blue Wall artifact creature token. If you control another Balancer planeswalker, create two of those tokens instead.
+[-4]: Search your library for a Balancer planeswalker, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RW01 Quartz Balancer</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Adjust. If you control another Balancer planeswalker, proliferate instead. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+[-4]: Search your library for a Balancer planeswalker, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RB01 Onyx Balancer</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: You gain 2 life and each opponent loses 2 life. If you control another Balancer planeswalker, you gain 5 life and each opponent loses 5 life instead.
+[-4]: Search your library for a Balancer planeswalker, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RR01 Ruby Balancer</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Exile the top card of your library. If you control another Balancer planeswalker, exile the top two cards of your library instead. You may play a card exiled with Ruby Balancer this turn.
+[-4]: Search your library for a Balancer planeswalker, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RG01 Emerald Balancer</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Balancer </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Add G. If you control another Balancer planeswalker, add GGG instead.
+[-4]: Search your library for a Balancer planeswalker, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>CL01 Checkpoint of Frost</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Frost enters tapped.
+When Checkpoint of Frost enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>CL02 Checkpoint of Darkness</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Darkness enters tapped.
+When Checkpoint of Darkness enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>CL03 Checkpoint of Blood</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Blood enters tapped.
+When Checkpoint of Blood enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>CL04 Checkpoint of Fire</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Fire enters tapped.
+When Checkpoint of Fire enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>CL05 Checkpoint of Life</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Life enters tapped.
+When Checkpoint of Life enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>CL06 Checkpoint of Bone</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Bone enters tapped.
+When Checkpoint of Bone enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>CL07 Checkpoint of Thunder</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Thunder enters tapped.
+When Checkpoint of Thunder enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>CL08 Checkpoint of Death</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Death enters tapped.
+When Checkpoint of Death enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>CL09 Checkpoint of Light</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Light enters tapped.
+When Checkpoint of Light enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>CL10 Checkpoint of Water</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Checkpoint of Water enters tapped.
+When Checkpoint of Water enters, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>CU02 Animated Arrow</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Animated Arrow deals combat damage to a player, adjust. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CU05 Plummeting Windmage</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Plummeting Windmage enters, put a +1/+1 counter on another target creature.</text>
+    </card>
+    <card>
+      <name>CU03 Sparkening Aspirant</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1UU: Draw a card. Activate only if a counter was put onto a permanent you control this turn.</text>
+    </card>
+    <card>
+      <name>RR04 Gamble Infinitum</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flip a coin. If you win the flip, Gamble Infinitum deals 2 damage to each opponent. Repeat this process until you lose the flip. When you lose the flip, Gamble Infinitum deals damage to you equal to the number of flips you won.</text>
+    </card>
+    <card>
+      <name>RR05 Firefall</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The next spell you cast this turn has cascade. (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Discover 6. (Exile cards from the top of your library until you exile a nonland card with mana value 6 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>CR05 Flameshot Archer</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from exile, Flameshot Archer deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>UG04 Challenge Tuner</name>
+      <set rarity="uncommon">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first time you would adjust each turn, adjust twice instead. (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CG04 Contestant Crusher</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Contestant Crusher enters with a +1/+1 counter.
+Whenever one or more counters are put on Contestant Crusher, it gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CB05 Ambitious Craftsman</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a counter is put onto Ambitious Craftsman, adjust. This ability triggers only once each turn.  (To adjust, choose a permanent. Remove a counter from it, put a counter on it of a kind already there, or move a counter from that permanent to another permanent controlled by the same player.)</text>
+    </card>
+    <card>
+      <name>CG03 Void Aspirant</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card leaves your graveyard, put a +1/+1 counter on Void Aspirant.</text>
+    </card>
+    <card>
+      <name>CU06 Voidcaller Contestant</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever a card leaves your graveyard, you may mill a card.</text>
+    </card>
+    <card>
+      <name>RG03 Supressed Leyline</name>
+      <set rarity="rare">ROG</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature is tapped for mana, add two additional mana of that type to your mana pool.</text>
+    </card>
+    <card>
+      <name>CR07 Flamestrike Challenger</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2R: Flamestrike Challenger deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CR03 Extreme Speedrunner</name>
+      <set rarity="common">ROG</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Extreme Speedrunner enters with a haste counter.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Servo</name>
+      <set>ROG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Servo </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human</name>
+      <set>ROG</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Strategic (Whenever a creature blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
